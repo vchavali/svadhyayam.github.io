@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+  </head>
+  <body>
+    {% include navigation.html %}
+    <div class="doubleColumn">
+   {{ content }}
+   </div>
+   <div id="footer">
+     <div class="footerCopyright">© 20{{ site.time | date: '%y' }} svadhayayam.net
+       by Pramod Chavali licensed under the &nbsp<a href="http://creativecommons.org/licenses/by-nc/4.0/">CC BY 4.0</a>.
+     </div>
+     <!-- div class="footerAttributions">Made with Jekyll; <br> theme based on <a href="https://github.com/fniessen/emacs-leuven-theme">emacs-leuven theme</a>.
+     </div>
+     <div style="clear: both"></div -->
+   </div>
+  </body>
+</html>

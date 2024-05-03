@@ -1,0 +1,163 @@
+@font-face {
+    font-family: Iosevka;
+    src: url(fonts/Iosevka-Regular.ttf);
+}
+@font-face {
+    font-family: Iosevka-Medium;
+    src: url(fonts/Iosevka-Medium.ttf);
+}
+@font-face {
+    font-family: Iosevka-Thin;
+    src: url(fonts/Iosevka-Thin.ttf);
+}
+@font-face {
+    font-family: NotoSansDevanagiri;
+    src: url(fonts/NotoSansDevanagari-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansDevanagiri-Thin;
+    src: url(fonts/NotoSansDevanagari-Thin.ttf);
+}
+
+body {
+    padding-left: 66px;
+    padding-right: 66px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    font-family: Iosevka, NotoSansDevanagiri;
+    font-size: 16px;
+    background: #f2e5bc;
+  // text-align: justify;
+   // text-justify: inter-word;
+}
+
+.doubleColumn {
+    column-count: 2;
+    column-gap: 10px;
+}
+
+.deva {
+    
+    font-family: NotoSansDevanagiri;
+}
+	 
+.current {
+    color: green;
+    display: none;
+}
+
+/*h3:before {
+    background: #FFFFFF;
+    color: #d3d3d3;
+    font-family: Iosevka-Thin;
+    content: "### "
+}*/
+h3{
+    display: table;
+   // background: #EFFFEF;
+    color: #1434A4;
+    text-align: left;
+    padding: 5px;
+    font-family: Iosevka, NotoSansDevanagiri;
+}
+
+h2 {
+ //   text-decoration-line: overline;
+//    text-decoration-color: #123555;
+    display: table;
+   // background: #E5F4FB;
+    color: #1434A4;
+    text-align: left;
+    padding: 5px;
+    font-family: Iosevka, NotoSansDevanagiri;
+
+}
+/* h2:before {
+    text-decoration-color: #FFFFFF;
+    background: #FFFFFF;
+    color:  #d3d3d3  ;
+    font-family: Iosevka-Thin;
+    content: "## "
+} */
+
+h1 {
+//    text-decoration-line: overline;
+//    text-decoration-color: #A7A7A7;
+    display: table;
+    text-align: left;
+		     
+   // background: #F0F0F0;
+   // color: #3C3C3C;
+    
+ //   color: #1434A4;
+    font-family: Iosevka-Medium, NotoSansDevanagiri;
+   // text-decoration-line: underline;
+}
+
+
+/* h1:before {
+    background: #FFFFFF;
+    color: #d3d3d3;
+    content: "# ";
+    font-family: Iosevka-Thin;
+}*/
+
+.quote {
+    color: #555555;
+    background: #FFFDD0; // #fff5bc
+    padding: 20px;
+    font-family: Iosevka, NotoSansDevanagiri;
+    font-size: 14px;
+    
+    border: solid;
+//    border-width: thin;
+  //  border-color: #ffeaaf;
+}
+
+.example {
+    // nil
+}
+
+
+code {
+    // background: #F7FDFF;
+    color: #0066CC;
+    padding: 2px;
+    font-size: 14px;
+    
+}
+
+.examplecaption {
+    font-style: italic;
+    font-size: 12px;
+    text-decoration: underline;
+    
+}
+
+.titlecaption {
+//    background: #F7FDFF;
+    color: #0066CC;
+    font-size: 14px;
+  //  font-weight: bold;
+    
+}
+
+a {
+    color: #000000;
+    text-decoration: none; //underline;
+ //   font-style: oblique;
+    font-family: Iosevka-Thin, NotoSansDevanagiri-Thin;
+}
+
+.footerCopyright {
+    float: right; // left;
+    text-justify: right;
+    font-size: 10px;
+    font-family: Iosevka, NotoSansDevanagiri;
+}
+
+.footerAttributions { 
+    float: left; //right;
+    font-size: 10px;
+    font-family: Iosevka, NotoSansDevanagiri;
+}

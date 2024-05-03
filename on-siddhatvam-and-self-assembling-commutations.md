@@ -1,0 +1,1 @@
+model a set of related prakriiya in a procedural way, then show how panini does this in terms of a set of computational primitives that self-assemble rather than being explicitly stitched together as in a main routine and its subroutines--can be compared to languages like Prolog where you just express definitions and the proof-solver strings them together
