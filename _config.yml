@@ -26,7 +26,6 @@ url: https://svadhyaya.github.io  # the base hostname and protocol for your site
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
 
