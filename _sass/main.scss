@@ -140,9 +140,16 @@ code {
 
 a {
     color: #000000;
-    text-decoration: none; //underline;
+    text-decoration: underline;
+    text-decoration-style: dotted;
  //   font-style: oblique;
-    font-family: Iosevka-Thin, NotoSansDevanagiri-Thin;
+}
+.navItem {
+    color: #000000;
+  //  font-family: Iosevka-Thin, NotoSansDevanagiri-Thin;
+    text-decoration: underline;
+    text-decoration-style: solid;
+		    
 }
 
 .footerCopyright {
