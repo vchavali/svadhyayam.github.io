@@ -30,10 +30,17 @@ But if someone happens to stumbles across this somehow: Welcome! I hope you find
 
 ### Recent Posts
 
-**05/2/24** [Homepage Translations](homepage_translations.html)
-
-**04/27/24** [I See What I Should Do: A Critique of Jaimini's Theory of Perception from Jayanta Bhaṭṭa's Nyāya Mañjarī ](jayanta_dharma_jnyaanam.html)
-
-**04/26/24** [The Analytical Framework of Navyanyāyaḥ ](the_analytical_framework_of_navyanyaya.html)
-
-
+<table>
+	<tr>
+		<td><b>05/2/24&nbsp;</b></td>
+		<td><a href="homepage_translations.html">Homepage Translations</a></td>
+	</tr>
+	<tr>
+		<td><b>04/27/24&nbsp;</b></td>
+		<td><a href="jayanta_dharma_jnyaanam.html">I See What I Should Do: Jayanta against Kumārila on the Possibility of Moral Knowledge</a></td>
+	</tr>
+	<tr>
+		<td><b>04/26/24&nbsp;</b></td>
+		<td><a href="the_analytical_framework_of_navyanyaya.html">The Analytical Framework of Navyanyāyaḥ</a></td>
+	</tr>
+</table>
