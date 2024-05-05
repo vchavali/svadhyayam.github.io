@@ -22,7 +22,7 @@ This is the online notebook of Pramod Chavali: a place to record my notes on wha
 न हि किञ्चिदपूर्वमत्र वाच्यं <br>
 &emsp; न च संग्रन्थनकौशलं ममास्ति । <br>
 अत एव न मे परार्थचिन्ता <br>
-&emsp; स्वमनो वासयितुं कृतं मयेदम् ॥ बोधिचर्यावतरः।१।२
+&emsp; स्वमनो वासयितुं कृतं मयेदम् ॥ बोधिचर्यावतारः।१।२
 </div>
 {: .quote}
 

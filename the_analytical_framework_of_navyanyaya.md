@@ -957,7 +957,7 @@ say that the sentence is *de re*, meaning that we first bind the
 variable to some individual and then apply the negation: "There is
 some *x* such that Rāma is not the descendent of *x*." 
 
-Naiyyāyikas call this negation 'prasajya pratiṣedhaḥ' [प्रसज्य प्रतिषेधः]
+Naiyyāyikas call this type of negation 'paryudāsaḥ' [पर्युदासः]
 
 Compare this to:
 
@@ -972,7 +972,7 @@ Here, the negation is outside the quantifier. We call this sentence *de
 dicto*, meaning that first the negation is applied before binding the
 variable 'x' to any particular individual: "There is no x such that Rāma is the descendent of *x*."
 
-Naiyyāyikas call this 'paryudāsaḥ' [पर्युदासः].
+Naiyyāyikas call this 'prasajya pratiṣedhaḥ' [प्रसज्य प्रतिषेधः].
 
 But, the logic of Navyanyāya is not quantificational. So, we need a
 different way to account for the ambiguity between the *de re* / प्रसज्य प्रतिषेध: and *de dicto* / पर्युदासः readings of the sentence in (7.2b).
