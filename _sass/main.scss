@@ -164,3 +164,20 @@ a {
     font-size: 10px;
     font-family: Iosevka, NotoSansDevanagiri;
 }
+
+.mdtable {
+    td {
+	padding-right: 10px;
+    }
+    thead {
+	text-align: left;
+    }
+    th {
+	padding-right: 10px;
+	border-bottom: 2px solid;
+    }
+
+    tbody {
+        border: 2px solid black;
+    }
+}

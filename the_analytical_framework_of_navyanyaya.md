@@ -955,9 +955,7 @@ Note, that (7.3b) does not contradict (7.4b) because the negation is
 *inside* the scope of the existential quantifier `∃`. In this case, we
 say that the sentence is *de re*, meaning that we first bind the
 variable to some individual and then apply the negation: "There is
-some *x* such that Rāma is not the descendent of *x*." 
-
-Naiyyāyikas call this type of negation 'paryudāsaḥ' [पर्युदासः]
+some *x* such that Rāma is not the descendent of *x*." Naiyyāyikas call this type of negation 'paryudāsaḥ' [पर्युदासः]
 
 Compare this to:
 
@@ -970,14 +968,11 @@ Example (7.4c)
 
 Here, the negation is outside the quantifier. We call this sentence *de
 dicto*, meaning that first the negation is applied before binding the
-variable 'x' to any particular individual: "There is no x such that Rāma is the descendent of *x*."
+variable 'x' to any particular individual: "There is no x such that Rāma is the descendent of *x*." Naiyyāyikas call this 'prasajya pratiṣedhaḥ' [प्रसज्य प्रतिषेधः].
 
-Naiyyāyikas call this 'prasajya pratiṣedhaḥ' [प्रसज्य प्रतिषेधः].
+To sum it up: On a quantificational understanding of this problem, the distintion between paryudāsaḥ (*de re*) and pratiṣedhaḥ (*de dicto*) negation arises because there is an implicit existential quantifier in the unnegated sentence, "Rāma is a descendent". So, depending on where the negation is placed with respect to the quantifier, we get a different reading of the sentence. But, the logic of Navyanyāya is not quantificational; so, we need a different way to account for the ambiguity between paryudāsaḥ and pratisedhaḥ negations. 
 
-But, the logic of Navyanyāya is not quantificational. So, we need a
-different way to account for the ambiguity between the *de re* / प्रसज्य प्रतिषेध: and *de dicto* / पर्युदासः readings of the sentence in (7.2b).
-
-Navyanaiyyāyikas call a type like `descendentτ` which generates a *de re* / *de dicto* distinction an 'unclarified type' (अनिरूपितधर्मः; anirūpitadharmaḥ).
+Navyanaiyyāyikas call types like `descendentτ`, which have "implicit quantifiers",  *unclarified types* (अनिरूपितधर्माः; anirūpitadharmāḥ).
 
 If a type `T` is unclarified, then there exists a *clarifying
 type* `C` (निरूपकधर्मः; nirūpakadharmaḥ) such that the
@@ -993,8 +988,8 @@ partitioning. If `C` clarifies `T`, then
 An example will probably help. Take the unclarified type
 `descendentτ`. It has a clarifying type
 `ancestorτ`. For every individual `d` such that
-`d: descendentτ`, there exists an individual `a`
-such that `a: ancestorτ`. In other words, you can't have a
+`d::descendentτ`, there exists an individual `a`
+such that `a::ancestorτ`. In other words, you can't have a
 descendent without some corresponding ancestor, and vice-a-versa.
 
 We express type clarification in the Navyanyāya framework via—you
@@ -1012,7 +1007,7 @@ There's an important relationship between clarification and partitioning
 that's worth discussing before we go further, because it's essential for
 understanding how the system works as whole. 
 
-Within the universe of Navya types, we can distinguish broadly between "analyzable" (sakhaṇḍaḥ) and "unanalyzable" (akhaṇḍaḥ) types. Among unanalyzable types, we can further distinguish between "positive" (bhāvāḥ) or (abhāvāḥ) types. Analyzable types can contain both positive and negative types in their definition, so they don't always fall neatly into either category. The difference between positive and negative types can be expressed in terms of a relationship between clarification and partitioning.
+Within the universe of Navya types, we can distinguish broadly between "analyzable" (sakhaṇḍaḥ) and "unanalyzable" (akhaṇḍaḥ) types. Among unanalyzable types, we can further distinguish between "positive" (bhāvāḥ) or "negative" (abhāvāḥ) types. Analyzable types can contain both positive and negative types in their definition, so they don't always fall neatly into either category. The difference between positive and negative types can be expressed in terms of a relationship between clarification and partitioning.
 
 Given any positive type `T` and any type `C`, if `Cξ Tσ` exists; then:
 
@@ -1024,13 +1019,13 @@ Given any positive type `T` and any type `C`, if `Cξ Tσ` exists; then:
 Example (7.5a)
 {: .examplecaption}
 
-In other words, partitioning the clarifier of a positive type gives you the clarifier of a partitioner of that type. Intuitively, subtying the clarifier gives you a subtype the unclarified type.
+In other words, partitioning the clarifier of a positive type gives you the clarifier of a partitioner of that type. Intuitively, subtying the clarifier gives you a subtype of the unclarified type.
 
 If, however, the unclarified type `T` is *negative*:
 
 <div>
 (Cξ Tσ)Θ = Tξ <br>
-(क।अवच्छिन्न ट।निरूपक)निरूपित: ट।अवच्छिन
+(क।अवच्छिन्न ट।निरूपक)निरूपित: ट।अवच्छिनः
 </div>
 {: .quote .example}
 Example (7.5b)
@@ -1038,10 +1033,9 @@ Example (7.5b)
 
 In other words, the subtyping relation is reversed when partitioning the clarifier of a negative type; i.e. subtyping the clarifier gives you a *supertype* of the unclarified type. 
 
-To see the point of this: think back to the initial ambiguity between *de re* and *de dicto* of sentential negation, that we opened this discussion with. If we interpret the negation operator as an unclarified type, then we can connect the positive/negative distinction to the *de re*/*de dicto* distinction. Namely, applying a positively signed negation operator will express a *de re* sentence and applying a negatively signed negation will express a *de dicto* one.
+To see the point of this: when we apply a positively signed operator to an unclarified type, clarification of its argument strengthens the assertion. But, if the operator is negatively signed, then clarifying its argument results a *weaker* assertion. Unless otherwise specified, we can assume that an unanalyzable type is positively signed. But, the default negation operator (as we'll see in a bit) has negative valence. This is why, removing information (ie. dropping the clarifier) from its argument, results in a *stronger* (more restrictive) assertion. 
 
-In general, we can assume that an unanalyzable type is positively signed, unless otherwise specified. With this, we can rewrite the original sentence "Rāma is Raghu's
-descendent" as:
+With the notion of clarification in hand, we can rewrite the original sentence "Rāma is Raghu's descendent" as:
 
 <div> 
 rāma :: (raghuη ancestorτ)Θ descendentτ <br>
@@ -1335,7 +1329,7 @@ rāme :: (descendent π)τκ ⊥ <br>
 Example (9.4.6)
 {: .examplecaption}
 
-Since this is a bit ugly. Naiyyāyikas will use the type `विशिष्टाभावः` [viśiṣṭābhāvaḥ] as a positive-valence negation type. Let's represent this with the symbol `!`.
+Since this is a bit ugly. Naiyyāyikas will use the type `विशिष्टाभावः` [viśiṣṭābhāvaḥ; "particularized negation"] as a positive-valence negation type. Let's represent this with the symbol `!`. In effect, this allows us to express पर्युदासः / *de re* negations.
 
 So, we can rewrite (9.4.6) as the much simpler:
 
@@ -1524,7 +1518,7 @@ sonτ = [Γ] maleτξ Γ:descendent:descendentτ⊥ξ Γ:descendentτ
 Example (10.2.8)
 {: .examplecaption}
 
-For brevity (and to try to match the sanskrit as closely as possible), if there the point of clarification in a construction is `Γ`, then the preceeding `[Γ]` can be dropped. Also, if there are no pronouns in the construction purely consists of a linear sequence of subordinations without any embedded appositional phrases (i.e. `a:b:c:...`), then the point of clarification is the inner-most (i.e. left-most) subordinate type.
+For brevity (and to try to match the sanskrit as closely as possible), if the the point of clarification within a phrase is `Γ`, then the preceeding `[Γ]` can be dropped. Also, if there are no pronouns in the construction then the type being clarified is the referrent of the head element (the right-hand element for both coordinate and subordinate phrases).
 
 One last bit on syntax related to anaphoric pronouns.
 
@@ -1546,7 +1540,7 @@ Example (10.2.9)
 A simple example of this is the following definition of `η` in terms of `ι`:
 
 <div> 
-ητ = (Γxι Γ; Γx)τ <br>
+Γητ = (Γxι Γ; Γx)τ <br>
 निष्ठ।त्चम्  (यद्।वद् इदम्; तत्)त्वम्
 </div>
 {: .quote .example}
@@ -1676,20 +1670,20 @@ Example (11.3.4)
 We can construct the negation of the co-realization relation in two different ways, via pure and co- negatives
 
 <div>
-¬∃  = ιητ⊥ <br>
+¬∃  = Γιητ⊥ <br>
 असामानाधिकण्यम् = तद्।वद्।वृत्त।त्व।अभावः <br> <br>
 
-¬∃ = ιητˉ <br>
+¬∃ = Γιητˉ <br>
 असामानाधिकण्यम् = तद्।वद्।वृत्त।त्व।भेदः
 </div>
 {: .quote .example}
 Example (11.3.5a-b)
 {: .examplecaption}
 
-The difference, if you recall from the negative type section, above, is that `⊥` can be realized incompletely in its basis (and therefore does not preclude `∃` from *also* occuring there); whereas `ˉ` *does*. In other words, it's the `de re` / `de dicto` distinction again. We want to negate on the *outside*, so we want:
+The difference, if you recall from the negative type section, above, is that `⊥` can be realized incompletely in its basis (and therefore does not preclude `∃` from *also* occuring there); whereas `ˉ` *does*. We want the second one. Adding in the inner negation, we can define the universal quantifier as:
 
 <div>
-∀  = ⊥ιητˉ <br>
+∀  = Γ⊥ιητˉ <br>
 अव्यभिचारः = तद्।अभाव।वद्।वृत्त।त्व।भेदः
 </div>
 {: .quote .example}
@@ -1706,11 +1700,23 @@ birdτ :: animalτ∀ <br>
 Example (11.3.6)
 {: .examplecaption}
 
-As a quick side note, the type `⊥ιητˉ` \ `तद्।अभाव।वद्।वृत्त।त्व।भेदः` has a special name: 'अव्यभिचारः' [avyabhicāraḥ] which translates as "regularity". 
+As a quick side note, the type `Γ⊥ιητˉ` \ `तद्।अभाव।वद्।वृत्त।त्व।भेदः` has a special name: 'अव्यभिचारः' [avyabhicāraḥ] which translates as "regularity". 
 
 This concept of regularity between types gives us a first-pass definition of a very special relation called 'pervasion' [व्याप्तिः; vyāptiḥ]. The pervasion relation is the relationship between types that allows for type-inference; i.e. the ability to infer the realization of a type at a basis based on prior knowledge of its realization of some other type. For example, inferring from "eagles are birds" to "eagles are animals" based on knowledge that being a bird entails being an animal. 
 
-Defining pervasion as regularity goes back a long way, arguably all the way back to Diṅnāga (~6th ce). But, a major insight of Navyanyāya was that if we permit incomplete realizations of types then this definition falls apart. Basically, getting the concept of entailment to work in a paraconsistent setting is tricky business, which is why Gaṅgeśa Mahopādhyāya fills up almost a whole volume  of the *Tatvacintāmaṇiḥ* (the "bible" of Navyanyāya) on just this problem.
+Defining pervasion as regularity goes back a long way, arguably all the way back to Diṅnāga (~6th ce). But, a major insight of Navyanyāya was that if we permit incomplete realization of types then this definition falls apart. Basically, getting the concept of entailment to work in a paraconsistent setting is tricky business, which is why Gaṅgeśa Mahopādhyāya fills up almost a whole volume  of the *Tatvacintāmaṇiḥ* (the "bible" of Navyanyāya) on just this problem.
+
+Lastly, a quick note on expressing generalizations vs partitioning, instead of negation:
+
+<div>
+birdτ animalτΞ <br>
+पक्षि।त्वं जन्तु।त्व।अवच्छेदकम्
+</div>
+{: .quote .example}
+Example (11.3.2)
+{: .examplecaption}
+
+That seems way easier, why didn't we just lead with that! Mainly because Naiyyāyikas think of negation as the more fundemental operation and understand partitioning in terms of it. So, I wanted to specifically bring out the role of negation in expressing generalizations within this framework.
 
 #### Stacked Quantifiers
 
@@ -1745,7 +1751,11 @@ What about universal quantification, as in (11.4.1b)? First, notice that there's
 
 The first order formulism can disambiguate these based on the order of the quantifiers: (a) `∀x∈people. ∃y. x descendant y` vs (b) `∃y. ∀x∈people. x descendant y`. 
 
-How does Navyanyāya go about dealing with this? For the *de dicto* option, we get it for free because `descendentτ` is a positive type. So, we express the universal quantification in exactly the same was as above:
+How does Navyanyāya go about dealing with this? At its heart, the idea is the same in both the Navya and the quantificational approach. We express complex ideas by building up a formula in layers, starting inside and working outward. The difference is, whereas the structural unit in quantificational logic expresses a proposition (when its open variables are bound); for Navyanyāya formulas, the structural unit expresses a type. 
+
+So, just as with, e.g., a first-order formula,  we build a Navya formula layer by layer, inside out, with the inner formula subordinated to the outer formula. The trick is that, at each layer, we have to be careful about the orientation of the type each formula expresses: what is its basis and what is its clarifier.
+
+For the case of binding `y` first and then `x`, the orientation of the type `descendentτ` is already appropriate. So, we can just translate this as:
 
 <div>
 personτ :: descendentτ∀ <br>
@@ -1755,180 +1765,89 @@ personτ :: descendentτ∀ <br>
 Example (11.4.3a)
 {: .examplecaption}
 
-How about the *de re* version? To do this, we just have to swap the direction of the assertion:
+
+How about when binding `x` first? We just have to swap the direction of the assertion, first we swap the direction of the type: `descendentτκ` [अपत्य|त्व|निरूपक], then we need to specify that its clarifier (`x`) is being universally quantified over. Putting this together, we get the type:
 
 <div>
-Γy :: (personτη Γ:descendentτ∀)κτ <br>
-तस्मि (जीव|त्व।निष्ठ तद्।अपत्य|त्व|अव्यभिचार)निरूपक।ता
+descendentτκτ!⊥ <br>
+अपत्य|त्व|निरूपक।ता।विशिष्टाभाव।अभावः
 </div>
 {: .quote .example}
 Example (11.4.3b)
 {: .examplecaption}
 
-Or, you can just cheat and use a demonstrative pronoun:
+Note, how we get the existential quantification over the basis (`y`) for free, since its implied by simply asserting that the type in (11.4.3b) is realized.
+
+What if we want to do the same thing, but also universally quantify over `y`? One thing about the Navya framework, is that you can't have a universal quantification without any domain restrictions. But, we can modify the original first-order formula a tiny bit: `∀x∈people. ∀y∈people. x descendant y`.
+
+This should be pretty straightforward, at this point:
 
 <div>
-personτ :: Δ:descendentτ∀ <br>
-जीव|त्वे तद्।अपत्य|त्व|अव्यभिचारः
-</div>
-{: .quote .example}
-Example (11.4.3bb)
-{: .examplecaption}
-
-Ok, but what if we want to have *two* universal quantifiers:
-
-<div>
-(every person) descendant (every person) <br>
-∀x∈people. ∀y∈people. x descendant y
+personτ :: descendentτ!⊥∀ <br>
+जीव|त्वे अपत्य|त्व|विशिष्टाभाव।अभाव।अव्यभिचारः
 </div>
 {: .quote .example}
 Example (11.4.4)
 {: .examplecaption}
 
-Sort of a silly thing to say, since it means everyone is everyone's descendent. Still, we can get part way there by noticing that this is the same as: 
-
-<div>
-∀x∈people. ¬(∃y∈people. ¬(x descendant y))
-</div>
-{: .quote .example}
-Example (11.4.5)
-{: .examplecaption}
-
-This reads something like: "for each person there is no one who they are not the descendent of".
-
-As we've already seem, we can express just the inner negation like this:
-
-<div>
-∀x∈people. ∃y∈people. ¬(x descendant y) <br>
-personτ :: ((decendent π)τκ ⊥)ατ∀ <br>
-जीव।त्वे ((अपत्य प्रतियोगि)ता।क अभाव)अनुयोगि।ता।अव्यभिचारः
-</div>
-{: .quote .example}
-Example (11.4.6)
-{: .examplecaption}
-
-Then, to get the outer negation, we just replace `∀` with `⊥`:
-
-<div>
-∀x∈people. ∀y∈people. x descendant y <br>
-personτ :: ((decendent π)τκ ⊥)ατ⊥ <br>
-जीव।त्वे ((अपत्य प्रतियोगि)ता।क अभाव)अनुयोगि।ता।अभावः
-</div>
-{: .quote .example}
-Example (11.4.6b)
-{: .examplecaption}
-
-Or, using `!` for the inner negation:
-
-<div>
-personτ :: decendentτ!⊥ <br>
-जीव।त्वे अपत्य।विशिष्टाभाव।अभावः
-</div>
-{: .quote .example}
-Example (11.4.6b)
-{: .examplecaption}
-
 #### 3+ Stacked Quantifiers
 
-Ok, but can this scale to three or more variables? For simplicity we'll just consider the case of a single three-place relation with a bunch of quantifiers stacked in front; rather, than some complicated formula with a bunch of nested propositions. Since, at least, all classical first-order formulas can be rewritten in prenex form, this still covers a large set of cases for translating formulas from quantificational logic to Navya assertions.
+Ok, but can this scale to three or more variables? For simplicity we'll just consider the case of a single three-place relation with a bunch of quantifiers stacked in front; rather, than some complicated formula with a bunch of nested propositions. Since all classical first-order formulas, at least, can be rewritten in prenex form, this still covers a large set of cases for translating formulas from quantificational logic to Navya assertions.
 
-As an example, consider the type of an assertion. This is a three-place relation with its two correlates corresponding to the type and basis of the assertion. The substrate of the assertion type is, of course, the particular assertion being described. Let's represent this with `Aτ`. So, the assertion, e.g., that "the sky is blue" is represented as:
+
+Now, given some triadic relation `R`, there are 48 (3! x 2<sup>3</sup>) different ways of quantifying over its three arguments, we're just going to pick one at random to give the gist of things.
+
+Let's say our formula is:
 
 <div>
-a = (s, b)A
+∀x∈X. ∃z. ∀y. R(x,y,z)
 </div>
 {: .quote .example}
 Example (11.5.1)
 {: .examplecaption}
 
-But, notice that much of the analytical tools deployed by Naiyyāyikas is designed for two-place relations. To levarage these tools, we need a way to represent a three-place relation like `A` in terms of two-place relations. Naiyyāyikas typically do this by breaking a single three-place relation into two-place relations. In the case of an assertion, we have the type `V` [विषयिता; viṣayitā] representing the subject of the assertion and the type `P` [प्रकारता; prakāratā] representing it's type.
+Note, that we have to restrict the domain of the outer-most universal quantification, as we discussed earlier; in this case by quantifying over some set of entites `X`. When translating this into the Navya assertion, we'll use `X` to represent the type that defines this set.
 
-So, Example (11.5.1) can be rewritten as:
+Now, how would we translate this into a Navya style formula? First, notice that much of the analytical tools deployed by Naiyyāyikas is designed for two-place relations. To levarage these tools, we need a way to represent a three-place relation like `R` in terms of two-place relations. 
+
+Naiyyāyikas typically do this by breaking a single three-place relation into a conjuction of two-place relations. 
+
+So, e.g., the relation `R(x,y,z)` asserted of could be written in terms of three seperate relations `S(x,y)`, `T(x,z)`, and `U(z,y)`. We could then represent the relation `R`, asserted between three items `x`, `y`, `z` with the Navya formula:
 
 <div>
-a :: sV bP
+x :: yS z(yUΘ T)
 </div>
 {: .quote .example}
 Example (11.5.2)
 {: .examplecaption}
 
-Except, this doesn't capture the relationship between `s` and `b`. For example, For instance, if the assertion (somehow) happened to involve two different subjects an two types, something like:
-
+Now, in order to introduce the quantifiers, we start with the inner formula:
 
 <div>
-a :: sV bP dV nV
+∃z. ∀y. R(x,y,z)
 </div>
 {: .quote .example}
-Example (11.5.2)
+Example (11.5.3a)
 {: .examplecaption}
 
-It isn't possible to say which `Vκ` goes with which `Pκ`. We can get around this by using the partioning operator as the 'binder' of the corresponding `V` and `P` types:
+We can translate this into the Navyanyāya language as:
 
 <div>
-a :: b(sVξ P)
+z :: U!⊥
 </div>
 {: .quote .example}
-Example (11.5.3)
+Example (11.5.3b)
 {: .examplecaption}
 
-
-Now, since they're are 48 (= 3! x 2^3) different ways of quantifying over three variables, accounting for type and order of quantifiers, we're just going to pick one at random to give the gist of things. Also, to save space, we're going to use single character between every noun, and drop the ':' between subordinating compounds.
-
-Now for the first-order formula:
+Now, we just need to introduce the universal quantification over `X`:
 
 <div>
-∀x. ∃z. ∀y. A(x,y,z)
+A :: U!⊥ιT∀
 </div>
 {: .quote .example}
 Example (11.5.4)
 {: .examplecaption}
 
-which could be read as something like: "for all a, there exists a z such that for all y, x is an assertion with substrate y and type z". Not particularly meaningful, but how do we go about representing this in Navyanyāya style?
-
-Let's start by focusing on just the inner phrase:
-
-<div>
-∃z. ∀y. A(x,y,z)
-</div>
-{: .quote .example}
-Example (11.5.5)
-{: .examplecaption}
-
-This involves a relationship between a subject and they way it's represented in an assertion. We can construct this relationsip as:
-
-<div>
-R = (ΓVξ P)κτ
-</div>
-{: .quote .example}
-Example (11.5.6)
-{: .examplecaption}
-
-So, we can represent (11.5.5) as:
-
-<div>
-z :  R!⊥
-</div>
-{: .quote .example}
-Example (11.5.7)
-{: .examplecaption}
-
-Note the `!⊥` for universally quantifying over the clarifier of `R`. With this peice, we can express the outer expression as:
-
-<div>
-Aτ :: (R!⊥ξ P)∀
-</div>
-{: .quote .example}
-Example (11.5.8)
-{: .examplecaption}
-
-Or, substituting out `R`, we get:
-
-<div>
-Aτ :: ((ΓVξ P)κτ!⊥ξ P)∀
-</div>
-{: .quote .example}
-Example (11.5.9)
-{: .examplecaption}
 
 #### Modality
 
@@ -1936,9 +1855,9 @@ I want to talk about modality very briefly, because it's a big topic and this is
 
 There is a difference between saying that, e.g., that "the sky is blue" and saying "the sky is *always* blue", or "the sky *must* be blue", or "the sky *should* be blue". 
 
-Words like 'always'/'must'/'should' and their counterparts 'sometimes'/'could'/'may' are called 'modal operators'. Like with the words 'all' and 'some', quantificational approaches to modality dominate logical thoery in the West. And, again, Naiyyāyikas expresses concepts through negative types.
+Words like always/must/should and their counterparts sometimes/could/may are called *modal operators*. Like with the words 'all' and 'some', quantificational approaches to modality dominate logical thoery in the West. And, Naiyyāyikas, again, expresses these sorts of concepts through negation.
 
-The bulk on Navya interest in modality is focused on tense-modality; i.e. 'sometimes' and 'always'. But, working with negative counterparts, they define two types: `पराभावः` [parābhāvaḥ] and `प्रागभावः` [prāgabhāvaḥ] corresponding to the concepts "not yet" and "no longer". These Sanskrit terms are often translated as "posterior absence" and "prior absence". 
+The bulk of Navya interest in modality is focused on tense-modality; i.e. 'sometimes' and 'always'. Working with negative counterparts, they define two types:  `प्रागभावः` [prāgabhāvaḥ] and `पराभावः` [parābhāvaḥ] roughly corresponding to the concepts "not yet" and "no longer". These Sanskrit terms are often translated as "prior absence" and "posterior absence". 
 
 As we have been, let's represent them with symbols `^` (posterior absence) and `~` (prior absence). We can combine these to get a type expressing the concept of "never": `(^,~)pair`. This is sometimes called `नित्याभावः` [nityābhavaḥ] which translates to "constant absence". Let's represent this with the symbol `-`. 
 
@@ -1961,8 +1880,8 @@ sky :: blue-⊥
 So far, we've talked about stuff that is part of the real historical
 canon of Navyanyāya. Below, I'll apply some of these ideas to talking
 about the Russel-Zarmelo paradox; although I personally don't know of a
-discussion of this paradox in an actual Nyāya text. Nonetheless, puzzles
-about self-reference are something Naiyyāyikas do talk about, so the
+discussion of this paradox in an actual Nyāya text. Puzzles
+about self-reference are something Naiyyāyikas do talk about, though. So, the
 topic is still within the arena of Navyanyāya.
 
 The paradox in its original setting was intended to show that set theory
@@ -1971,13 +1890,10 @@ on the basis of any arbitrary property, is inconsistent. The idea is to
 define a set S as 'all objects that have the property P', where P is
 'the property of not being being a member of itself'. 
 
-Then, the question is if S has the property P. If S does have P, then S would be a member
-of S, by definition. But, that would mean S lacks the property P (since
-it is a member of itself); which is a contradiction. But, if S lacks P,
-then it would not be a member or itself, by definition. So, it would
-have P; leading to another contradiction. 
+Then, the question is if S has the property P. If S does not have P; then, S would be a member
+of itself. But, that would mean S does have the property P, since ever member of S has P, by definition. But, this is a contradiction: S both has and lacks P. Now, if S *does* have P, then it would not be a member or itself. But, since everything that has P is a member of S, S would be a member of itself; leading to another contradiction: S both is and is not a member of itself.
 
-In order to address this problem, it seems like you have to either redesign your language (as in Russell's ramified type theory), or adjust your axioms (as in ZFs axiom schema of separation), such that sets like S are guaranteed not to exist.
+In order to address this problem, it seems like you have to either redesign your language (as in Russell's ramified type theory), or adjust your axioms (as in ZFs axiom schema of separation) such that sets like S can't be proven to exist.
 
 In order to reconstruct this problem in the Navyanyāya framework, we
 have to first construct a definition of P:
@@ -2075,7 +1991,7 @@ Example (9.4)
 
 Note, this doesn't result in a contradiction either; since, unlike with ``Pτ⊥⊥`` we can't reduce `Pιˉ⊥` to `Pτ`. And, while `P::(Pτˉ Pτˉ⊥)` *does* give us a contradiction (since `ˉ` is not incompletely realizable), `P::(P⊥ Pτˉ⊥)` is *not*. And, we can't force `P::Pτˉ` by eliminating`P::P`; since disjunction elimination only works with `⊥`.
 
-But, how do we interpret assertions like: `P: P⊥`? If they're not contradictions, then what are they?
+But, how do we interpret assertions like: `P::P⊥`? If they're not contradictions, then what are they?
 
 As we discussed earlier (in the section on pure negatives), Naiyyāyikas interpret this as something that fails to express an internally consistent assertion not because `P` is incoherent but because it is indeterminate. In Navyanyāya jargon, the co-realization of a property and its absence in the same basis is called 'incomplete realization' [अव्याप्यवृत्तिः; avyāpyavr̥ttiḥ] and is resolved by distinguishing the partition [अवच्छेदकभेदेन; avacchedakabhedena] over which the property operates from that of its absence. 
 
@@ -2127,6 +2043,47 @@ Russel's own solution to the problem, arising organically just through
 the logic of type partitions. Or, we could see partitioners as
 representing constraints on property comprehension, akin to the axiom
 schema separation in well-founded set theory.
+
+### List of Navya Nyāya Operators
+
+Below is a cheat sheet for all the Navyanyāya operators with their Sanskrit names and the symbols I'm using to represent them. The top block consistent of the three fundemental Navyanyāya operators: realization and the two negation types. The second block consists of some of the core operators that can be defined in terms of the first block. The last block contains the operators used to manipulate multi-place types.
+
+Also, remember that the symbol Γ is used to introduce a pronoun.
+
+
+| Sanskrit Name   | Symbol | Description   |
+|-----------------|--------|---------------|
+| atyantābhāva    | ⊥      | Pure negative |
+| anyonyābhāva    | ˉ      | co-negative   |
+| adhikaraṇa/-mat | ι      | Realization   |
+|-----------------|--------|---------------|
+{: .mdtable} 
+
+<br>
+
+| Sanskrit Name     | Symbol | Definition | Description        |
+|-------------------|--------|------------|--------------------|
+| -tva              | τ      | ˉ⊥         | Abstraction        |
+| nirūpaka/-ka      | κ      | Γx:Γ; Γx   | Clarifier          |
+| niṣṭha/vr̥tta      | η      | ιτκ        | Type of            |
+| avachedaka        | Ξ      | Γ⊥ιητˉ     | Partitioner        |
+| avachinna         | ξ      | Ξτκ        | Partition          |
+| nirūpita          | Π      | κτκ        | Clarified by       |
+| nirūpaka          | σ      | Πτκ        | Clarifying type of |
+| nirūpita          | Θ      | σκ         | Clarified by type  |
+| sāmānādhikaraṇyam | ∃      | ιητ        | Co-realization     |
+| avyabhicātaḥ      | ∀      | Γ⊥ιητˉ     | Regularity         |
+|---------------|--------|------------|---------------------|
+{: .mdtable}
+
+<br>
+
+| Sanskrit Name | Symbol | Definition | Description         |
+|---------------|--------|------------|---------------------|
+| pratiyogin    | π      |            | two-place correlate |
+| anuyogin      | α      | πτκ        | two-place substrate |
+|---------------|--------|------------|---------------------|
+{: .mdtable}
 
 ## Bibliography
 
