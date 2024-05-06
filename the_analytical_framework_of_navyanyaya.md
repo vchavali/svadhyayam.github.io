@@ -25,9 +25,7 @@ analytical framework, based mainly on its use in Gaṇgeśa's
 
 To start off, I want to give something of a quasi-historical
 genealogy of Sanskrit theorizing on language, as the principle window
-through which to understand the Navyanyāya project. This is
-*quasi*-historical because although it follows the basic outline of a
-real history; historical accuracy isn't something I promise or particularly care about. Instead, what I'm hoping is to have some sort of scaffold for organizing various thoughts about the "what", "why", and "how" of the Navyanyāya project.
+through which to understand the Navyanyāya project. 
 
 ### The Birth of Linguistics
 
@@ -124,7 +122,7 @@ yen’ ākṣarasamāmnāyam adhigamya maheśvarāt । <br>
 kr̥tsnaṁ vyākaraṇaṁ proktaṁ tasmai pāṇinaye namaḥ ॥
 
 <br> <br>
-To the one who learned the Inventory of Phonetic Segments
+To the one who learned the <i>Inventory of Phonetic Segments</i>
 from the Great God and then explained linguistic theory in its entirety; 
 to that Pāṇini, I bow.
 </div>
@@ -138,13 +136,13 @@ certain segment of the linguistics community of India, the study of the
 Sanskrit language is motivated in part by its relationship to Vedic
 ritual. The Sanskrit invocations (mantrāṇi) used in ritual performance
 have to be transformed based on context to fit the appropriate
-gender, number, voice, etc. Technically, a proficient speaker of a
+gender, number, person, etc. Technically, a proficient speaker of a
 language should be able perform such transformations intuitively; but, when a certain level of rigor is required—as in the case
 of ritual invocations—it's necessary to be able to check your answer
 against a fixed, external standard. Tabulating all possible such
 transformations is an impossible task, as Patañjali explains in a fun
-story about how the king of heaven fails to learn Sanskrit even in "a
-hundred divine years", because he tries to memorize each of
+story about how the King of Heaven fails to learn Sanskrit "even in a
+hundred celestial years", because he tries to memorize each of
 the infinite possible Sanskrit constructions, one at a time.
 
 Instead, what the *Aṣṭādhyāyī* does is provide a way of representing a
@@ -157,7 +155,7 @@ that, whereas the surface sentences can vary in highly complex and
 potentially infinitely many ways, there are only a finite number of
 elemental components and a finite number of elemental ways in which they
 can relate or transform. These components, relations, and
-transformations—being finite—can be tabulated and rigorously described
+transformations (being finite) can be tabulated and rigorously described
 such that you can effectively operationalize—make transparent,
 predictable, and replicable—the often vague and inconsistent intuitions
 of language speakers. This is what the *Aṣṭādhyāyī* offers.
@@ -167,15 +165,14 @@ of language speakers. This is what the *Aṣṭādhyāyī* offers.
 So much for the early story of linguistics in India. The next big
 breakthrough came with Bhartr̥hari (\~5th CE) who is supposed to have
 written a historically important but now lost sub-commentary on
-Patañjali's *Mahābhāṣyam* [*The Great Commentary*], dealing with the traditional issues in linguistic theory. But, his name to fame is an independent work, called *Vākyapadīyam* [*On Sentences and Words*], whose signature
-contribution was introducing a cognitive turn into the tradition.
+Patañjali's *Mahābhāṣyam*, dealing with the traditional issues in linguistic theory. But, his name to fame is an independent work, called the *Vākyapadīyam* [*On Sentences and Words*], whose signature contribution was introducing a cognitive turn into the tradition.
 
 One of it's key insights is the idea that, in addition to "public"
 language [वैखरिणी भाषा; vaikhariṇī bhāṣā] which is the object of traditional
 linguistic analysis, there is an inner cognitive dimension to language
 which is present already—prior even to our thoughts and internal
 monologuing—at the stage of perceptual experience. Bhartr̥hari argued
-that our experience, even at this primitive pre-cognitive level, must have some sort of conceptual framework underpinning it, in order for us to be able to report on this experience in public language. Otherwise, our words and even our thoughts would have nothing to "hook" on to, and elements of our experience could not act as normative conditions [प्रवृत्तिनिमित्तानि; pravr̥ttinimittāni] on the form of our speech. Nonetheless, Bhartr̥hari continues, this *perceptual language* [पश्यन्ती भषा; paśyantī bhāṣā], must be radically different from public language. Whereas public language occurs in sequence and is, therefore, segmentable; the linguistic dimension of our perceptual experience occurs in a single moment of consciousness and isn't amenable to the sort of segmental analysis characteristic of classical linguistics.
+that our experience, even at this primitive pre-cognitive level, must have some sort of conceptual framework underpinning it, in order for us to be able to report on it in public language. Otherwise, our words and even our thoughts would have nothing to "hook" on to, and elements of our experience could not act as normative conditions [प्रवृत्तिनिमित्तानि; pravr̥ttinimittāni] on the form of our speech. Nonetheless, Bhartr̥hari continues, this *perceptual language* [पश्यन्ती भषा; paśyantī bhāṣā], must be radically different from public language. Whereas public language occurs in sequence and is, therefore, segmentable; the linguistic dimension of our perceptual experience occurs in a single moment of consciousness and isn't amenable to the sort of segmental analysis characteristic of classical linguistics.
 
 So, there's a disconnect between perceptual and public language. What
 we need is some sort of bridge to communicate our inner experience to
@@ -552,10 +549,7 @@ together.
 
 ### Partitioning (अवच्छितिः)
 
-Let's consider the following definition: "a daughter is a female
-descendent". Here, the subject is `दुहिता` or
-`daughter`. The definition features two types:
-`स्त्री।त्वम्` / `femaleτ` and `अपत्य।ता` /
+Let's consider the following definition: "a daughter is a female descendent". Here, the subject is `दुहिता` or `daughter`. The definition features two types: `स्त्री।त्वम्` / `femaleτ` and `अपत्य।ता` /
 `descendent`. But, notice, that `daughter` is not
 equivalent to either element of the definition, on its own. Instead, we
 could say that `daughterτ` is a *subtype* of
@@ -575,7 +569,7 @@ subtype a 'P-partitioned \[अवच्छिन्नम्; avacchinnam\] T'.
 
 But, what if we want to restrict `T` by a type `Q`
 that overlaps with, but isn't contained by `T`? In this case,
-it would be more accurate to say that we differentiate `T` by
+it would be more accurate to say that we partition `T` by
 a subtype of `Q` (i.e. a 'partitioned' Q). But, as we'll see
 in the next section, the ambiguity inherent in the expression 'some
 subtype' is already built into how Navyanyāya operators work within the
@@ -817,10 +811,10 @@ p  b <br>
 प: ब:
 </div>
 {: .quote .example}
-Example (6.10a-c)
+Rule (P.1) <a name="P.1">
 {: .examplecaption}
 
-Example (6.10) essentially defines the concept of a scope partitioner: a
+Rule (P.1) essentially defines the concept of a scope partitioner: a
 word refers to an object if and only if that object realizes its scope
 partitioner.
 
@@ -831,13 +825,13 @@ bτι =  b <br>
 ब।त्व।वान्  = ब:
 </div>
 {: .quote .example}
-Example (6.11)
+Rule (P.2) <a name="P.2">
 {: .examplecaption}
 
-Example (6.11) is sometimes called the "tattvavān tad eva" [तत्ववान् तदेव] rule and connects the concept of type abstraction with realization. Note that when we stack operators, the order of operations is left associative.
+Rule (P.2) is sometimes called the "tattvavān tad eva" [तत्ववान् तदेव] rule and connects the concept of type abstraction with realization. Note that when we stack operators, the order of operations is left associative.
 I.E 'xτι' is interpreted as '(xτ)ι'.
 
-From (6.10) and (6.11), we can derive another core equivalence. Given any
+From (P.1) and (P.2), we can derive another core equivalence. Given any
 two symbols `p` and `b`, the following assertions
 are equivalent:
 
@@ -849,7 +843,7 @@ p  bι <br>
 पः ब।वान्
 </div>
 {: .quote .example}
-Example (6.12a-b)
+Rule (P.3) <a name="P.3">
 {: .examplecaption}
 
 In addition, the concept of partitioning is connected in an intimate way the concept of abstraction.
@@ -857,25 +851,48 @@ In addition, the concept of partitioning is connected in an intimate way the con
 Given any two types `T` and `P`, if the type
 `Pξ T` / `प।अवच्छिन्न ट:` exists, then the following assertions are always true:
 
-
 <div> 
 Pξ T = Tξ P <br>
 प।अवच्छिन्न टः = ट।अवच्छिन्न पः <br> <br>
 
-(Pξ T): Tτ <br>
+(Pξ T) :: Tτ <br>
 (प।अवच्छिन्न टे) ट।त्वम्
 </div>
 {: .quote .example}
-Example (6.13a-c)
+Rule (P.4) <a name="P.4">
 {: .examplecaption}
 
-(6.13a) says that partitioning is symmetric. (6.13b) captures the idea
+(P.4a) says that partitioning is symmetric. (P.4b) captures the idea
 that partitioning is a form of subtyping. So, the partition of a type
 still falls under the same 'abstraction' and can be referred to by the
 same name as the base type. This rule also allows us to draw an
 analogy between Navya type abstraction and a concept in modern set
 theory: if we think of a type as analogous to a set, then abstraction is
 analogous to the powerset function.
+
+Lastly, a few miscellaneous rules for manipulating terms in coordination.
+
+First, the following rule expresses the idea that coordination involves partitioning of scope partitioners:
+
+<div> 
+(P T)τ = Pτξ Tτ
+(प ट)त्वम् = प।त्व।अवच्छिन्न ट।त्वम्
+</div>
+{: .quote .example}
+Rule (P.5) <a name="P.5">
+{: .examplecaption}
+
+[A (B C)]τ = Aτξ (B C)τ 
+= Aτξ (Bτξ Cτ)
+= Aτξ (Cτξ Bτ)
+
+A (B C)
+
+
+(A B) C
+
+A B
+B A
 
 ### Clarification (nirūpaṇam)
 
@@ -1012,11 +1029,11 @@ Within the universe of Navya types, we can distinguish broadly between "analyzab
 Given any positive type `T` and any type `C`, if `Cξ Tσ` exists; then:
 
 <div>
-(Cξ Tσ)Θ = TΞ <br>
-(क।अवच्छिन्न ट।निरूपक)निरूपितः ट।अवच्छेदकः
+(Cξ Tσ)Θ T = TΞ <br>
+(क।अवच्छिन्न ट।निरूपक)निरूपित टः = ट।अवच्छेदकः
 </div>
 {: .quote .example}
-Example (7.5a)
+Rule (C.1) <a name="C.1">
 {: .examplecaption}
 
 In other words, partitioning the clarifier of a positive type gives you the clarifier of a partitioner of that type. Intuitively, subtying the clarifier gives you a subtype of the unclarified type.
@@ -1024,11 +1041,11 @@ In other words, partitioning the clarifier of a positive type gives you the clar
 If, however, the unclarified type `T` is *negative*:
 
 <div>
-(Cξ Tσ)Θ = Tξ <br>
-(क।अवच्छिन्न ट।निरूपक)निरूपित: ट।अवच्छिनः
+T = ((Cξ Tσ)Θ T)Ξ <br>
+टः = ((क।अवच्छिन्न ट।निरूपक)निरूपित ट)अवच्छेदकः
 </div>
 {: .quote .example}
-Example (7.5b)
+Rule (C.2) <a name="C.2">
 {: .examplecaption}
 
 In other words, the subtyping relation is reversed when partitioning the clarifier of a negative type; i.e. subtyping the clarifier gives you a *supertype* of the unclarified type. 
@@ -1077,6 +1094,16 @@ often just use the words `निरूपक` and `नीरूपित` in the
 `(रघु।निष्ठ अपत्य।ता।निरूपक)निरूपित`. This is obviously a bit confusing
 since that makes the terms `निरूपक` and `नीरूपित` ambiguous between what are effectively two different operators. Still, you can usually tell from context what they mean, as long as you're aware that they're used both ways.
 
+These two sets of operators can be interchanged via the following rules:
+
+<div>
+aΠ T = (aη Tσ)Θ T
+Tκ a = Tσι a
+</div>
+{: .quote .example}
+Rule (C.3) <a name="C.3">
+{: .examplecaption}
+
 In any case, we can simplify (7.5b) using this notation:
 
 <div>
@@ -1091,11 +1118,77 @@ Example (7.5c)
 
 Type clarification is so fundamental to the Navyanyāya system that, like with partitioning, the language provides dedicated syntax to express this, in addition to using to the operators that we discussed in the last section. This syntax is called *subordination* \[उपसर्जनम्; upasarjanam\] and is implemented in a way roughly analogous to apposition (for partitioning).
 
-Take two words `p` and `b` such that `pτ` refers to an unclarified type and `bτ` refers to a partitioner of the clarifying type (i.e. `pτσ`). Then, by placing `b` in subordination to `p`, we clarify the scope partitioner of `p` by `bτ`.
-
 In order to express such a syntactic relation, with `b` as subordinate \[उपपदम्; papadam\] and `p` as principal \[प्रधानम्; pradhānam\], Naiyyāyikas mark `b` with the genitive case (pañcamī vibhaktiḥ) and with `p` as its argument. Alternatively, they put the two together into a ṣaṣṭhītatpuruṣaḥ [षष्ठीतत्पुरुषः] compound with `b` and the first element.
 
-In the roman script representation, let's express subordination in a form that mimics the compounding syntax. But, for clarity, we'll separate the two component word stems by the ':' symbol. For brevity, when the first member of the compound is in parentheses, the ':' can be dropped. E.G. `a:x` or `(a)x`. 
+In the roman script representation, let's express subordination in a form that mimics the compounding syntax. But, for clarity, we'll separate the two component word stems by the ':' symbol. So, the format is:
+
+<div>
+TAIL:HEAD
+</div>
+{: .quote .example}
+Example (8.1)
+{: .examplecaption}
+
+For brevity, when the first member of the compound is in parentheses, the ':' can be dropped. E.G. `a:x` or `(a)x`. 
+
+Subordination is always left-associative. So:
+
+<div>
+ABC = (AB)C
+</div>
+{: .quote .example}
+Rule (S.1) <a name="S.1">
+{: .examplecaption}
+
+In this case, `A` is the subordinate of `B`, which is the subordinate of `C`. 
+
+We can interpet a subordinate expression by the following rule: Take two words `p` and `b` such that `pτ` refers to an unclarified type and `bτ` refers to a partitioner of the clarifying type (i.e. `pτσ`). Then, by placing `b` in subordination to `p`, we clarify the scope partitioner of `p` by `bτ`.
+
+We can formalize this rule via the following identity. Given any two objects `A` and `B`:
+
+<div> 
+ABτ = AΠ Bτ
+</div>
+{: .quote .example}
+Rule (S.2) <a name="S.2">
+{: .examplecaption}
+
+A consequence of this rule is that when we subordinate two terms to the same head, the order doesn't matter:
+
+<div>
+A(BC)τ = AΠ BCτ <br>
+= AΠ BΠ Cτ <br> 
+= BΠ AΠ Cτ <br> 
+= B(AΠ Cτ) <br>
+= B(AC)
+</div>
+{: .quote .example}
+Rule (S.3) <a name="S.3">
+{: .examplecaption}
+
+
+Another important identity:
+
+<div>
+
+(Aξ (Bξ Cσ)
+
+b :: Aτξ Bτ
+bC = bΠ Cτ
+
+(A B)Π Cτ
+((Aτξ Bτ)ξ Cτσ)Θ Cτ
+
+Aτξ Bτ
+
+
+AΠ BΠ Cτ
+(A B)Cτ = (A B)Π Cτ
+= (Aτξ Bτ)
+</div>
+{: .quote .example}
+Example (8.2)
+{: .examplecaption}
 
 Let's look go back to our example sentence:
 
@@ -1116,6 +1209,24 @@ rāma raghu:descendent <br>
 {: .quote .example}
 Example (8.2b)
 {: .examplecaption}
+
+Now, recall the rule connecting partitioning and clarification. The same rule allows us to connect subordination with coordination.
+
+First note that, given any unclarified type `T` and some clarifying type 'a', the following identity always holds:
+
+<div> 
+aTτ = aτΘ Tτ
+</div>
+{: .quote .example}
+Example (8.3)
+{: .examplecaption}
+
+This just follows from the definition of subordination. Second, note that the abstaction operator `τ` *always* generates a positive type. Therefore, 
+
+two clarifying types `a` and `b`
+
+Example (8.3) holds universally, because (1) the abstraction operator always generates a positive type and (2) 
+
 
 One last interesting point about subordination. You may have noticed that the syntax for subordination looks a lot like applying an operator. This isn't a coincidence. Put simply, Navyanyāya operators are no more or less than unclarified types. They can even be used as standalone words; e.g. `η` / `निष्ठः` which refers to the type of all types. Navyanyāya operator application just is type clarification, and the syntax I'm using to represent them just is subordination. The bottom line here is that the syntax of the Navyanyāya language is extremely simple; everything is achieved with just coordination, subordination, and assertions. Logical operators aren't special syntactic devices, nor are typical logical connectives like conjunction, disjunction negation, etc., treated in any special way by the syntax; they just arise naturally as forms of syntactic subordination. That's pretty cool! 
 
@@ -1379,12 +1490,20 @@ sonτ = maleτξ descendent:descendentτ⊥ξ descendentτ <br>
 Example (10.2)
 {: .examplecaption}
 
+Since things are starting to get kind of long, let's just use the symbols `S` for `sonτ`, `M` for `maleτ`, and `D` for `descendentτ`. Also, since we're using single characters per noun, let's drop the `:` between terms in a subordinate clauses:
+
+<div> 
+S = Mξ (DΘ D)⊥ξ D <br>
+पुत्र।त्वम् = पुंस्।त्व।अवच्छिन्न (अपत्य।त्व|निरूपित अपत्य|त्व)अभाव।अवच्छिन्न अपत्य।त्वम्
+</div>
+{: .quote .example}
+Example (10.2)
+{: .examplecaption}
+
 But, this says that a son is a male descendent who is not the descendent
 of a descendent. The constraint is too strong! 
 
-We need to specify that the clarifier of `descendent:descendentτ⊥` is the same as that of `descendentτ` in the last term. In other words, we
-need a way to express coordination relations between nodes in the syntax
-tree that are not in apposition. In Navyanyāya, we express such coordination
+We need to specify that the clarifier of `(DΘ D)⊥` is the same as that of `D` in the last term. In other words, we need a way to express coordination relations between nodes in the syntax tree that are not in apposition. In Navyanyāya, we express such coordination
 at a distance using *pronouns* [सर्वनामानि; sarvanāmāni].
 
 Unlike many ordinary languages, the language of Navyanyāya doesn't
@@ -1394,9 +1513,7 @@ difference between the different words in the language; even operators
 
 But, while there is no syntactic difference between different words
 within Nyāya, we can sub-categorize them based on how they refer to
-things. In other words, there is a semantic difference and logical difference
-(because of how scope partitioners operate as logical devices) but no
-syntactic difference between certain categories of words.
+things. In other words, there is a semantic difference and logical difference (because of how scope partitioners operate as logical devices) but no syntactic difference between certain categories of words.
 
 We already saw that we can distinguish between common nouns and proper
 names based on the size of their scope. In addition, we can add third
@@ -1428,8 +1545,9 @@ Simply put, an anaphoric pronoun is in coordination with some other word or word
 Take example (10.2) above. The sanskrit version of this formula looks like:
 
 <div>
-पुत्र।त्वम् = पुंस्।त्व।अवच्छिन्न अपत्य।अपत्य।त्व।अभाव।अवच्छिन्न अपत्य।त्वम् <br>
-putra:tvam = puṁs:tva:avacchinna apatya:apatya:tva:abhāva:avacchinna apatya:tvam
+पुत्र।त्वम् = पुंस्।त्व।अवच्छिन्न (अपत्य।त्व|निरूपित अपत्य|त्व)अभाव।अवच्छिन्न अपत्य।त्वम्
+ <br>
+putra:tvam = puṁs:tva:avacchinna (apatya:tva:nirūpita apatya:tva):abhāva:avacchinna apatya:tvam
 </div>
 {: .quote .example}
 Example (10.2.1a)
@@ -1438,59 +1556,59 @@ Example (10.2.1a)
 Adding in a pronoun to specify the clarifier of the negative descendent type, we would have:
 
 <div>
-पुत्र।त्वम् = पुंस्।त्व।अवच्छिन्न तद्।अपत्य।अपत्य।त्व।अभाव।अवच्छिन्न अपत्य।त्वम् <br>
-putra:tvam = puṁs:tva:avacchinna tad:apatya:apatya:tva:abhāva:avacchinna apatya:tvam
+पुत्र।त्वम् = पुंस्।त्व।अवच्छिन्न (तद्।अपत्य।त्व|निरूपित अपत्य|त्व)अभाव।अवच्छिन्न अपत्य।त्वम् <br>
+putra:tvam = puṁs:tva:avacchinna (tad:apatya:tva:nirūpita apatya:tva):abhāva:avacchinna apatya:tvam
 </div>
 {: .quote .example}
 Example (10.2.2a)
 {: .examplecaption}
 
-Let's use the symbol `Γ` to represent an anaphoric pronoun. Then, near-literal translation of the original sanskrit into the roman script notation would look like:
+Let's represent an anaphoric pronoun with an circumflex accented letter; e.g. 't̂'. Then, near-literal translation of the original sanskrit into the roman script notation would look like:
 	
 <div> 
-sonτ = maleτξ Γ:descendent:descendentτ⊥ξ descendentτ
+S = Mξ (t̂DΘ D)⊥ξ D
 </div>
 {: .quote .example}
 Example (10.2.2b)
 {: .examplecaption}
 	
-Here, the `Γ` is in coordination with an implicit word acting as the informant of the positive descendent type in the second term. Making this implicit word, explicit, let's introduce a dummy word `father` referring to the informant of the type `son`, being defined:
+Here, the `t̂` is in coordination with an implicit word acting as the clarifier of the positive descendent type in the second term. Making this implicit word, explicit, let's introduce a dummy word `f` referring to the clarifier of the type `S`, being defined:
 
 <div>
-sonτ = maleτξ Γ:descendent:descendentτ⊥ξ father:descendentτ
+S = Mξ (t̂DΘ D)⊥ξ fD <br>
+पुत्र।त्वम् = पुंस्।त्व।अवच्छिन्न (तद्।अपत्य।त्व|निरूपित अपत्य|त्व)अभाव।अवच्छिन्न पितृ।अपत्य।त्वम्
 </div>
 {: .quote .example}
 Example (10.2.3)
 {: .examplecaption}
 
-Note, that sometimes Naiyyāyikas will put in the implicit word themselves, but leaving it implicit is idiomatic. Still, the ambiguity isn't settled. Since, it's not clear which word the pronoun `Γ` is supposed to be in coordination with. We can make this explicit by introducing a second `Γ` in apposition to `father`:
+Note, that sometimes Naiyyāyikas will put in the implicit word themselves, but leaving it implicit is idiomatic. Still, the ambiguity isn't settled. Since, it's not clear which word the pronoun `t̂` is supposed to be in coordination with. We can make this explicit by introducing a second `t̂` in apposition to `f`:
 
 <div> 
-sonτ = maleτξ Γ:descendent:descendentτ⊥ξ (Γ father):descendentτ <br>
-पुत्र।त्वम् = पुंस्।त्व।अवच्छिन्न तद्।अपत्य।अपत्य।त्व।अभाव।अवच्छिन्न (तत् पितृ)अपत्य।त्वम्
+S = Mξ (t̂DΘ D)⊥ξ (t̂ f)D <br>
+पुत्र।त्वम् = पुंस्।त्व।अवच्छिन्न (तद्।अपत्य।त्व|निरूपित अपत्य|त्व)अभाव।अवच्छिन्न (तत् पितृ)अपत्य।त्वम्
 </div>
 {: .quote .example}
 Example (10.2.4)
 {: .examplecaption}
 
-The rule here is that within the same 'lexical scope' (typically, the same phrase), pronouns of the same form are always in coordination. What about if we need to have two different anaphoric pronouns? We'll use the format `Γx` where 'x' is any roman script symbol. Note that the Sanskrit notation don't necessarily bother to disambiguate this; sometimes Naiyyāyikas will use a different pronoun (e.g 'idam') instead, but sometimes you just have to go by context or commentary.
+The rule here is that within the same 'lexical scope' (typically, the same phrase), pronouns of the same form are always in coordination. What about if we need to have two different anaphoric pronouns? We can just use different letters to represent different pronouns; but since the Sanskritic notation uses actual Sanskrit pronouns this can be an issue. In geneal, Naiyyāyikas don't necessarily bother to disambiguate this; sometimes they'll will use a different pronoun (e.g 'idam') instead, but sometimes you just have to go by context or commentary.
 
-Lastly, given that 'father' is now redundant, we could just drop it out:
+Lastly, given that `f` is now redundant, we could just drop it out:
 
 <div>
-sonτ = maleτξ Γ:descendent:descendentτ⊥ξ Γ:descendentτ <br>
-पुत्र।त्वम् = पुंस्।त्व।अवच्छिन्न तद्।अपत्य।अपत्य।त्व।अभाव।अवच्छिन्न तद।अपत्य।त्वम्
-</div>
+S = Mξ (t̂DΘ D)⊥ξ t̂D <br>
+पुत्र।त्वम् = पुंस्।त्व।अवच्छिन्न (तद्।अपत्य।त्व|निरूपित अपत्य|त्व)अभाव।अवच्छिन्न तद्।अपत्य।त्वम</div>
 {: .quote .example}
 Example (10.2.5)
 {: .examplecaption}
 
-There's still some pronoun ambiguity left. Specifically, if we want to understand `sonτ` as an informable type, it's not clear which of points in the definition the informant would correspond to. For example, the expression `(raghu)son` could mean any one of:
+There's still some pronoun ambiguity left. Specifically, if we want to understand `S` as an informable type, it's not clear which of points in the definition the clarifier would correspond to. For example, the expression `rS`, where `r` stands for 'Raghu', could mean any one of:
 	
 <div>
-sonτ = maleτξ ¬(Γ:descendent:descendent)τξ (Γ raghu):descendentτ <br>
-sonτ = maleτξ ¬(Γ:descendent:descendent)τξ Γ:(raghu descendent)τ <br>
-sonτ = maleτξ ¬(Γ:descendent:(raghu descendent)τξ Γ:descendentτ <br>
+S = Mξ (t̂DΘ D)⊥ξ (t̂ r)D <br>
+S = Mξ (t̂DΘ D)⊥ξ t̂(r D) <br>
+S = Mξ (t̂DΘ r D)⊥ξ t̂D <br>
 </div>
 {: .quote .example}
 Example (10.2.6a-c)
@@ -1501,24 +1619,24 @@ How do we specify which one we mean? Again, you have to infer this from context 
 Given some expression of the form
 	
 <div> 
-[x](...)
+[t̂](...)
 </div>
 {: .quote .example}
 Example (10.2.7)
 {: .examplecaption}
 
-The informant of this type would be in coordination with the pronoun `Γx`. In addition, in this sort of expression, `Γx` has scope only within the parenthesis.
+The clarifier of this type would be in coordination with the pronoun `t̂`. In addition, in this sort of expression, `t̂` has scope only within the parenthesis.
+
+For brevity (and to try to match the sanskrit as closely as possible), if there is only one variable within a phrase, that it is assumed to be the clarifier of the whole phrase and the preceeding `[]` can be dropped. Also, if there are no pronouns in the construction then the type being clarified is the referrent of the head element (the right-hand element for both coordinate and subordinate phrases).
 
 So, we can define son as:
 	
 <div>
-sonτ = [Γ] maleτξ Γ:descendent:descendentτ⊥ξ Γ:descendentτ
+S = Mξ (t̂DΘ D)⊥ξ D<br>
 </div>
 {: .quote .example}
 Example (10.2.8)
 {: .examplecaption}
-
-For brevity (and to try to match the sanskrit as closely as possible), if the the point of clarification within a phrase is `Γ`, then the preceeding `[Γ]` can be dropped. Also, if there are no pronouns in the construction then the type being clarified is the referrent of the head element (the right-hand element for both coordinate and subordinate phrases).
 
 One last bit on syntax related to anaphoric pronouns.
 
@@ -1540,7 +1658,7 @@ Example (10.2.9)
 A simple example of this is the following definition of `η` in terms of `ι`:
 
 <div> 
-Γητ = (Γxι Γ; Γx)τ <br>
+ητ = [x̂] (x̂ι ŷ; x̂)τ <br>
 निष्ठ।त्चम्  (यद्।वद् इदम्; तत्)त्वम्
 </div>
 {: .quote .example}
@@ -1550,13 +1668,13 @@ Example (10.2.10)
 Ok, one last note, just for the Sanskrit expressions: a pattern that pops up occasionally is when you are constructing an anonymous type definition and you want to refer to the type being defined within the definition. For example, to define the type of all types that occur in themselves (i.e. of all reflexive types); you could do something like this:
 
 <div> 
-(Γ Γη)τ
+(t̂ t̂η)τ
 </div>
 {: .quote .example}
 Example (10.2.12)
 {: .examplecaption}
 
-But, the idiomatic way to express this is using the 'reflexive' pronoun 'sva'; e.g. `स्व।निष्ठ।त्वम्` \[sva:niṣṭha:tvam\].
+But, the idiomatic way to express this is using the reflexive 'sva' [स्व] or 'atman' [अत्मन्]; e.g. `अत्म।निष्ठ।त्वम्` \[atma:niṣṭha:tvam\].
 
 ####  Demonstratives
 
@@ -1567,17 +1685,19 @@ For an example, let's go back to this issue earlier about the two kinds of negat
 Recall, that we could express this difference using generic or particular absences:
 
 <div>
-rāma :: descendentτ⊥  <br>
-rāma :: descendentτ!
+r :: D⊥  <br>
+r :: D!
 </div>
 {: .quote .example}
 Example (10.3.1a-b)
 {: .examplecaption}
 
-Demonstratives (which we'll represent with `Δ` instead of `Γ`) provide another, perhaps more intuitive, way of expressing the same idea by ‘particularizing’ the generic negative type:
+Where `r` refers to 'Rāma' and `D` refers to the scope partitioner of 'descendent'.
+
+Demonstratives (which we'll represent using a breve, e.g. 't̆' instead of a circuflex) provide another, perhaps more intuitive, way of expressing the same idea by ‘particularizing’ the generic negative type:
 
 <div>
-rāma: Δ:descendentτˉ
+r :: t̆D⊥
 </div>
 {: .quote .example}
 Example (10.3.2)
@@ -1616,36 +1736,40 @@ Quantification is how we started talking about all of this. So, we've finally co
 We've already seen how to express an existentially quantified proposition; it's pretty easy. Let's take the dummy example: "birds are animals". To say "some birds are animals", we assert:
 
 <div>
-bird :: animalτ <br>
+b :: aτ <br>
 पक्षिणि जन्तु।त्वम्
 </div>
 {: .quote .example}
 Example (11.3.1)
 {: .examplecaption}
 
-What about universal quantification. There are two ways to go about this. First is via negation and the second is via partitioning. 
+Where `b` means 'bird' and `a` means 'animal'.
 
-One thing I want to rule out right of the bat. There's a well known relationship between the universal and existential quantifiers, that you've almost certainly come across if you've ever taken a course on logic. Namely, the sentence "all birds are animals" is equivalent to "it is not the case that some birds are not animals". Or, alternatively, the sentences "all birds are animals" and "some birds are not animals" are negations of each other. Based on this, it would seem like we could express the universal statement "all birds are animals" as a Navya assertion by negating:
+What about universal quantification? There are two ways to go about this. First is via negation and the second is via partitioning. 
+
+One thing I want to rule out right of the bat. There's a well known relationship between the universal and existential quantifiers, that you've almost certainly come across if you've ever taken a course on logic. Namely, the sentence "all birds are animals" is equivalent to "it is not the case that some birds are not animals". Or, alternatively, the sentences "all birds are animals" and "some birds are not animals" are negations of each other. 
+
+Based on this, it would seem like we could express the universal statement "all birds are animals" as a Navya assertion by negating the existential:
 
 <div>
-bird :: animalτ⊥ <br>
+b :: aτ⊥ <br>
 पक्षिणि जन्तु।त्व।अभावः
 </div>
 {: .quote .example}
 Example (11.3.2)
 {: .examplecaption}
 
-Now, (11.3.2) does translate to "some birds are not animals". But, this there's no way to negate this assertion *from the outside*. I.E. Just stacking another pure negative just gives us:
+Now, (11.3.2) does translate to "some birds are not animals". But, because there's no way to negate this assertion *from the outside*. I.E. Just stacking another pure negative just gives us:
 
 <div>
-bird :: animalτ⊥⊥ <br>
+b :: aτ⊥⊥ <br>
 पक्षिणि जन्तु|त्व।अभाव।अभावः
 </div>
 {: .quote .example}
 Example (11.3.2)
 {: .examplecaption}
 
-translating to "some birds are not not animals". This just reduces back to `bird::animalτ`. A no go.
+translating to "some birds are not not animals". This just reduces back to `b::aτ`. A no go.
 
 The trick is to represent the assertion as a type. We can do this by recalling that what a Navya assertion actually *asserts* is the co-realization relation between two types. The co-realization relation (represented as `∃`) can be defined as follows:
 
@@ -1660,7 +1784,7 @@ Example (11.3.3)
 With this in place, we can rewrite (11.3.2) as relationship between types:
 
 <div>
-birdτ :: animalτ∃ <br>
+bτ :: aτ∃ <br>
 पक्षि|त्वे जन्तु|त्व|सामानाधिकरण्यम्
 </div>
 {: .quote .example}
@@ -1670,10 +1794,10 @@ Example (11.3.4)
 We can construct the negation of the co-realization relation in two different ways, via pure and co- negatives
 
 <div>
-¬∃  = Γιητ⊥ <br>
+¬∃  = t̂ιητ⊥ <br>
 असामानाधिकण्यम् = तद्।वद्।वृत्त।त्व।अभावः <br> <br>
 
-¬∃ = Γιητˉ <br>
+¬∃ = t̂ιητˉ <br>
 असामानाधिकण्यम् = तद्।वद्।वृत्त।त्व।भेदः
 </div>
 {: .quote .example}
@@ -1683,7 +1807,7 @@ Example (11.3.5a-b)
 The difference, if you recall from the negative type section, above, is that `⊥` can be realized incompletely in its basis (and therefore does not preclude `∃` from *also* occuring there); whereas `ˉ` *does*. We want the second one. Adding in the inner negation, we can define the universal quantifier as:
 
 <div>
-∀  = Γ⊥ιητˉ <br>
+∀  = t̂⊥ιητˉ <br>
 अव्यभिचारः = तद्।अभाव।वद्।वृत्त।त्व।भेदः
 </div>
 {: .quote .example}
@@ -1693,7 +1817,7 @@ Example (11.3.5a-b)
 With this in place, we can construct the universal statement about birdness and animalness:
 
 <div>
-birdτ :: animalτ∀ <br>
+bτ :: aτ∀ <br>
 पक्षि|त्वे जन्तु|त्व|अव्यभिचारः
 </div>
 {: .quote .example}
@@ -1709,7 +1833,7 @@ Defining pervasion as regularity goes back a long way, arguably all the way back
 Lastly, a quick note on expressing generalizations vs partitioning, instead of negation:
 
 <div>
-birdτ animalτΞ <br>
+bτ aτΞ <br>
 पक्षि।त्वं जन्तु।त्व।अवच्छेदकम्
 </div>
 {: .quote .example}
@@ -1726,64 +1850,73 @@ Let's go back to the original example that got us talking about quantifiers:
 
 <div>
 (some person) descendant (some y) <br>
-∃x∈people. ∃y. x descendant y <br> <br>
+∃x∈P. ∃y. D(x,y) <br> <br>
 
 
-(every person) descendant (some y) <br>
-∀x∈people. ∃y. x descendant y
+(every person) descendant (some person) <br>
+∀x∈P. ∃y∈P. D(x,y)
 </div>
 {: .quote .example}
 Example (11.4.1a-b)
 {: .examplecaption}
 
+Where, `P` refers to the set of people and `D(x,y)` means 'x is a descendent of y'
+
 (11.4.1a) is easy, we already know how to do this:
 
 <div>
-person :: descendent
+p :: pd
 </div>
 {: .quote .example}
 Example (11.4.2)
 {: .examplecaption}
 
+where `p` means 'person' and `d` means 'descendent'.
+
 Existential quantification comes for free due to the way assertion works.
 
-What about universal quantification, as in (11.4.1b)? First, notice that there's an ambiguity with the quasi-english statement of the sentence that isn't there in the first-order formulism: in the sentence `(every person) descendant (some y)`, it's unclear if `y` should be read *de dicto* or *de re*. The difference is between whether we're saying that (a) for each person there is someone who their the descendent of, or (b) there is some person that everyone is the descendent of. Clearly, these are different sentences.
+What about universal quantification, as in (11.4.1b)? First, notice that there's an ambiguity with the quasi-english statement of the sentence that isn't there in the first-order formulism: in the sentence `(every person) descendant (some person)`, it's unclear if `y` should be read *de dicto* or *de re*. The difference is between whether we're saying that (a) for each person there is someone who their the descendent of, or (b) there is some person that everyone is the descendent of. Clearly, these are different sentences.
 
-The first order formulism can disambiguate these based on the order of the quantifiers: (a) `∀x∈people. ∃y. x descendant y` vs (b) `∃y. ∀x∈people. x descendant y`. 
+The first order formulism can disambiguate these based on the order of the quantifiers: (a) `∀x∈P. ∃y∈P. D(x,y)` vs (b) `∃y∈P. ∀x∈P. D(x,y)`. 
 
 How does Navyanyāya go about dealing with this? At its heart, the idea is the same in both the Navya and the quantificational approach. We express complex ideas by building up a formula in layers, starting inside and working outward. The difference is, whereas the structural unit in quantificational logic expresses a proposition (when its open variables are bound); for Navyanyāya formulas, the structural unit expresses a type. 
 
 So, just as with, e.g., a first-order formula,  we build a Navya formula layer by layer, inside out, with the inner formula subordinated to the outer formula. The trick is that, at each layer, we have to be careful about the orientation of the type each formula expresses: what is its basis and what is its clarifier.
 
-For the case of binding `y` first and then `x`, the orientation of the type `descendentτ` is already appropriate. So, we can just translate this as:
+For the case of binding `y` first and then `x`, the orientation of the type `dτ` is already appropriate. So, we can just translate this as:
 
 <div>
-personτ :: descendentτ∀ <br>
+∀x∈P. ∃y∈P. D(x,y) <br> <br>
+pτ :: dτ∀ <br>
 जीव|त्वे अपत्य|त्व|अव्यभिचारः
 </div>
 {: .quote .example}
 Example (11.4.3a)
-{: .examplecaption}
+{: .examplecaption} 
 
 
-How about when binding `x` first? We just have to swap the direction of the assertion, first we swap the direction of the type: `descendentτκ` [अपत्य|त्व|निरूपक], then we need to specify that its clarifier (`x`) is being universally quantified over. Putting this together, we get the type:
+<div style="padding-bottom: 15px; padding-top: 5px;">
+How about when binding <code class="language-plaintext highlighter-rouge">x</code> first? We just have to swap the direction of the assertion, first we swap the direction of the type: <code class="language-plaintext highlighter-rouge">dτκ</code> [अपत्य|त्व|निरूपक], then we need to specify that its clarifier (<code class="language-plaintext highlighter-rouge">x</code>) is being universally quantified over. Putting this together, we get the type: 
+</div>
 
 <div>
-descendentτκτ!⊥ <br>
+∃y∈P. ∀x∈P. D(x,y) <br> <br>
+
+dτκτ!⊥ <br>
 अपत्य|त्व|निरूपक।ता।विशिष्टाभाव।अभावः
 </div>
 {: .quote .example}
 Example (11.4.3b)
 {: .examplecaption}
 
+
 Note, how we get the existential quantification over the basis (`y`) for free, since its implied by simply asserting that the type in (11.4.3b) is realized.
 
-What if we want to do the same thing, but also universally quantify over `y`? One thing about the Navya framework, is that you can't have a universal quantification without any domain restrictions. But, we can modify the original first-order formula a tiny bit: `∀x∈people. ∀y∈people. x descendant y`.
-
-This should be pretty straightforward, at this point:
+What if we want to do the same thing, but also universally quantify over `y`? This should be pretty straightforward, by now:
 
 <div>
-personτ :: descendentτ!⊥∀ <br>
+∀x∈P. ∀y∈P. D(x,y) <br> <br>
+pτ :: dτ!⊥∀ <br>
 जीव|त्वे अपत्य|त्व|विशिष्टाभाव।अभाव।अव्यभिचारः
 </div>
 {: .quote .example}
@@ -1800,13 +1933,11 @@ Now, given some triadic relation `R`, there are 48 (3! x 2<sup>3</sup>) differen
 Let's say our formula is:
 
 <div>
-∀x∈X. ∃z. ∀y. R(x,y,z)
+∀x∈X. ∃z∈Z. ∀y∈Y. R(x,y,z)
 </div>
 {: .quote .example}
 Example (11.5.1)
 {: .examplecaption}
-
-Note, that we have to restrict the domain of the outer-most universal quantification, as we discussed earlier; in this case by quantifying over some set of entites `X`. When translating this into the Navya assertion, we'll use `X` to represent the type that defines this set.
 
 Now, how would we translate this into a Navya style formula? First, notice that much of the analytical tools deployed by Naiyyāyikas is designed for two-place relations. To levarage these tools, we need a way to represent a three-place relation like `R` in terms of two-place relations. 
 
@@ -1815,6 +1946,7 @@ Naiyyāyikas typically do this by breaking a single three-place relation into a 
 So, e.g., the relation `R(x,y,z)` asserted of could be written in terms of three seperate relations `S(x,y)`, `T(x,z)`, and `U(z,y)`. We could then represent the relation `R`, asserted between three items `x`, `y`, `z` with the Navya formula:
 
 <div>
+R(x,y,z) <br> <br>
 x :: yS z(yUΘ T)
 </div>
 {: .quote .example}
@@ -1824,7 +1956,7 @@ Example (11.5.2)
 Now, in order to introduce the quantifiers, we start with the inner formula:
 
 <div>
-∃z. ∀y. R(x,y,z)
+∃z∈Z. ∀y∈Y. R(x,y,z)
 </div>
 {: .quote .example}
 Example (11.5.3a)
@@ -1833,7 +1965,7 @@ Example (11.5.3a)
 We can translate this into the Navyanyāya language as:
 
 <div>
-z :: U!⊥
+Z :: (YΘ U)!⊥
 </div>
 {: .quote .example}
 Example (11.5.3b)
@@ -1842,7 +1974,8 @@ Example (11.5.3b)
 Now, we just need to introduce the universal quantification over `X`:
 
 <div>
-A :: U!⊥ιT∀
+∀x∈X. ∃z∈Z. ∀y∈Y. R(x,y,z) <br> <br>
+X :: (YΘ U)!⊥ιT∀
 </div>
 {: .quote .example}
 Example (11.5.4)
@@ -1899,7 +2032,8 @@ In order to reconstruct this problem in the Navyanyāya framework, we
 have to first construct a definition of P:
 
 <div>
-P = (Γ⊥ι Γ)τ
+P = t̂η t̂⊥ <br>
+पः तन्।निष्ठ तद्।अभावः 
 </div>
 {: .quote .example}
 Example (9.4)
@@ -1909,14 +2043,26 @@ Now, since in Nyāya we work directly with properties, instead of with
 sets, we can ask if P is realized in itself?
 
 <div>
-?> P :: P <br>
-→ P :: (Γ⊥ι Γ)τ <br>
-→ P :: P⊥ιτ <br>
+?> P Pι <br>
+→ P (t̂η t̂⊥)ι <br>
+→ P t̂ t̂⊥ι <br>
+→ P P⊥ι <br>
 → P :: P⊥ <br>
 </div>
 {: .quote .example}
 Example (9.4)
 {: .examplecaption}
+
+<div>
+?> पः प।वान् <br>
+→ पः (तन्।निष्ठ तद्।अभाव)वान्  <br>
+→ P :: P⊥ιτ पे प|   <br>
+→ P :: P⊥ <br>
+</div>
+{: .quote .example}
+Example (9.4)
+{: .examplecaption}
+
 
 Which looks like a contradiction.
 
@@ -1924,10 +2070,10 @@ What about the alternative:
 
 <div>
 ?> P :: P⊥ <br>
-→ P :: (Γ⊥ι Γ)τ⊥ <br>
+→ P :: (t̂⊥ι t̂)τ⊥ <br>
 → P :: P⊥ιτ⊥ <br>
-→ P :: P⊥⊥ &nbsp; # since Γιτ = Γ <br>
-→ P :: P &nbsp; &nbsp; # since Γ⊥⊥ = Γ 
+→ P :: P⊥⊥ &nbsp; # since t̂ιτ = t̂ <br>
+→ P :: P &nbsp; &nbsp; # since t̂⊥⊥ = t̂
 </div>
 {: .quote .example}
 Example (9.4)
@@ -1940,7 +2086,7 @@ Except: we're only dealing with `⊥` and not `ˉ`. And since only `ˉ` can trig
 What if we define P as
 
 <div>
-P = (Γιˉι Γ)τ
+P = t̂η t̂ˉι
 </div>
 {: .quote .example}
 Example (9.4)
@@ -1950,9 +2096,9 @@ Then, for ? `P: P` we get
 
 <div>
 ?> P :: P <br>
-→ P :: (Γιˉι Γ)τ <br>
+→ P :: (t̂ιˉι t̂)τ <br>
 → P :: Pιˉιτ <br>
-→ P :: Pιˉ # since Γιτ = Γ
+→ P :: Pιˉ # since t̂ιτ = t̂
 </div>
 {: .quote .example}
 Example (9.4)
@@ -1983,7 +2129,7 @@ Which is a contradiction. This leaves:
 ?> P :: P⊥ <br>
 → P :: (Γιˉι Γ)τ⊥ <br>
 → P :: Pιˉιτ⊥ <br>
-→ P :: Pιˉ⊥  # since Γιτ = Γ
+→ P :: Pιˉ⊥  # since t̂ιτ = t̂
 </div>
 {: .quote .example}
 Example (9.4)
@@ -1998,11 +2144,11 @@ As we discussed earlier (in the section on pure negatives), Naiyyāyikas interpr
 For example, in order to resolve the indeterminacy in this sentence we need to partition the localization space of `P` by some other property `D` such that `P` realizes either
 `D` or `D⊥` but not both. In other words, we resolve the incomplete (i.e. indeterminate) realization of a type at a basis by partitioning it with a property that is either completely (i.e. determinately) realized or completely unrealized at that basis.
 
-So, given some type `D` that, let's say, `P: Dιˉ`, then given the type `Dξ P`; we can ask:
+So, given some type `D` that, let's say, `P::Dιˉ`, then given the type `Dξ P`; we can ask:
 
 <div>
 ?> P :: Dξ P <br>
-→ P :: Dξ (Γ⊥ι Γ)τ <br>
+→ P :: Dξ (t̂⊥ι t̂)τ <br>
 → P (D P⊥ι) <br>
 → P :: Dι
 </div>
@@ -2024,7 +2170,7 @@ But, note what happens when we try out the alternative:
 Example (9.4)
 {: .examplecaption}
 
-Unlike last time where we had `P: P⊥⊥`, we can't reduce
+Unlike last time where we had `P::P⊥⊥`, we can't reduce
 `(Dξ P⊥)⊥` to `P`!
 
 But, this means we can only talk about whether `P` applies,
@@ -2048,8 +2194,6 @@ schema separation in well-founded set theory.
 
 Below is a cheat sheet for all the Navyanyāya operators with their Sanskrit names and the symbols I'm using to represent them. The top block consistent of the three fundemental Navyanyāya operators: realization and the two negation types. The second block consists of some of the core operators that can be defined in terms of the first block. The last block contains the operators used to manipulate multi-place types.
 
-Also, remember that the symbol Γ is used to introduce a pronoun.
-
 
 | Sanskrit Name   | Symbol | Description   |
 |-----------------|--------|---------------|
@@ -2064,15 +2208,15 @@ Also, remember that the symbol Γ is used to introduce a pronoun.
 | Sanskrit Name     | Symbol | Definition | Description        |
 |-------------------|--------|------------|--------------------|
 | -tva              | τ      | ˉ⊥         | Abstraction        |
-| nirūpaka/-ka      | κ      | Γx:Γ; Γx   | Clarifier          |
+| nirūpaka/-ka      | κ      | ûv̂; v̂û   | Clarifier          |
 | niṣṭha/vr̥tta      | η      | ιτκ        | Type of            |
-| avachedaka        | Ξ      | Γ⊥ιητˉ     | Partitioner        |
+| avachedaka        | Ξ      | t̂⊥ιητˉ     | Partitioner        |
 | avachinna         | ξ      | Ξτκ        | Partition          |
 | nirūpita          | Π      | κτκ        | Clarified by       |
 | nirūpaka          | σ      | Πτκ        | Clarifying type of |
 | nirūpita          | Θ      | σκ         | Clarified by type  |
 | sāmānādhikaraṇyam | ∃      | ιητ        | Co-realization     |
-| avyabhicātaḥ      | ∀      | Γ⊥ιητˉ     | Regularity         |
+| avyabhicātaḥ      | ∀      | t̂⊥ιητˉ     | Regularity         |
 |---------------|--------|------------|---------------------|
 {: .mdtable}
 
