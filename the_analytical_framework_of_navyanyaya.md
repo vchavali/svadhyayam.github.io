@@ -549,42 +549,15 @@ together.
 
 ### Partitioning (अवच्छितिः)
 
-Let's consider the following definition: "a daughter is a female descendent". Here, the subject is `दुहिता` or `daughter`. The definition features two types: `स्त्री।त्वम्` / `femaleτ` and `अपत्य।ता` /
-`descendent`. But, notice, that `daughter` is not
-equivalent to either element of the definition, on its own. Instead, we
-could say that `daughterτ` is a *subtype* of
-`descendentτ`; specifically that subtype which is also a subtype of
-`femaleτ`. In Nyāya jargon, we express the idea 'a
-subtype of X' with the phrase 'a partition [अवच्छितिः] of X'.
+Let's consider the following definition: "a daughter is a female descendent". Here, the subject is `दुहिता` or `daughter`. The definition features two types: `स्त्री।त्वम्` / `femaleτ` and `अपत्य।ता` / `descendent`. But, notice, that `daughter` is not equivalent to either element of the definition, on its own. Instead, we could say that `daughterτ` is a *subtype* of `descendentτ`; specifically that subtype which is also a subtype of `femaleτ`. In Nyāya jargon, we express the idea 'a subtype of X' with the phrase 'a partition [अवच्छितिः] of X'.
 
-Partitioning [अवच्छेदनम्; avacchedanam] is one of those infamous Navya
-concepts that's endlessly confusing but central to how the whole
-machinery works. We've already come across this concept once before in
-the phrase 'scope partitioner'. As we've already indicated, the simplest way to think about this is as a device for subtyping generic types. To be very precise, a `partitioner` \[अवच्छेदकः; avacchedakaḥ\] of some type
-`T` is a type whose basis never extends beyond
-that of `T` \[अनतिरिक्तवृत्तिः; anatiriktavr̥ttiḥ\]. Given some
-partitioner `P`, we can define a subtype of `T` by constraining
-its realization to that of the bases of `P`. We call this
-subtype a 'P-partitioned \[अवच्छिन्नम्; avacchinnam\] T'.
+Partitioning [अवच्छेदनम्; avacchedanam] is one of those infamous Navya concepts that's endlessly confusing but central to how the whole machinery works. We've already come across this concept once before in the phrase 'scope partitioner'. As we've already indicated, the simplest way to think about this is as a device for subtyping generic types. To be very precise, a `partitioner` \[अवच्छेदकः; avacchedakaḥ\] of some type `T` is a type whose basis never extends beyond that of `T` \[अनतिरिक्तवृत्तिः; anatiriktavr̥ttiḥ\]. Given some partitioner `P`, we can define a subtype of `T` by constraining its realization to that of the bases of `P`. We call this subtype a 'P-partitioned \[अवच्छिन्नम्; avacchinnam\] T'.
 
-But, what if we want to restrict `T` by a type `Q`
-that overlaps with, but isn't contained by `T`? In this case,
-it would be more accurate to say that we partition `T` by
-a subtype of `Q` (i.e. a 'partitioned' Q). But, as we'll see
-in the next section, the ambiguity inherent in the expression 'some
-subtype' is already built into how Navyanyāya operators work within the
-overarching framework. So, it's still works to just say 'a Q-partition
-of T'.
+But, what if we want to restrict `T` by a type `Q` that overlaps with, but isn't contained by `T`? In this case, it would be more accurate to say that we partition `T` by a subtype of `Q` (i.e. a 'partitioned' Q). But, as we'll see in the next section, the ambiguity inherent in the expression 'some subtype' is already built into how Navyanyāya operators work within the overarching framework. So, it's still works to just say 'a Q-partition of T'.
 
-The most explicit way to partition a type is using the
-partition operators. Navyanyāya provides two: `अवच्छेदक`
-[-avacchedaka-; partitioner] and `अवच्छिन्न`
-[-avacchinna-; partitioned] which can be suffixed to the base type,
-just like with the abstraction operators. And, again, we'll represent these with Greek letters: `Ξ` for the partitioner and `ξ` for the
-partitioned type.
+The most explicit way to partition a type is using the partition operators. Navyanyāya provides two: `अवच्छेदक` [-avacchedaka-; partitioner] and `अवच्छिन्न` [-avacchinna-; partitioned] which can be suffixed to the base type, just like with the abstraction operators. And, again, we'll represent these with Greek letters: `Ξ` for the partitioner and `ξ` for the partitioned type.
 
-With this, we can define `daughterτ` in terms of a pair of
-assertions:
+With this, we can define `daughterτ` in terms of a pair of 
 
 <div>
 daughterτ :: descendentτΞτ <br>
@@ -659,13 +632,9 @@ TAIL HEAD
 Example (6.2)
 {: .examplecaption}
 
-The rule, then, is that the syntactic relations involving embedded
-phrases are always between the heads of those phrases. So
-`(V W)τ` refers to the scope partitioner of `W` in
-coordination with `V`.
+The rule, then, is that the syntactic relations involving embedded phrases are always between the heads of those phrases. So `(V W)τ` refers to the scope partitioner of `W` in coordination with `V`.
 
-With this in place, we can write a better definition for 'daughter' in
-terms of 'descendent' and 'female':
+With this in place, we can write a better definition for 'daughter' in terms of 'descendent' and 'female':
 
 <div>
 daughter = female descendent <br>
@@ -675,9 +644,7 @@ daughter = female descendent <br>
 Example (6.3a)
 {: .examplecaption}
 
-One note: in later Navya style, the preference is to state things in
-terms of the types, rather than their bases. So, the idiom is to write
-the definition like this:
+One note: in later Navya style, the preference is to state things in terms of the types, rather than their bases. So, the idiom is to write the definition like this:
 
 <div> 
 daughterτ = femaleτξ descendentτ <br>
@@ -793,6 +760,10 @@ potη colorι <br>
 Example (6.9a-b)
 {: .examplecaption}
 
+### Manipulating Coordinated Expressions
+
+#### Abstraction and Realization
+
 We can summarize these relationships in terms of two rules, which
 together provide something like an internal definition of abstraction and realization.
 
@@ -802,48 +773,70 @@ the other:
 
 <div>
 p ::   bτ <br>
-पे ब।त्वम् <br> <br>
-
 pη      pτ <br>
-प।निष्ठम् ब।त्वम् <br> <br>
-
-p  b <br>
-प: ब:
+p  b
 </div>
 {: .quote .example}
-Rule (P.1) <a name="P.1">
+Rule (T.1) <a name="T.1">
 {: .examplecaption}
 
-Rule (P.1) essentially defines the concept of a scope partitioner: a
+Rule (T.1) essentially defines the concept of a scope partitioner: a
 word refers to an object if and only if that object realizes its scope
 partitioner.
 
 Second, the following identity holds for all `b`
 
 <div>
-bτι =  b <br>
-ब।त्व।वान्  = ब:
+bτι =  b
 </div>
 {: .quote .example}
-Rule (P.2) <a name="P.2">
+Rule (T.2) <a name="T.2">
 {: .examplecaption}
 
-Rule (P.2) is sometimes called the "tattvavān tad eva" [तत्ववान् तदेव] rule and connects the concept of type abstraction with realization. Note that when we stack operators, the order of operations is left associative.
+Rule (T.2) is sometimes called the "tattvavān tad eva" [तत्ववान् तदेव] rule and connects the concept of type abstraction with realization. Note that when we stack operators, the order of operations is left associative.
 I.E 'xτι' is interpreted as '(xτ)ι'.
 
-From (P.1) and (P.2), we can derive another core equivalence. Given any
+From (T.1) and (T.2), we can derive another core equivalence. Given any
 two symbols `p` and `b`, the following assertions
 are equivalent:
 
 <div>
 p :: b <br>
-पे ब: <br> <br>
-
-p  bι <br>
-पः ब।वान्
+p  bι
 </div>
 {: .quote .example}
-Rule (P.3) <a name="P.3">
+Rule (T.3) <a name="T.3">
+{: .examplecaption}
+
+#### Properties of the Partitioning Relation
+
+The partitioning relation is symmetric 
+
+<div> 
+Pξ T = Tξ P <br>
+</div>
+{: .quote .example}
+Rule (P.1) <a name="P.1">
+{: .examplecaption}
+
+And transative:
+
+If,
+
+<div> 
+A :: BΞτ
+B :: CΞτ
+</div>
+{: .quote .example}
+Rule (P.2a)
+{: .examplecaption}
+
+Then:
+<div> 
+A :: CΞτ
+</div>
+{: .quote .example}
+Rule (P.2) <a name="P.2">
 {: .examplecaption}
 
 In addition, the concept of partitioning is connected in an intimate way the concept of abstraction.
@@ -852,17 +845,13 @@ Given any two types `T` and `P`, if the type
 `Pξ T` / `प।अवच्छिन्न ट:` exists, then the following assertions are always true:
 
 <div> 
-Pξ T = Tξ P <br>
-प।अवच्छिन्न टः = ट।अवच्छिन्न पः <br> <br>
-
 (Pξ T) :: Tτ <br>
-(प।अवच्छिन्न टे) ट।त्वम्
 </div>
 {: .quote .example}
-Rule (P.4) <a name="P.4">
+Rule (P.3) <a name="P.333
 {: .examplecaption}
 
-(P.4a) says that partitioning is symmetric. (P.4b) captures the idea
+(P.3) captures the idea
 that partitioning is a form of subtyping. So, the partition of a type
 still falls under the same 'abstraction' and can be referred to by the
 same name as the base type. This rule also allows us to draw an
@@ -870,29 +859,25 @@ analogy between Navya type abstraction and a concept in modern set
 theory: if we think of a type as analogous to a set, then abstraction is
 analogous to the powerset function.
 
-Lastly, a few miscellaneous rules for manipulating terms in coordination.
+#### Algebraic Properties of Coordination
 
-First, the following rule expresses the idea that coordination involves partitioning of scope partitioners:
+Coordination connects abstraction and partitioning in another basic way:
 
 <div> 
 (P T)τ = Pτξ Tτ
-(प ट)त्वम् = प।त्व।अवच्छिन्न ट।त्वम्
 </div>
 {: .quote .example}
-Rule (P.5) <a name="P.5">
+Rule (C.1) <a name="C.1">
 {: .examplecaption}
 
-[A (B C)]τ = Aτξ (B C)τ 
-= Aτξ (Bτξ Cτ)
-= Aτξ (Cτξ Bτ)
-
-A (B C)
-
-
-(A B) C
-
-A B
-B A
+The symmetry and transitivity of Partitioning imply that coordination associative and transitive:
+<div> 
+A B = B A <br>
+A (B C) = (A B) C
+</div>
+{: .quote .example}
+Rule (C.1) <a name="C.1">
+{: .examplecaption}
 
 ### Clarification (nirūpaṇam)
 
@@ -1129,67 +1114,6 @@ TAIL:HEAD
 Example (8.1)
 {: .examplecaption}
 
-For brevity, when the first member of the compound is in parentheses, the ':' can be dropped. E.G. `a:x` or `(a)x`. 
-
-Subordination is always left-associative. So:
-
-<div>
-ABC = (AB)C
-</div>
-{: .quote .example}
-Rule (S.1) <a name="S.1">
-{: .examplecaption}
-
-In this case, `A` is the subordinate of `B`, which is the subordinate of `C`. 
-
-We can interpet a subordinate expression by the following rule: Take two words `p` and `b` such that `pτ` refers to an unclarified type and `bτ` refers to a partitioner of the clarifying type (i.e. `pτσ`). Then, by placing `b` in subordination to `p`, we clarify the scope partitioner of `p` by `bτ`.
-
-We can formalize this rule via the following identity. Given any two objects `A` and `B`:
-
-<div> 
-ABτ = AΠ Bτ
-</div>
-{: .quote .example}
-Rule (S.2) <a name="S.2">
-{: .examplecaption}
-
-A consequence of this rule is that when we subordinate two terms to the same head, the order doesn't matter:
-
-<div>
-A(BC)τ = AΠ BCτ <br>
-= AΠ BΠ Cτ <br> 
-= BΠ AΠ Cτ <br> 
-= B(AΠ Cτ) <br>
-= B(AC)
-</div>
-{: .quote .example}
-Rule (S.3) <a name="S.3">
-{: .examplecaption}
-
-
-Another important identity:
-
-<div>
-
-(Aξ (Bξ Cσ)
-
-b :: Aτξ Bτ
-bC = bΠ Cτ
-
-(A B)Π Cτ
-((Aτξ Bτ)ξ Cτσ)Θ Cτ
-
-Aτξ Bτ
-
-
-AΠ BΠ Cτ
-(A B)Cτ = (A B)Π Cτ
-= (Aτξ Bτ)
-</div>
-{: .quote .example}
-Example (8.2)
-{: .examplecaption}
-
 Let's look go back to our example sentence:
 
 <div>
@@ -1210,25 +1134,58 @@ rāma raghu:descendent <br>
 Example (8.2b)
 {: .examplecaption}
 
-Now, recall the rule connecting partitioning and clarification. The same rule allows us to connect subordination with coordination.
+For brevity, when the first member of the compound is in parentheses, the ':' can be dropped. E.G. `a:x` or `(a)x`. 
 
-First note that, given any unclarified type `T` and some clarifying type 'a', the following identity always holds:
+One interesting point about subordination. You may have noticed that the syntax for subordination looks a lot like applying an operator. This isn't a coincidence. Put simply, Navyanyāya operators are no more or less than unclarified types. They can even be used as standalone words; e.g. `η` / `निष्ठः` which refers to the type of all types. Navyanyāya operator application just is type clarification, and the syntax I'm using to represent them just is subordination. The bottom line here is that the syntax of the Navyanyāya language is extremely simple; everything is achieved with just coordination, subordination, and assertions. Logical operators aren't special syntactic devices, nor are typical logical connectives like conjunction, disjunction negation, etc., treated in any special way by the syntax; they just arise naturally as forms of syntactic subordination. That's pretty cool! 
 
-<div> 
-aTτ = aτΘ Tτ
+Now for a few rules about how to manipulate subordinate phrases.
+
+By convention, subordination is left-associative. So:
+
+<div>
+ABC = (AB)C
 </div>
 {: .quote .example}
-Example (8.3)
+Rule (S.1) <a name="S.1">
 {: .examplecaption}
 
-This just follows from the definition of subordination. Second, note that the abstaction operator `τ` *always* generates a positive type. Therefore, 
+In this case, `A` is the subordinate of `B`, which is the subordinate of `C`. 
 
-two clarifying types `a` and `b`
+Subordination distributes over coordination on the right-hand side:
 
-Example (8.3) holds universally, because (1) the abstraction operator always generates a positive type and (2) 
+<div>
+(A B)C = AC BC
+</div>
+{: .quote .example}
+Rule (S.2) <a name="S.2">
+{: .examplecaption}
 
+And stacked subordinates commute:
 
-One last interesting point about subordination. You may have noticed that the syntax for subordination looks a lot like applying an operator. This isn't a coincidence. Put simply, Navyanyāya operators are no more or less than unclarified types. They can even be used as standalone words; e.g. `η` / `निष्ठः` which refers to the type of all types. Navyanyāya operator application just is type clarification, and the syntax I'm using to represent them just is subordination. The bottom line here is that the syntax of the Navyanyāya language is extremely simple; everything is achieved with just coordination, subordination, and assertions. Logical operators aren't special syntactic devices, nor are typical logical connectives like conjunction, disjunction negation, etc., treated in any special way by the syntax; they just arise naturally as forms of syntactic subordination. That's pretty cool! 
+<div>
+A(BC) = B(AC)
+</div>
+{: .quote .example}
+Rule (S.3) <a name="S.3">
+{: .examplecaption}
+
+Note that the subordinate and principal *do not* commute:
+
+<div>
+AB = BA <— this is not a true identity
+</div>
+{: .quote .example}
+Rule (S.4) <a name="S.4">
+{: .examplecaption}
+
+Lastly, coordination relates to partitioning via the identity: 
+
+<div> 
+ABτ = AΠ Bτ
+</div>
+{: .quote .example}
+Rule (S.5) <a name="S.5">
+{: .examplecaption}
 
 ### Negation
 
@@ -1239,7 +1196,7 @@ whole sentence, not a single term. But, as we mentioned at the beginning, there 
 
 Near the end of the first section talking about clarification, we introduced the idea of positive and negative types based on a difference in how clarification and partitioning interact between the two. Specifically, whereas clarified positive types are partitioners of their unclarified counterparts; the directionality of the partitioning is transposed for negative types. In this case, the *unclarified* type is the partitioner of the clarified counterpart. Intuitively, this means that an unqualified negative assertion, e.g. "Rāma is not an ancestor", is a special case of a qualified negative assertion, e.g. "Rāma is not Kuru's ancestor".
 
-By default, unanalyzable (i.e. primitive) Navya types has positive valence. In order to define a negative type, we build it out of a small set of primitive negative types. These objects are used to represent a variety of logical structures including intuitively 'negative' concepts like falsity and contradiction, but also less intuitively negative things like tense-modal operators (e.g, 'always', 'sometimes') and logical connectives like disjunction (i.e. 'or') and entailment.
+By default, unanalyzable (i.e. primitive) Navya types have positive valence. In order to define a negative type, we build it out of a small set of primitive negative types. These objects are used to represent a variety of logical structures including intuitively 'negative' concepts like falsity and contradiction, but also less intuitively negative things like tense-modal operators (e.g, 'always', 'sometimes') and logical connectives like disjunction (i.e. 'or') and entailment.
 
 Here, we'll just focus on the two most fundamental type: the *pure negative* [अत्यन्ताभावः; atyantābhāvā\] and the *co-negative* [अन्योन्याभावः; anyonyābhāvāḥ].
 
@@ -1247,7 +1204,7 @@ Here, we'll just focus on the two most fundamental type: the *pure negative* [�
 
 Negative types are a special case of a broader category called two-place \[उभयनिष्ठः; ubhayaniṣṭhaḥ\] types. Whereas any single instance of a normal 'one-place' type has just one basis, a two-place type involves two bases simultaneously.
 	
-An example of this sort of type is a two-place relation. Let's define the word `production` \[उत्पत्तिः\] which refers to a relation of cause and effect between two objects. Note that although `production` involves both a cause and an effect (i.e., it's a two-place type), there is an asymmetry between how it relates to each one. We can have the production *of* smoke *by* fire. But, typically, not vice-a-versa. In other words, although a two-place type has two bases, it isn't realized the same way in each one. We'll refer to it's 'dominant' basis as its *substrate* \[अनुयोगि; anuyogi\] and the other as its *correlate* \[प्रतियोगि; pratiyogi\]. So, `smoke` is the `substrate` of a `production` whose correlate is `fire`.
+An example of this sort of type is a two-place relation. Let's define the word `production` \[उत्पत्तिः\] which refers to a relation of cause and effect between two objects. Note that although `production` involves both a cause and an effect (i.e., it's a two-place type), there is an asymmetry between how it relates to each one. We can have the production *of* smoke *by* fire. But, typically, not vice-a-versa. In other words, although a two-place type has two bases, it isn't realized the same way in each one. We'll refer to it's 'dominant' basis as its *substrate* \[अनुयोगि; anuyogi\] and the other as its *correlate* \[प्रतियोगि; pratiyogi\]. So, `smoke` is the substrate of a `production` whose correlate is `fire`.
 
 Or, in Navyanyāya speak, using the unclarified types `अनुयोगि` \[anuyogi\] and `प्रतियोगि` \[pratiyogi\], which we'll represent with the greek letters `α` and `π`, respectively:
 
@@ -1273,13 +1230,13 @@ Example (9.1.2)
 
 Briefly on multi-place types: They're just extensions of two-place types with multiple correlates. In this case, to specify each correlate separately , Navyanaiyyāyikas use a syntax called *collation* \[द्वन्द्वः; dvandvaḥ\], typically represented by a *dvandva* compound with the whole thing either taking the appropriate case ending or being embedded in another compound. We'll represent this similarly, but with ',' separating each element of the collation.
 	
-The simplest example of a multi-place type is `pair` / `द्वयः` \[-dvayaḥ-\] which is realized in a given basis if and only if each of its two correlates are also realized there.
+The simplest example of a multi-place type is `pair` / `उभय` \[-dvaya-\] which is realized in a given basis if and only if each of its two correlates are also realized there.
 
 One common use of a pair is to express the conjunction of two types, i.e. the 'and' operator:
 	
 <div>
 (T,D)pairι p <br>
-(ट,ड)द्वय।वान् पः
+(ट,ड)उभय।वान् पः
 </div>
 {: .quote .example}
 Example (9.1.3)
@@ -1305,11 +1262,31 @@ The pure negative is often (in English language literature) called an 'absence'.
 
 #### Co-negatives
 
-The Co-negative expresses contradictions. Naiyyāyikas represent this with the words `अन्योन्याभावः` \[anyonyābhāvaḥ\]; or`भेदः` \[bhedaḥ\], for short. We'll represent the co-negative type with the symbol `ˉ`.
+The Co-negative expresses inconsistency. Naiyyāyikas represent this with the words `अन्योन्याभावः` \[anyonyābhāvaḥ\]; or`भेदः` \[bhedaḥ\], for short. We'll represent this with the symbol `ˉ`. 
 
-Given any word `T`, the types `Tτ` and `Tˉ` are contradictory; i.e. they are never realized in the same basis. Practically speaking, this means that given a set of alternative hypotheses (e.g. `a X` and `a Y`), if you can show that one of them is contradictory (`a::Yˉ`), then you can infer that the other is true (`a X`).
+This idea of 'inconsistency' is cached out in terms of a relationship between the inconsistency and falsity. Namely, if two facts are inconsistent with one another, then each one is false where there other other is true. We can formalize this idea as follows. 
 
-Note that this doesn't apply for pure negatives. Because Navyanyāya objects can be specified in an ambiguous way, via types, it is possible for something to be both true (`T`) and false (`T⊥`) of `a`. The classic case involves objects that are temporally or spatially extended; so that some fact about that object can be true of some part and false of some other.
+Given two entities `A` and `B`, if you assume that:
+
+<div>
+A :: Bˉ
+</div>
+{: .quote .example}
+Rule (C.1)
+{: .examplecaption}
+
+then, you can infer
+<div>
+A :: Bτ⊥
+</div>
+{: .quote .example}
+Rule (N.1)
+{: .examplecaption}
+
+However, the reverse does not hold. Falsity does not imply inconsistency.
+
+
+some assertion is inconsistent, then it is false. But, if it is false, that does not mean that it is inconsistent. Because Navyanyāya objects can be specified in an ambiguous way, via types, it is possible for something to be both true (`T`) and false (`T⊥`) of `a`. The classic case involves objects that are temporally or spatially extended; so that some fact about that object can be true of some part and false of some other.
 	
 For example, an assertion like 'Rāma is the descendent of Raghu'
 
@@ -1349,17 +1326,29 @@ ayōdhyā :: (exiled rāma)⊥ <br>
 Example (9.3.3a-b)
 {: .examplecaption}
 
-This is called *incomplete realization* [अव्याप्यवृत्तिः; avyāpyavr̥ttiḥ]. Namely, a property is realized in a basis incompletely if it and its absence are co-realized at that basis. Most types are capable of being incompletely realized. Importantly, this includes the type `⊥`, since (e.g.) `ayōdhyā::(rāma rāma⊥)` implies `ayōdhyā::(rāma⊥⊥ rāma⊥)`. 
+This phenomenon is called *incomplete realization* [अव्याप्यवृत्तिः; avyāpyavr̥ttiḥ]. A property is incompletely realized in a basis if both it and  its absence are realized at that basis. Most types are capable of being incompletely realized. Importantly, this includes the type `⊥`, since (e.g.) `ayōdhyā::(rāma rāma⊥)` implies `ayōdhyā::(rāma⊥⊥ rāma⊥)`. On the flip side, the type `ˉ` is always completely realized in its basis. 
 
-Some types, though, can't be incompletely realized. According to another great Maithilī philosopher, Udayanācārya (~11th ce), there is a special category of types called 'natural types' [जातीयधर्माः; jātīyadhārmāḥ] which have property of always being completely realized in their bases, along with a few other properties (such as not permitting infinite series or cycles) that make them "well-founded" in a certain technical sense. I won't say much more about this because it's a big topic. 
+The possiblity of incomplete realization puts complicated wrinkles in the theory of inference; and, I would argue, a big part of the historical success Navyanyāya—the reason it came to dominate logical thinking in India since its inception in around the 10th ce—lies in its recognition of these problems and the innovations it introduced to try and grapple with them. Many of the most interesting Navya ideas—the typology and algebra of negative types, the concept of type partitions, etc.—can be traced to these debates. For example, Udayanācārya (~10th ce), one of the key transitional figures in the shift from the Old Nyāya (प्राचीनन्यायः; prācīnanyāyaḥ) to Navyanyāya, tries to come up with set of formal criteria sufficient for gaurrunteeing that type always occurs completely in its bases. Core elements in this criteria include the lack of self-realizing or cyclicly realizing types (i.e. type `A` is realized in `B`, which is realized in `C`, which is realized in `A`). This same criteria, e.g., occurs in axiomatic set theory as the axiom of seperation; motivated with concerns about inconsistencies in naive set theory. We'll take a closer look at how the Navya framework deals with one of the famous cases of such set theoretic paradoxes—the Russell-Zarmelo paradox—in the penultimate section of this artice.
 
-More relevant to us, though: the type `ˉ` is always completely realized in its basis.
+For now though, let's look at a few more properties/rules regarding the two negative types:
 
-In addition to this, we can add two more rules this. The first is a law of double negation: `T=T⊥⊥`. Second allows you to reduce contradiction to falsity: `b::Tιˉ` implies `b::T`.
+Given any word `T`, the types `Tτ` and `Tˉ` are contradictory; i.e. they are never realized in the same basis. This rule also allows for defining abstraction in terms of contradiction:
 
-In contemporary jargon: The logic of pure negatives is paraconsistent and lacks a disjunctive syllogism. The logic of co-negatives is intuitionistic and lacks double negation elimination and middle exclusion.
+<div> 
+τ = ˉιˉ
+</div>
+{: .quote .example}
+Rule (N.2)
+{: .examplecaption}
 
-Notice how absolutely central the concept of negation is to the overal logical machinery of Navyanyāya. Negation is *the* core logical concept within this framework. An of-repeated adage in Navya texts is that "negation grounds inference".
+We also have the following double elimination law for co-negatives:
+
+<div> 
+ι = ˉιˉι
+</div>
+{: .quote .example}
+Rule (N.3)
+{: .examplecaption}
 
 #### An Example
 
@@ -1727,7 +1716,19 @@ called a 'group' \[कूटः; kūṭaḥ\].
 
 An interesting type that sometimes shows up in Navyanyāya texts is the so-called negative group (kūṭābhāvaḥ). The negative group is defined as you'd expect `कूट।अभावः` / `group⊥` and is present wherever at least one of its constituents is absent. 
 
-Disjunction \[अन्यतरत्वम्; anyataratvam\] is then typically defined in terms of negative groups or negative pairs; e.g. as the negative of a group of negatives `⊥group⊥` / `अभाव।कूट।अभावः` (abhāvakūṭābhāvaḥ) or the negative of a pair of negatives `⊥pair⊥` / `अभाव।द्वय।अभावः`. This definition amounts to a statement of De' Morgan's Law.
+The type `double` [दद्वयः; dvayaḥ] provides convenient syntax for pairs whose correlates are of the same type. With this, we can represent a conjunction of two negations as: `⊥double` / `अभाव।द्वयः`. 
+
+In the *Vācaspatyam*, a dictionary of Navyanyāya terms and their derivations by the great 19th ce Pt. Tārānātha Tarkavācaspati, we find the following definition of Disjunction [अन्यतरत्वम्; anyataratvam; the "or" operator].
+
+<div>
+disjunctionτ :: (ˉdoubleξ πτ)κ ˉ <br>
+अन्यतरत्वम् (भेद।द्वय।अवच्छिन्न प्रतियोगि।ता)क भेदः
+</div>
+{: .quote .example}
+Example (10.4.1)
+{: .examplecaption}
+
+In other words, disjunction is a co-negative clarified by a double co-negative.
 
 #### Quantification
 
@@ -1740,7 +1741,7 @@ b :: aτ <br>
 पक्षिणि जन्तु।त्वम्
 </div>
 {: .quote .example}
-Example (11.3.1)
+Example (10.5.1)
 {: .examplecaption}
 
 Where `b` means 'bird' and `a` means 'animal'.
@@ -1756,17 +1757,17 @@ b :: aτ⊥ <br>
 पक्षिणि जन्तु।त्व।अभावः
 </div>
 {: .quote .example}
-Example (11.3.2)
+Example (10.5.2)
 {: .examplecaption}
 
-Now, (11.3.2) does translate to "some birds are not animals". But, because there's no way to negate this assertion *from the outside*. I.E. Just stacking another pure negative just gives us:
+Now, (10.5.2) does translate to "some birds are not animals". But, because there's no way to negate this assertion *from the outside*. I.E. Just stacking another pure negative just gives us:
 
 <div>
 b :: aτ⊥⊥ <br>
 पक्षिणि जन्तु|त्व।अभाव।अभावः
 </div>
 {: .quote .example}
-Example (11.3.2)
+Example (10.5.2)
 {: .examplecaption}
 
 translating to "some birds are not not animals". This just reduces back to `b::aτ`. A no go.
@@ -1778,17 +1779,17 @@ The trick is to represent the assertion as a type. We can do this by recalling t
 सामानाधिकण्यम् = तद्।वद्।वृत्त।त्वम्
 </div>
 {: .quote .example}
-Example (11.3.3)
+Example (10.5.3)
 {: .examplecaption}
 
-With this in place, we can rewrite (11.3.2) as relationship between types:
+With this in place, we can rewrite (10.5.2) as relationship between types:
 
 <div>
 bτ :: aτ∃ <br>
 पक्षि|त्वे जन्तु|त्व|सामानाधिकरण्यम्
 </div>
 {: .quote .example}
-Example (11.3.4)
+Example (10.5.4)
 {: .examplecaption}
 
 We can construct the negation of the co-realization relation in two different ways, via pure and co- negatives
@@ -1801,7 +1802,7 @@ We can construct the negation of the co-realization relation in two different wa
 असामानाधिकण्यम् = तद्।वद्।वृत्त।त्व।भेदः
 </div>
 {: .quote .example}
-Example (11.3.5a-b)
+Example (10.5.5a-b)
 {: .examplecaption}
 
 The difference, if you recall from the negative type section, above, is that `⊥` can be realized incompletely in its basis (and therefore does not preclude `∃` from *also* occuring there); whereas `ˉ` *does*. We want the second one. Adding in the inner negation, we can define the universal quantifier as:
@@ -1811,7 +1812,7 @@ The difference, if you recall from the negative type section, above, is that `�
 अव्यभिचारः = तद्।अभाव।वद्।वृत्त।त्व।भेदः
 </div>
 {: .quote .example}
-Example (11.3.5a-b)
+Example (10.3.5a-b)
 {: .examplecaption}
 
 With this in place, we can construct the universal statement about birdness and animalness:
@@ -1821,7 +1822,7 @@ bτ :: aτ∀ <br>
 पक्षि|त्वे जन्तु|त्व|अव्यभिचारः
 </div>
 {: .quote .example}
-Example (11.3.6)
+Example (10.5.6)
 {: .examplecaption}
 
 As a quick side note, the type `Γ⊥ιητˉ` \ `तद्।अभाव।वद्।वृत्त।त्व।भेदः` has a special name: 'अव्यभिचारः' [avyabhicāraḥ] which translates as "regularity". 
@@ -1837,7 +1838,7 @@ bτ aτΞ <br>
 पक्षि।त्वं जन्तु।त्व।अवच्छेदकम्
 </div>
 {: .quote .example}
-Example (11.3.2)
+Example (10.5.2)
 {: .examplecaption}
 
 That seems way easier, why didn't we just lead with that! Mainly because Naiyyāyikas think of negation as the more fundemental operation and understand partitioning in terms of it. So, I wanted to specifically bring out the role of negation in expressing generalizations within this framework.
@@ -1857,25 +1858,25 @@ Let's go back to the original example that got us talking about quantifiers:
 ∀x∈P. ∃y∈P. D(x,y)
 </div>
 {: .quote .example}
-Example (11.4.1a-b)
+Example (10.6.1a-b)
 {: .examplecaption}
 
 Where, `P` refers to the set of people and `D(x,y)` means 'x is a descendent of y'
 
-(11.4.1a) is easy, we already know how to do this:
+(10.6.1a) is easy, we already know how to do this:
 
 <div>
 p :: pd
 </div>
 {: .quote .example}
-Example (11.4.2)
+Example (10.6.2)
 {: .examplecaption}
 
 where `p` means 'person' and `d` means 'descendent'.
 
 Existential quantification comes for free due to the way assertion works.
 
-What about universal quantification, as in (11.4.1b)? First, notice that there's an ambiguity with the quasi-english statement of the sentence that isn't there in the first-order formulism: in the sentence `(every person) descendant (some person)`, it's unclear if `y` should be read *de dicto* or *de re*. The difference is between whether we're saying that (a) for each person there is someone who their the descendent of, or (b) there is some person that everyone is the descendent of. Clearly, these are different sentences.
+What about universal quantification, as in (10.6.1b)? First, notice that there's an ambiguity with the quasi-english statement of the sentence that isn't there in the first-order formulism: in the sentence `(every person) descendant (some person)`, it's unclear if `y` should be read *de dicto* or *de re*. The difference is between whether we're saying that (a) for each person there is someone who their the descendent of, or (b) there is some person that everyone is the descendent of. Clearly, these are different sentences.
 
 The first order formulism can disambiguate these based on the order of the quantifiers: (a) `∀x∈P. ∃y∈P. D(x,y)` vs (b) `∃y∈P. ∀x∈P. D(x,y)`. 
 
@@ -1891,7 +1892,7 @@ pτ :: dτ∀ <br>
 जीव|त्वे अपत्य|त्व|अव्यभिचारः
 </div>
 {: .quote .example}
-Example (11.4.3a)
+Example (10.6.3a)
 {: .examplecaption} 
 
 
@@ -1906,11 +1907,11 @@ dτκτ!⊥ <br>
 अपत्य|त्व|निरूपक।ता।विशिष्टाभाव।अभावः
 </div>
 {: .quote .example}
-Example (11.4.3b)
+Example (10.6.3b)
 {: .examplecaption}
 
 
-Note, how we get the existential quantification over the basis (`y`) for free, since its implied by simply asserting that the type in (11.4.3b) is realized.
+Note, how we get the existential quantification over the basis (`y`) for free, since its implied by simply asserting that the type in (10.6.3b) is realized.
 
 What if we want to do the same thing, but also universally quantify over `y`? This should be pretty straightforward, by now:
 
@@ -1920,7 +1921,7 @@ pτ :: dτ!⊥∀ <br>
 जीव|त्वे अपत्य|त्व|विशिष्टाभाव।अभाव।अव्यभिचारः
 </div>
 {: .quote .example}
-Example (11.4.4)
+Example (10.6.4)
 {: .examplecaption}
 
 #### 3+ Stacked Quantifiers
@@ -1936,7 +1937,7 @@ Let's say our formula is:
 ∀x∈X. ∃z∈Z. ∀y∈Y. R(x,y,z)
 </div>
 {: .quote .example}
-Example (11.5.1)
+Example (10.7.1)
 {: .examplecaption}
 
 Now, how would we translate this into a Navya style formula? First, notice that much of the analytical tools deployed by Naiyyāyikas is designed for two-place relations. To levarage these tools, we need a way to represent a three-place relation like `R` in terms of two-place relations. 
@@ -1950,7 +1951,7 @@ R(x,y,z) <br> <br>
 x :: yS z(yUΘ T)
 </div>
 {: .quote .example}
-Example (11.5.2)
+Example (10.7.2)
 {: .examplecaption}
 
 Now, in order to introduce the quantifiers, we start with the inner formula:
@@ -1959,7 +1960,7 @@ Now, in order to introduce the quantifiers, we start with the inner formula:
 ∃z∈Z. ∀y∈Y. R(x,y,z)
 </div>
 {: .quote .example}
-Example (11.5.3a)
+Example (10.7.3a)
 {: .examplecaption}
 
 We can translate this into the Navyanyāya language as:
@@ -1968,7 +1969,7 @@ We can translate this into the Navyanyāya language as:
 Z :: (YΘ U)!⊥
 </div>
 {: .quote .example}
-Example (11.5.3b)
+Example (10.7.3b)
 {: .examplecaption}
 
 Now, we just need to introduce the universal quantification over `X`:
@@ -1978,7 +1979,7 @@ Now, we just need to introduce the universal quantification over `X`:
 X :: (YΘ U)!⊥ιT∀
 </div>
 {: .quote .example}
-Example (11.5.4)
+Example (10.7.4)
 {: .examplecaption}
 
 
@@ -2000,6 +2001,9 @@ Now, we can assert that the sky is always blue via the constant absence of an ab
 sky :: blue⊥-
 </div>
 {: .quote .example}
+Example (10.7.1)
+{: .examplecaption}
+
 
 We can assert that the sky is sometimes blue via the absence of a constant absence of blue:
 
@@ -2007,15 +2011,16 @@ We can assert that the sky is sometimes blue via the absence of a constant absen
 sky :: blue-⊥
 </div>
 {: .quote .example}
+Example (10.7.2)
+{: .examplecaption}
 
 #### The Russell-Zarmelo Paradox
 
 So far, we've talked about stuff that is part of the real historical
 canon of Navyanyāya. Below, I'll apply some of these ideas to talking
-about the Russel-Zarmelo paradox; although I personally don't know of a
-discussion of this paradox in an actual Nyāya text. Puzzles
-about self-reference are something Naiyyāyikas do talk about, though. So, the
-topic is still within the arena of Navyanyāya.
+about the Russel-Zarmelo paradox. Although I personally don't know of a
+discussion of this paradox in an actual Nyāya text, puzzles
+about self-reference are something Naiyyāyikas do talk about (as we mentioned earlier, with regard to Udayāna's discussion about 'natural types'). So, the topic is still within the broad canvas of Navyanyāya issues.
 
 The paradox in its original setting was intended to show that set theory
 with unrestricted set comprehensions, i.e. the ability to define a set
@@ -2032,64 +2037,52 @@ In order to reconstruct this problem in the Navyanyāya framework, we
 have to first construct a definition of P:
 
 <div>
-P = t̂η t̂⊥ <br>
-पः तन्।निष्ठ तद्।अभावः 
+P = (t̂⊥ι t̂)τ <br>
+प: = आत्म।अभावः।वत्।त्वम्
 </div>
 {: .quote .example}
-Example (9.4)
+Example (10.8.1)
 {: .examplecaption}
 
 Now, since in Nyāya we work directly with properties, instead of with
 sets, we can ask if P is realized in itself?
 
 <div>
-?> P Pι <br>
-→ P (t̂η t̂⊥)ι <br>
-→ P t̂ t̂⊥ι <br>
+?> P :: (t̂⊥ι t̂)τ <br>
 → P P⊥ι <br>
 → P :: P⊥ <br>
 </div>
 {: .quote .example}
-Example (9.4)
+Example (10.8.2)
 {: .examplecaption}
 
-<div>
-?> पः प।वान् <br>
-→ पः (तन्।निष्ठ तद्।अभाव)वान्  <br>
-→ P :: P⊥ιτ पे प|   <br>
-→ P :: P⊥ <br>
-</div>
-{: .quote .example}
-Example (9.4)
-{: .examplecaption}
-
-
-Which looks like a contradiction.
+Which results in an assertion that looks inconsistent with the assumption `P::P`.
 
 What about the alternative:
 
 <div>
 ?> P :: P⊥ <br>
-→ P :: (t̂⊥ι t̂)τ⊥ <br>
-→ P :: P⊥ιτ⊥ <br>
-→ P :: P⊥⊥ &nbsp; # since t̂ιτ = t̂ <br>
-→ P :: P &nbsp; &nbsp; # since t̂⊥⊥ = t̂
+→ P P⊥ι <br>
+→ P t̂⊥ι t̂ <br>
+→ P :: (t̂⊥ι t̂)τ <br>
+→ P :: P
 </div>
 {: .quote .example}
-Example (9.4)
+Example (10.8.3)
 {: .examplecaption}
 
-Which also looks like a contradiction.
+Which also looks inconsistent.
 
-Except: we're only dealing with `⊥` and not `ˉ`. And since only `ˉ` can trigger genuine contradictions, this isn't really contradictory.
+Except: we're only dealing with `⊥` and not `ˉ`. And since only `ˉ` can trigger genuine contradictions, this the inconsistency is only apparent (i.e. its paraconsistent).
 
 What if we define P as
 
 <div>
-P = t̂η t̂ˉι
+P = (t̂ιˉι t̂)τ <br>
+पः = आत्म।वत्।भेद।वत्।त्वम्
 </div>
 {: .quote .example}
-Example (9.4)
+Example (10.8.4)
 {: .examplecaption}
 
 Then, for ? `P: P` we get
@@ -2097,11 +2090,11 @@ Then, for ? `P: P` we get
 <div>
 ?> P :: P <br>
 → P :: (t̂ιˉι t̂)τ <br>
-→ P :: Pιˉιτ <br>
-→ P :: Pιˉ # since t̂ιτ = t̂
+→ P Pιˉι <br>
+→ P :: Pιˉ
 </div>
 {: .quote .example}
-Example (9.4)
+Example (10.8.5)
 {: .examplecaption}
 
 but:
@@ -2123,72 +2116,65 @@ P :: Pιτ Pιˉ
 Example (9.4)
 {: .examplecaption}
 
-Which is a contradiction. This leaves:
+Which is a genuine contradiction. This leaves:
 
-<div> 
+<div>
 ?> P :: P⊥ <br>
-→ P :: (Γιˉι Γ)τ⊥ <br>
-→ P :: Pιˉιτ⊥ <br>
-→ P :: Pιˉ⊥  # since t̂ιτ = t̂
+→ P P⊥ι <br>
+→ P t̂⊥ι t̂ <br>
+→ P :: (t̂⊥ι t̂)τ
 </div>
 {: .quote .example}
-Example (9.4)
+Example (10.8.3)
 {: .examplecaption}
 
-Note, this doesn't result in a contradiction either; since, unlike with ``Pτ⊥⊥`` we can't reduce `Pιˉ⊥` to `Pτ`. And, while `P::(Pτˉ Pτˉ⊥)` *does* give us a contradiction (since `ˉ` is not incompletely realizable), `P::(P⊥ Pτˉ⊥)` is *not*. And, we can't force `P::Pτˉ` by eliminating`P::P`; since disjunction elimination only works with `⊥`.
+But notice that this time around, the property  `(t̂⊥ι t̂)τ` is not the same thing as `P`. So, you can't substitute `—> P :: P` to get the contradiction going.
 
-But, how do we interpret assertions like: `P::P⊥`? If they're not contradictions, then what are they?
+But, how do we interpret assertions like: `P::P⊥`? If they're not contradictions, then what are they? As we discussed earlier (in the section on pure negatives), Naiyyāyikas interpret this as something that fails to express an internally consistent assertion not because `P` is paradoxical but because it is indeterminate. To review, in Navyanyāya jargon, the co-realization of a property and its absence in the same basis is called 'incomplete realization' [अव्याप्यवृत्तिः; avyāpyavr̥ttiḥ] and is resolved by distinguishing the partition [अवच्छेदकभेदेन; avacchedakabhedena] over which the property operates from that of its absence. 
 
-As we discussed earlier (in the section on pure negatives), Naiyyāyikas interpret this as something that fails to express an internally consistent assertion not because `P` is incoherent but because it is indeterminate. In Navyanyāya jargon, the co-realization of a property and its absence in the same basis is called 'incomplete realization' [अव्याप्यवृत्तिः; avyāpyavr̥ttiḥ] and is resolved by distinguishing the partition [अवच्छेदकभेदेन; avacchedakabhedena] over which the property operates from that of its absence. 
+For example, in order to resolve the indeterminacy in this sentence we need to partition the localization space of `P` by some other property `D` such that `P` realizes either `D` or `D⊥` but not both. In other words, we resolve the incomplete realization of a type at a basis by partitioning it with a property that is either completely realized or completely unrealized at that basis.
 
-For example, in order to resolve the indeterminacy in this sentence we need to partition the localization space of `P` by some other property `D` such that `P` realizes either
-`D` or `D⊥` but not both. In other words, we resolve the incomplete (i.e. indeterminate) realization of a type at a basis by partitioning it with a property that is either completely (i.e. determinately) realized or completely unrealized at that basis.
-
-So, given some type `D` that, let's say, `P::Dιˉ`, then given the type `Dξ P`; we can ask:
+So, e.g., let's stipulate that there exists some type `D` such that it is completely unrealized in P. Then, given the type `Dξ P`; we can ask:
 
 <div>
 ?> P :: Dξ P <br>
 → P :: Dξ (t̂⊥ι t̂)τ <br>
-→ P (D P⊥ι) <br>
-→ P :: Dι
+→ P Dι P⊥ι <br>
+→ P :: Dιτ
 </div>
 {: .quote .example}
 Example (9.4)
 {: .examplecaption}
 
-which is a contradiction.
+which is inconsistent with our initial stipulation that `P:Dιˉ`.
 
-But, note what happens when we try out the alternative:
+So, we can infer that `P :: Dξ P` is false — `P :: (Dξ P)⊥`. 
+
+Now, to reproduce the paradox, we need to get this to produce another inconsistency:
 
 <div>
-?> P :: DξP⊥ <br>
-→ P :: (Dξ P⊥ι)⊥ <br>
-→ P :: (Dξ P⊥⊥⊥)⊥ <br>
-→ P :: (Dξ P⊥)⊥ <br>
+?> P :: (Dξ P)⊥ <br>
+→ P t̂ (Dξ P)⊥ι <br>
+→ P t̂ (Dξ t̂)⊥ι <br>
+→ P Dξ⊥ι t̂ t̂⊥ι <br>
+→ P Dξ⊥ι Pι <br>
+→ P (Dξ⊥ P)ι <br>
+→ P :: (Dξ⊥ P) <br>
 </div>
 {: .quote .example}
 Example (9.4)
 {: .examplecaption}
 
-Unlike last time where we had `P::P⊥⊥`, we can't reduce
-`(Dξ P⊥)⊥` to `P`!
+But, notice how the previously paraconsistent assertion `P :: P⊥ P` now resolves into one with distinct partitioners: `P :: (Dξ P)⊥ (Dξ⊥ P)`. This succesfully perserves a classical form of consistency, so long as the partitioning type is completely realized in its basis.
 
-But, this means we can only talk about whether `P` applies,
-i.e. whether some type fails to self-occur, with regards to a subset of
-types. What if we want to ask whether or not `Dξ P` fails to
-self-occur? We can do this by defining a larger type `F` that
-occurs in `Dξ P`, but is still too small to include
-`P`, and then constructing `Fξ P`.
+On the other hand, this means we can only talk determinately about whether `P` applies—i.e. whether a given type fails to self-occur—with regards to only a subset of the universe of types. What if we want to ask, e.g., whether or not `Dξ P` fails to self-occur? We can do this by defining a larger type `F` that occurs in `Dξ P`, but is still too small to include `P`, and then constructing `Fξ P`.
 
 And, we can repeat this question for `Fξ P` by defining an
 even larger (but still not too large) type `G`. And, we can
 repeat this too, *ad infinitum*, each time getting closer and closer to
 the unpartitioned type `P`, without ever quite reaching it.
-What this gives you is something like a ramified type theory, such as in
-Russel's own solution to the problem, arising organically just through
-the logic of type partitions. Or, we could see partitioners as
-representing constraints on property comprehension, akin to the axiom
-schema separation in well-founded set theory.
+What this gives results in is something like a ramified type theory consisting in a heirarchy of types—such as we find in Russel's own solution to the problem—arising organically just through
+the logic of type partitions. 
 
 ### List of Navya Nyāya Operators
 
@@ -2207,8 +2193,8 @@ Below is a cheat sheet for all the Navyanyāya operators with their Sanskrit nam
 
 | Sanskrit Name     | Symbol | Definition | Description        |
 |-------------------|--------|------------|--------------------|
-| -tva              | τ      | ˉ⊥         | Abstraction        |
-| nirūpaka/-ka      | κ      | ûv̂; v̂û   | Clarifier          |
+| -tva              | τ      | ˉιˉ        | Abstraction        |
+| nirūpaka/-ka      | κ      | ûv̂; v̂û     | Clarifier          |
 | niṣṭha/vr̥tta      | η      | ιτκ        | Type of            |
 | avachedaka        | Ξ      | t̂⊥ιητˉ     | Partitioner        |
 | avachinna         | ξ      | Ξτκ        | Partition          |
@@ -2217,7 +2203,7 @@ Below is a cheat sheet for all the Navyanyāya operators with their Sanskrit nam
 | nirūpita          | Θ      | σκ         | Clarified by type  |
 | sāmānādhikaraṇyam | ∃      | ιητ        | Co-realization     |
 | avyabhicātaḥ      | ∀      | t̂⊥ιητˉ     | Regularity         |
-|---------------|--------|------------|---------------------|
+|-------------------|--------|------------|--------------------|
 {: .mdtable}
 
 <br>

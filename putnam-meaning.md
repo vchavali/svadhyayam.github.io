@@ -20,9 +20,9 @@ set of possible referents. Let us call this second approach the
 externalist approach.
 
 Where the two approaches above represent distinct answers to the
-epistemic question: \"How do we come to know the meaning of an term?\";
-we can formulate an equivalent ontic question as, \"What is it in virtue
-of which a term is assigned its reference?\". To this latter question,
+epistemic question: "How do we come to know the meaning of an term?";
+we can formulate an equivalent ontic question as, "What is it in virtue
+of which a term is assigned its reference?". To this latter question,
 again, we can offer an internalist and an externalist response.
 Following Frege (Frege 1948, pg. 210), we distinguish between the
 reference of a sign and its sense. Whereas the reference of a sign
@@ -33,8 +33,9 @@ determines the truth value of a proposition by fixing the reference of
 the term which features in the sentences that express it. In other
 words, given some term *T* and its sense S:
 
-\(1\) Knowing the meaning of *T* involves being in a mental state whose
-content features S (2) S determines the reference of *T*
+1.Knowing the meaning of *T* involves being in a mental state whose
+content features S 
+2. S determines the reference of *T*
 
 In advance of any formal arguments, we may note the intuitive appeal of
 a view of this sort in tying together the ontic and epistemic questions
@@ -106,9 +107,9 @@ that the referent of the word \'water\' must of the same kind (same~k~)
 as the referent of the indexical \'this\' (Putnam 1973, pg. 702). In
 symbolic terms:
 
-\(3\) □∀x.x same~k~ this ≡ x is water
+3. □∀x.x same~k~ this ≡ x is water
 
-Where by \'water\', we mean the *actual* word \'water\' (rather than the
+Where by 'water', we mean the *actual* word 'water' (rather than the
 word pronounced \"water\" in W).
 
 Putnam\'s point is that, presented this way, the formulism is ambiguous
