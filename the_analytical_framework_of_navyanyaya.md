@@ -2123,9 +2123,7 @@ But notice that this time around, the property  `(t̂⊥ι t̂)τ` is not the sa
 
 But, how do we interpret assertions like: `P::P⊥`? If they're not contradictions, then what are they? As we discussed earlier (in the section on pure negatives), Naiyyāyikas interpret this as something that fails to express an internally consistent assertion not because `P` is paradoxical but because it is indeterminate. To review, in Navyanyāya jargon, the co-realization of a property and its absence in the same basis is called 'incomplete realization' [अव्याप्यवृत्तिः; avyāpyavr̥ttiḥ] and is resolved by distinguishing the partition [अवच्छेदकभेदेन; avacchedakabhedena] over which the property operates from that of its absence. 
 
-For example, in order to resolve the indeterminacy in this sentence we need to partition the localization space of `P` by some other property `D` such that `P` realizes either `D` or `D⊥` but not both. In other words, we resolve the incomplete realization of a type at a basis by partitioning it with a property that is either completely realized or completely unrealized at that basis.
-
-So, e.g., let's stipulate that there exists some type `D` such that it is completely unrealized in P. Then, given the type `Dξ P`; we can ask:
+For example, let's stipulate that there exists some type `D` such that it is completely unrealized in P. Then, given the type `Dξ P`; we can ask:
 
 <div>
 ?> P :: Dξ P <br>
@@ -2156,9 +2154,9 @@ Now, to reproduce the paradox, we need to get this to produce another inconsiste
 Example (9.4)
 {: .examplecaption}
 
-But, notice how the previously paraconsistent assertion `P P⊥ι Pι` now resolves into one with distinct partitioners: `P (Dξ P)⊥ι (Dξ⊥ξ Pτ)ι`. This succesfully perserves a classical form of consistency, so long as the partitioning type is completely realized in its basis.
+But, notice how the previously paraconsistent assertion `P P⊥ι Pι` now resolves into one with distinct partitioners: `P (Dξ P)⊥ι (Dξ⊥ξ Pτ)ι`. This successfully perserves a classical form of consistency, so long as the partitioning type is completely realized in its basis.
 
-On the other hand, this means we can only talk determinately about whether `P` applies—i.e. whether a given type fails to self-occur—with regards to only a subset of the universe of types. What if we want to ask, e.g., whether or not `Dξ P` fails to self-occur? We can do this by defining a larger type `F` that occurs in `Dξ P`, but is still too small to include `P`, and then constructing `Fξ P`.
+On the other hand, this means we can only talk determinately about whether `P` applies—i.e. whether a given type fails to be self-realizing—with regards to only a subset of the universe of types. What if we want to ask, e.g., whether or not `Dξ P` fails to self-occur? We can do this by defining a larger type `F` that occurs in `Dξ P`, but is still too small to include `P`, and then constructing `Fξ P`.
 
 And, we can repeat this question for `Fξ P` by defining an
 even larger (but still not too large) type `G`. And, we can
