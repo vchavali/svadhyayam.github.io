@@ -1876,7 +1876,7 @@ where `p` means 'person' and `d` means 'descendent'.
 
 Existential quantification comes for free due to the way assertion works.
 
-What about universal quantification, as in (10.6.1b)? First, notice that there's an ambiguity with the quasi-english statement of the sentence that isn't there in the first-order formulism: in the sentence `(every person) descendant (some person)`, it's unclear if `y` should be read *de dicto* or *de re*. The difference is between whether we're saying that (a) for each person there is someone who their the descendent of, or (b) there is some person that everyone is the descendent of. Clearly, these are different sentences.
+What about universal quantification, as in (10.6.1b)? First, notice that there's an ambiguity with the quasi-english statement of the sentence that isn't there in the first-order formulism: in the sentence `(every person) descendant (some person)`, it's unclear if `y` should be read *de dicto* or *de re*. The difference is between whether we're saying that (a) for each person there is someone who they're the descendent of, or (b) there is some person that everyone is the descendent of. Clearly, these are different sentences.
 
 The first order formulism can disambiguate these based on the order of the quantifiers: (a) `∀x∈P. ∃y∈P. D(x,y)` vs (b) `∃y∈P. ∀x∈P. D(x,y)`. 
 
@@ -2107,15 +2107,6 @@ but:
 Example (9.4)
 {: .examplecaption}
 
-therefore:
-
-<div> 
-P :: Pιτ Pιˉ
-</div>
-{: .quote .example}
-Example (9.4)
-{: .examplecaption}
-
 Which is a genuine contradiction. This leaves:
 
 <div>
@@ -2158,14 +2149,14 @@ Now, to reproduce the paradox, we need to get this to produce another inconsiste
 → P t̂ (Dξ t̂)⊥ι <br>
 → P Dξ⊥ι t̂ t̂⊥ι <br>
 → P Dξ⊥ι Pι <br>
-→ P (Dξ⊥ P)ι <br>
-→ P :: (Dξ⊥ P) <br>
+→ P (Dξ⊥ξ Pτ)ι <br>
+→ P :: Dξ⊥ξ Pτ <br>
 </div>
 {: .quote .example}
 Example (9.4)
 {: .examplecaption}
 
-But, notice how the previously paraconsistent assertion `P :: P⊥ P` now resolves into one with distinct partitioners: `P :: (Dξ P)⊥ (Dξ⊥ P)`. This succesfully perserves a classical form of consistency, so long as the partitioning type is completely realized in its basis.
+But, notice how the previously paraconsistent assertion `P P⊥ι Pι` now resolves into one with distinct partitioners: `P (Dξ P)⊥ι (Dξ⊥ξ Pτ)ι`. This succesfully perserves a classical form of consistency, so long as the partitioning type is completely realized in its basis.
 
 On the other hand, this means we can only talk determinately about whether `P` applies—i.e. whether a given type fails to self-occur—with regards to only a subset of the universe of types. What if we want to ask, e.g., whether or not `Dξ P` fails to self-occur? We can do this by defining a larger type `F` that occurs in `Dξ P`, but is still too small to include `P`, and then constructing `Fξ P`.
 
