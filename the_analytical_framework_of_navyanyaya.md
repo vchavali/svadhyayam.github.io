@@ -819,7 +819,7 @@ Pξ T = Tξ P <br>
 Rule (P.1) <a name="P.1">
 {: .examplecaption}
 
-And transative:
+And transitive:
 
 If,
 
@@ -1825,7 +1825,7 @@ bτ :: aτ∀ <br>
 Example (10.5.6)
 {: .examplecaption}
 
-As a quick side note, the type `Γ⊥ιητˉ` \ `तद्।अभाव।वद्।वृत्त।त्व।भेदः` has a special name: 'अव्यभिचारः' [avyabhicāraḥ] which translates as "regularity". 
+As a quick side note, the type `t̂⊥ιητˉ` \ `तद्।अभाव।वद्।वृत्त।त्व।भेदः` has a special name: 'अव्यभिचारः' [avyabhicāraḥ] which translates as "regularity". 
 
 This concept of regularity between types gives us a first-pass definition of a very special relation called 'pervasion' [व्याप्तिः; vyāptiḥ]. The pervasion relation is the relationship between types that allows for type-inference; i.e. the ability to infer the realization of a type at a basis based on prior knowledge of its realization of some other type. For example, inferring from "eagles are birds" to "eagles are animals" based on knowledge that being a bird entails being an animal. 
 
