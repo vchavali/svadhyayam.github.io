@@ -775,7 +775,7 @@ Example (7.5a)
 Still, writing it this way is a bit annoying, since you need to explicitly name the clarifying type. But, using the clarifier operator, we can write:
 
 <div>
-r :: (dτ SλΔ)Θ Sλ
+r :: (dτ SλΔ)Θ Sλ <br>
 रामे ((दशरथ।निष्ठ पुत्र।त्व।निरूपक)निरूपित पितृ।त्वम्)
 </div>
 {: .quote .example}
@@ -794,7 +794,7 @@ As an aside for those of you following along with the Sanskrit: Naiyyāyikas oft
 These two sets of operators can be interchanged via the following rules:
 
 <div>
-aΠ T = (aτ TΔ)Θ T
+aΠ T = (aτ TΔ)Θ T <br>
 Tκ a = TΔι a
 </div>
 {: .quote .example}
@@ -1015,7 +1015,7 @@ In simple terms, a pure negative represents falsity. In other words, it's used t
 For example, if we want to assert that the assertion 'Rāma is Pāṇḍu's son' is false, we could express this in terms of a pure negative:
 
 <div>
-r :: pSλ⊥
+r :: pSλ⊥ <br>
 रामे कुरु।अप्त्य।ता।अभावः
 </div>
 {: .quote .example}
@@ -1084,7 +1084,7 @@ For now though, let's look at a few more properties and rules regarding the two 
 Given any word `T`, the types `Tλ` and `Tˉ` are contradictory; i.e. they are never realized in the same basis. This rule also allows for defining abstraction in terms of contradiction:
 
 <div> 
-λ = ˉιˉ
+λ = ˉιˉ <br>
 तत्।त्वम् तद्।अभेदः
 </div>
 {: .quote .example}
@@ -1150,7 +1150,7 @@ Rama is not a son. <br>
 Example (9.4.4a-b)
 {: .examplecaption}
 
-In the first instance, the sentences in (10.2a-b) are stating more or less the same fact, but just at different levels of specificity. On the other hand, (10.3a-b) are saying totally different things; in fact, (10.3a) is true, whereas (10.3b) is false.
+In the first instance, the sentences in (9.4.3a-b) are stating more or less the same fact, but just at different levels of specificity. On the other hand, (9.4.4a-b) are saying totally different things; in fact, (9.4.4a) is true, whereas (9.4.4b) is false.
 
 We see the same asymmetry in the Navyanyāya formulae:
 	
@@ -1211,7 +1211,7 @@ How would we go about saying this? First, let's define `G` as 'daughterλ', `F` 
 With this, we can get most of the way there:
 
 <div> 
-G= FΞ (DΘ D)⊥Ξ D <br>
+G = FΞ (DΘ D)⊥Ξ D <br>
 दुहितृ।त्वम् = स्त्री।त्व।अवच्छिन्न (अपत्य।त्व|निरूपित अपत्य|त्व)अभाव।अवच्छिन्न अपत्य।त्वम्
 </div>
 {: .quote .example}
@@ -1327,7 +1327,7 @@ The clarifier of this type would be in coordination with the pronoun `t̂`. In a
 
 For brevity (and to try to match the sanskrit as closely as possible), if there is only one variable within a phrase, that it is assumed to be the clarifier of the whole phrase and the preceeding `[]` can be dropped. Also, if there are no pronouns in the construction then the type being clarified is the referrent of the head element (the right-hand element for both coordinate and subordinate phrases).
 
-So, we can define son as:
+So, we can define daughter as:
 	
 <div>
 G = FΞ (t̂DΘ D)⊥Ξ D<br>
@@ -1852,6 +1852,7 @@ Now, to reproduce the paradox, we need to get this to produce another inconsiste
 → P DΞ⊥ι t̂ t̂⊥ι <br>
 → P DΞ⊥ι Pι <br>
 → P (DΞ⊥ιτ P)ι <br>
+→ P :: DΞ⊥ιτ P <br>
 → P :: DΞ⊥Ξ P <br>
 </div>
 {: .quote .example}
