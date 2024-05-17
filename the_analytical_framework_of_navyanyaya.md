@@ -741,7 +741,7 @@ If, however, the unclarified type `T` is *negative*:
 
 <div>
 T :: ((CΞ TΔ)Θ T)Σλ <br>
-टे = ((क।अवच्छिन्न ट।निरूपक)निरूपित ट)अवच्छेदक।ता
+टे ((क।अवच्छिन्न ट।निरूपक)निरूपित ट)अवच्छेदक।ता
 </div>
 {: .quote .example}
 Rule (C.2) <a name="C.2">
