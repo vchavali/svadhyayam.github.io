@@ -347,22 +347,22 @@ Partitioning is one of those infamous Navya concepts that's endlessly confusing 
 
 But, what if we want to restrict `T` by a type `Q` that overlaps with, but isn't contained by `T`? In this case, it would be more accurate to say that we partition `T` by a subtype of `Q` (i.e. a 'partitioned' Q). But, as we'll see in a later section on another infamously confusing Navya concept called "clarification", the ambiguity inherent in the expression 'some subtype' is already built into how Navyanyāya operators work within the overarching framework. So, it's works to just say 'Q-partitioned T'.
 
-The most explicit way to partition a type is using the partitioning operators. Navyanyāya provides two: `अवच्छेदक` [-avacchedaka-; partitioner] and `अवच्छिन्न` [-avacchinna-; partitioned] which can be suffixed to the base type, just like with the abstraction operators. And, again, we'll represent these with Greek letters: `Ξ` for the partitioner and `ξ` for the partitioned type.
+The most explicit way to partition a type is using the partitioning operators. Navyanyāya provides two: `अवच्छेदक` [-avacchedaka-; partitioner] and `अवच्छिन्न` [-avacchinna-; partitioned] which can be suffixed to the base type, just like with the abstraction operators. And, again, we'll represent these with Greek letters: `Σ` for the partitioner and `Ξ` for the partitioned type.
 
 With this, we can define `daughterλ` in terms of a pair of assertions:
 
 <div>
-daughterλ :: descendentλΞλ <br>
+daughterλ :: descendentλΣλ <br>
 दुहितृ।त्वे अपत्य।ता।अवच्छेदक।ता <br> <br>
 
-daugheterλ :: femaleλΞλ <br>
+daugheterλ :: femaleλΣλ <br>
 दुहितृ।त्वे स्त्री।त्व।अवच्छेदक।ता
 </div>
 {: .quote .example}
 Example (5.3a-b)
 {: .examplecaption}
 
-Note the double abstraction. The phrase `Ξλ` / `अवच्छेदक।ता` is a common idiom for asserting that one type is the partioner of another.
+Note the double abstraction. The phrase `Σλ` / `अवच्छेदक।ता` is a common idiom for asserting that one type is the partioner of another.
 
 ### Coordination
 
@@ -407,7 +407,7 @@ Example (6.3a)
 One note: in later Navya style, the preference is to state things in terms of the types, rather than their bases. So, the idiomatic way to write the definition is:
 
 <div> 
-daughterλ = femaleλξ descendentλ <br>
+daughterλ = femaleλΞ descendentλ <br>
 दुहितृ।त्वम् = स्त्री।त्व।अवच्छिन्न अपत्य।त्वम्
 </div>
 {: .quote .example}
@@ -445,7 +445,7 @@ For example, to assert that the type `daughterλ` is
 inhabited, we could assert:
 
 <div> 
-femaleλξ       descendent <br>
+femaleλΞ       descendent <br>
 स्त्री।त्व।अवच्छिन्न  अपत्य।त्वम्
 </div>
 {: .quote .example}
@@ -548,7 +548,7 @@ Rule (T.3) <a name="T.3">
 The partitioning relation is symmetric 
 
 <div> 
-Pξ T = Tξ P <br>
+PΞ T = TΞ P <br>
 </div>
 {: .quote .example}
 Rule (P.1) <a name="P.1">
@@ -559,8 +559,8 @@ And transitive:
 If,
 
 <div> 
-A :: BΞλ
-B :: CΞλ
+A :: BΣλ
+B :: CΣλ
 </div>
 {: .quote .example}
 Rule (P.2a)
@@ -568,7 +568,7 @@ Rule (P.2a)
 
 Then:
 <div> 
-A :: CΞλ
+A :: CΣλ
 </div>
 {: .quote .example}
 Rule (P.2) <a name="P.2">
@@ -577,10 +577,10 @@ Rule (P.2) <a name="P.2">
 In addition, the concept of partitioning is connected in an intimate way the concept of abstraction.
 
 Given any two types `T` and `P`, if the type
-`Pξ T` / `प।अवच्छिन्न ट:` exists, then the following assertions are always true:
+`PΞ T` / `प।अवच्छिन्न ट:` exists, then the following assertions are always true:
 
 <div> 
-(Pξ T) :: Tλ <br>
+(PΞ T) :: Tλ <br>
 </div>
 {: .quote .example}
 Rule (P.3) <a name="P.333
@@ -599,7 +599,7 @@ analogous to the powerset function.
 Coordination connects abstraction and partitioning in another basic way:
 
 <div> 
-(P T)λ = Pλξ Tλ
+(P T)λ = PλΞ Tλ
 </div>
 {: .quote .example}
 Rule (C.1) <a name="C.1">
@@ -717,7 +717,7 @@ An example will probably help. Take the unclarified type `sonλ`. It has a clari
 
 We express type clarification in the Navyanyāya framework via—you guessed it—a set of operators. In this case, we have:
 
-1.  `निरूपक` \[-nirūpaka-, 'clarifier'\] which is suffixed to the referent of an unclarified type and refers to its clarifying type. Let's use the Greek symbol `ψ` for this.
+1.  `निरूपक` \[-nirūpaka-, 'clarifier'\] which is suffixed to the referent of an unclarified type and refers to its clarifying type. Let's use the Greek symbol `Δ` for this.
 
 2.  `नीरूपित` \[-nirūpita-, 'clarified'\] which is suffixed to the referent of the clarifying type and refers to the clarified type. let's use the symbol `Θ` for this.
 
@@ -725,10 +725,10 @@ There's an important relationship between clarification and partitioning that's 
 
 Within the universe of Navya types, we can distinguish broadly between "analyzable" [सखण्डः; sakhaṇḍaḥ] and "unanalyzable" [अखण्डः; akhaṇḍaḥ] types. Among unanalyzable types, we can further distinguish between "positive" [भावः; bhāvāḥ] or "negative" [अभावः; abhāvāḥ] types. Analyzable types can contain both positive and negative types in their definition, so they don't always fall neatly into one category or the other. Regardless, the difference between positive and negative types can be expressed in terms of a relationship between clarification and partitioning.
 
-Given any positive type `T` and any type `C`, if `Cξ Tψ` exists; then:
+Given any positive type `T` and any type `C`, if `CΞ TΔ` exists; then:
 
 <div>
-(Cξ Tψ)Θ T :: TΞλ <br>
+(CΞ TΔ)Θ T :: TΣλ <br>
 (क।अवच्छिन्न ट।निरूपक)निरूपित टे ट।अवच्छेदक।ता
 </div>
 {: .quote .example}
@@ -740,7 +740,7 @@ In other words, partitioning the clarifier of a positive type gives you the clar
 If, however, the unclarified type `T` is *negative*:
 
 <div>
-T :: ((Cξ Tψ)Θ T)Ξλ <br>
+T :: ((CΞ TΔ)Θ T)Σλ <br>
 टे = ((क।अवच्छिन्न ट।निरूपक)निरूपित ट)अवच्छेदक।ता
 </div>
 {: .quote .example}
@@ -761,7 +761,7 @@ rāma :: (daśarathaτ fatherλ)Θ sonλ <br>
 Example (7.5a)
 {: .examplecaption}
 
-Note how the expression `raghuτ` implicitly partitions the clarifier `fatherλ`. The expression `Tτ D` / `ट।निष्ठ ड` is equivalent to `(Tτλξ Dλ)ι` / `(ट।निष्ठ।ता।अवच्छिन्न ड।त्व)वत्`; or simply `Tλξ D` / `ट।त्व।अवच्छिन्न ड`.
+Note how the expression `raghuτ` implicitly partitions the clarifier `fatherλ`. The expression `Tτ D` / `ट।निष्ठ ड` is equivalent to `(TτλΞ Dλ)ι` / `(ट।निष्ठ।ता।अवच्छिन्न ड।त्व)वत्`; or simply `TλΞ D` / `ट।त्व।अवच्छिन्न ड`.
 
 Because these expressions are getting long, let's also use single character symbols for our Navya expressions: `r` for 'Rāma', `d` for 'Daśaratha', `F` for 'father', `S` for son:
 
@@ -775,7 +775,7 @@ Example (7.5a)
 Still, writing it this way is a bit annoying, since you need to explicitly name the clarifying type. But, using the clarifier operator, we can write:
 
 <div>
-r :: (dτ Sλψ)Θ Sλ
+r :: (dτ SλΔ)Θ Sλ
 रामे ((दशरथ।निष्ठ पुत्र।त्व।निरूपक)निरूपित पितृ।त्वम्)
 </div>
 {: .quote .example}
@@ -794,8 +794,8 @@ As an aside for those of you following along with the Sanskrit: Naiyyāyikas oft
 These two sets of operators can be interchanged via the following rules:
 
 <div>
-aΠ T = (aτ Tψ)Θ T
-Tκ a = Tψι a
+aΠ T = (aτ TΔ)Θ T
+Tκ a = TΔι a
 </div>
 {: .quote .example}
 Rule (C.3) <a name="C.3">
@@ -919,7 +919,7 @@ Rule (S.2) <a name="S.2">
 Instead, for factoring out the principal, we get the weaker rule:
 
 <div>
-AC BC -> (ACψ B)C
+AC BC -> (ACΔ B)C
 </div>
 {: .quote .example}
 Rule (S.2) <a name="S.2">
@@ -1196,7 +1196,7 @@ Example (9.4.7)
 If you remember from a few sections ago, we offered the following definition:
 
 <div>
-daughterλ = femaleλξ descendentλ
+daughterλ = femaleλΞ descendentλ
 </div>
 {: .quote .example}
 Example (10.1)
@@ -1211,7 +1211,7 @@ How would we go about saying this? First, let's define `G` as 'daughterλ', `F` 
 With this, we can get most of the way there:
 
 <div> 
-G= Fξ (DΘ D)⊥ξ D <br>
+G= FΞ (DΘ D)⊥Ξ D <br>
 दुहितृ।त्वम् = स्त्री।त्व।अवच्छिन्न (अपत्य।त्व|निरूपित अपत्य|त्व)अभाव।अवच्छिन्न अपत्य।त्वम्
 </div>
 {: .quote .example}
@@ -1263,7 +1263,7 @@ Example (10.2.2a)
 Let's represent an anaphoric pronoun with an circumflex accented letter; e.g. 't̂'. Then, near-literal translation of the original sanskrit into the roman script notation would look like:
 	
 <div> 
-G = Fξ (t̂DΘ D)⊥ξ D
+G = FΞ (t̂DΘ D)⊥Ξ D
 </div>
 {: .quote .example}
 Example (10.2.2b)
@@ -1272,7 +1272,7 @@ Example (10.2.2b)
 Here, the `t̂` is in coordination with an implicit word acting as the clarifier of the positive descendent type in the second term. Making this implicit word, explicit, let's introduce a dummy word `p` referring to the clarifier of the type `G`, being defined:
 
 <div>
-G = Fξ (t̂DΘ D)⊥ξ pD <br>
+G = FΞ (t̂DΘ D)⊥Ξ pD <br>
 दुहितृ।त्वम् = स्त्री।त्व।अवच्छिन्न (तद्।अपत्य।त्व|निरूपित अपत्य|त्व)अभाव।अवच्छिन्न पितृ।अपत्य।त्वम्
 </div>
 {: .quote .example}
@@ -1282,7 +1282,7 @@ Example (10.2.3)
 Note, that sometimes Naiyyāyikas will put in the implicit word themselves, but leaving it implicit is idiomatic. Still, the ambiguity isn't settled. Since, it's not clear which word the pronoun `t̂` is supposed to be in coordination with. We can make this explicit by introducing a second `t̂` in apposition to `p`:
 
 <div> 
-G = Fξ (t̂DΘ D)⊥ξ (t̂ p)D <br>
+G = FΞ (t̂DΘ D)⊥Ξ (t̂ p)D <br>
 दुहितृ।त्वम् = स्त्री।त्व।अवच्छिन्न (तद्।अपत्य।त्व|निरूपित अपत्य|त्व)अभाव।अवच्छिन्न (तत् पितृ)अपत्य।त्वम्
 </div>
 {: .quote .example}
@@ -1294,7 +1294,7 @@ The rule here is that within the same 'lexical scope' (typically, the same phras
 Lastly, given that `p` is now redundant, we could just drop it out:
 
 <div>
-G = Mξ (t̂DΘ D)⊥ξ t̂D <br>
+G = MΞ (t̂DΘ D)⊥Ξ t̂D <br>
 दुहितृ।त्वम् = स्त्री।त्व।अवच्छिन्न (तद्।अपत्य।त्व|निरूपित अपत्य|त्व)अभाव।अवच्छिन्न तद्।अपत्य।त्वम्
 </div>
 {: .quote .example}
@@ -1304,9 +1304,9 @@ Example (10.2.5)
 There's still some pronoun ambiguity left. Specifically, if we want to understand `G` as an informable type, it's not clear which of points in the definition the clarifier would correspond to. For example, the expression `rG`, where `d` stands for 'Daśaratha', could mean any one of:
 	
 <div>
-G = Fξ (t̂DΘ D)⊥ξ (t̂ d)D <br>
-G = Fξ (t̂DΘ D)⊥ξ t̂(d D) <br>
-G = Fξ (t̂DΘ d D)⊥ξ t̂D <br>
+G = FΞ (t̂DΘ D)⊥Ξ (t̂ d)D <br>
+G = FΞ (t̂DΘ D)⊥Ξ t̂(d D) <br>
+G = FΞ (t̂DΘ d D)⊥Ξ t̂D <br>
 </div>
 {: .quote .example}
 Example (10.2.6a-c)
@@ -1330,7 +1330,7 @@ For brevity (and to try to match the sanskrit as closely as possible), if there 
 So, we can define son as:
 	
 <div>
-G = Fξ (t̂DΘ D)⊥ξ D<br>
+G = FΞ (t̂DΘ D)⊥Ξ D<br>
 </div>
 {: .quote .example}
 Example (10.2.8)
@@ -1413,7 +1413,7 @@ We've already looked at negation fairly exhaustively, so I won't belabor the  po
 
 The one thing I will re-emphasize is that negation operates on *types*, always and only *types*. The closest thing to negating a whole sentence, like`a::T`, is with something like this: `(aτ T)⊥`.
 
-Assertions are not propositions. You can't operate on assertions or combine them together to get new assertions. You can, however, operate on or combine *types*. When Naiyyāyikas want to express complex propositions, they treat these propositions as types and combine them using higher-order types like `⊥` and `Ξ`, etc. 
+Assertions are not propositions. You can't operate on assertions or combine them together to get new assertions. You can, however, operate on or combine *types*. When Naiyyāyikas want to express complex propositions, they treat these propositions as types and combine them using higher-order types like `⊥` and `Σ`, etc. 
 
 #### And, Nand, Or
 
@@ -1430,7 +1430,7 @@ The type `double` [दद्वयः; dvayaḥ] provides convenient syntax for 
 In the *Vācaspatyam*, a dictionary of Navyanyāya terms and their derivations by the great 19th ce Pt. Tārānātha Tarkavācaspati, we find the following definition of Disjunction [अन्यतरत्वम्; anyataratvam; the "or" operator].
 
 <div>
-disjunctionλ :: (ˉdoubleξ πλ)κ ˉ <br>
+disjunctionλ :: (ˉdoubleΞ πλ)κ ˉ <br>
 अन्यतरत्वम् (भेद।द्वय।अवच्छिन्न प्रतियोगि।ता)क भेदः
 </div>
 {: .quote .example}
@@ -1543,7 +1543,7 @@ Defining pervasion as regularity goes back a long way, arguably all the way back
 Lastly, a quick note on expressing generalizations vs partitioning, instead of negation:
 
 <div>
-bλ aλΞ <br>
+bλ aλΣ <br>
 पक्षि।त्वं जन्तु।त्व।अवच्छेदकम्
 </div>
 {: .quote .example}
@@ -1606,13 +1606,13 @@ Example (10.6.3a)
 
 
 <div style="padding-bottom: 15px; padding-top: 5px;">
-How about when binding <code class="language-plaintext highlighter-rouge">x</code> first? We just have to swap the direction of the assertion, first we swap the direction of the type: <code class="language-plaintext highlighter-rouge">Dψ</code> [अपत्य|त्व|निरूपक], then we need to specify that its clarifier (<code class="language-plaintext highlighter-rouge">x</code>) is being universally quantified over. Putting this together, we get the type: 
+How about when binding <code class="language-plaintext highlighter-rouge">x</code> first? We just have to swap the direction of the assertion, first we swap the direction of the type: <code class="language-plaintext highlighter-rouge">DΔ</code> [अपत्य|त्व|निरूपक], then we need to specify that its clarifier (<code class="language-plaintext highlighter-rouge">x</code>) is being universally quantified over. Putting this together, we get the type: 
 </div>
 
 <div>
 ∃y∈P ∀x∈P Dxy <br> <br>
 
-Dψ!⊥ <br>
+DΔ!⊥ <br>
 अपत्य|त्व|निरूपक।ता।विशिष्टाभाव।अभावः
 </div>
 {: .quote .example}
@@ -1827,11 +1827,11 @@ But notice that this time around, the property  `(t̂⊥ι t̂)λ` is not the sa
 
 But, how do we interpret assertions like: `P::P⊥`? If they're not contradictions, then what are they? As we discussed earlier (in the section on pure negatives), Naiyyāyikas interpret this as something that fails to express an internally consistent assertion not because `P` is paradoxical but because it is indeterminate. To review, in Navyanyāya jargon, the co-realization of a property and its absence in the same basis is called **incomplete realization** [अव्याप्यवृत्तिः; avyāpyavr̥ttiḥ] and is resolved by distinguishing the partition [अवच्छेदकभेदेन; avacchedakabhedena] over which the property operates from that of its absence. 
 
-For example, let's stipulate that there exists some type `D` such that it is completely unrealized in `P`. Then, given the type `Dξ P`; we can ask:
+For example, let's stipulate that there exists some type `D` such that it is completely unrealized in `P`. Then, given the type `DΞ P`; we can ask:
 
 <div>
-?> P :: Dξ P <br>
-→ P :: Dξ (t̂⊥ι t̂)λ <br>
+?> P :: DΞ P <br>
+→ P :: DΞ (t̂⊥ι t̂)λ <br>
 → P Dι P⊥ι <br>
 → P :: Dιλ
 </div>
@@ -1841,28 +1841,28 @@ Example (10.8.7)
 
 which is inconsistent with our initial stipulation that `P:Dιˉ`.
 
-So, we can infer that `P :: Dξ P` is false — `P :: (Dξ P)⊥`. 
+So, we can infer that `P::(DΞ P)` is false — `P::(DΞ P)⊥`. 
 
 Now, to reproduce the paradox, we need to get this to produce another inconsistency:
 
 <div>
-?> P :: (Dξ P)⊥ <br>
-→ P t̂ (Dξ t̂ P)⊥ι <br>
-→ P t̂ (Dξ t̂)⊥ι <br>
-→ P Dξ⊥ι t̂ t̂⊥ι <br>
-→ P Dξ⊥ι Pι <br>
-→ P (Dξ⊥ιτ P)ι <br>
-→ P :: Dξ⊥ξ P <br>
+?> P :: (DΞ P)⊥ <br>
+→ P t̂ (DΞ t̂ P)⊥ι <br>
+→ P t̂ (DΞ t̂)⊥ι <br>
+→ P DΞ⊥ι t̂ t̂⊥ι <br>
+→ P DΞ⊥ι Pι <br>
+→ P (DΞ⊥ιτ P)ι <br>
+→ P :: DΞ⊥Ξ P <br>
 </div>
 {: .quote .example}
 Example (10.8.8)
 {: .examplecaption}
 
-But, notice how the previously paraconsistent  `P::P⊥; P::P` now resolves into one with distinct partitioners: `P::(Dξ P)⊥; P::(Dξ⊥ξ P)`. This successfully perserves a classical form of consistency, so long as the partitioning type is completely realized in its basis.
+But, notice how the previously paraconsistent  `P::P⊥. P::P` now resolves into one with distinct partitioners: `P::(DΞ P)⊥. P::(DΞ⊥Ξ P)`. This successfully perserves a classical form of consistency, so long as the partitioning type is completely realized in its basis.
 
-On the other hand, this means we can only talk determinately about whether `P` applies—i.e. whether a given type fails to be self-realizing—with regards to only a subset of the universe of types. What if we want to ask, e.g., whether or not `Dξ P` fails to self-occur? We can do this by defining a larger type `F` that occurs in `Dξ P`, but is still too small to include `P`, and then constructing `Fξ P`.
+On the other hand, this means we can only talk determinately about whether `P` applies—i.e. whether a given type fails to be self-realizing—with regards to only a subset of the universe of types. What if we want to ask, e.g., whether or not `DΞ P` fails to self-occur? We can do this by defining a larger type `F` that occurs in `DΞ P`, but is still too small to include `P`, and then constructing `FΞ P`.
 
-And, we can repeat this question for `Fξ P` by defining an
+And, we can repeat this question for `FΞ P` by defining an
 even larger (but still not too large) type `G`. And, we can
 repeat this too, *ad infinitum*, each time getting closer and closer to
 the unpartitioned type `P`, without ever quite reaching it.
@@ -1889,11 +1889,11 @@ Below is a cheat sheet for all the Navyanyāya operators with their Sanskrit nam
 | -tva              | λ      | ˉιˉ        | Abstraction        |
 | nirūpaka/-ka      | κ      | ûv̂; v̂û     | Clarifier          |
 | niṣṭha/vr̥tta      | τ      | ιλκ        | Type of            |
-| avachedaka        | Ξ      | t̂⊥ιτλˉ     | Partitioner        |
-| avachinna         | ξ      | Ξλκ        | Partition          |
+| avachedaka        | Σ      | t̂⊥ιτλˉ     | Partitioner        |
+| avachinna         | Ξ      | Σλκ        | Partition          |
 | nirūpita          | Π      | κλκ        | Clarified by       |
-| nirūpaka          | ψ      | Πλκ        | Clarifying type of |
-| nirūpita          | Θ      | ψκ         | Clarified by type  |
+| nirūpaka          | Δ      | Πλκ        | Clarifying type of |
+| nirūpita          | Θ      | Δκ         | Clarified by type  |
 | sāmānādhikaraṇyam | ∃      | ιτλ        | Co-realization     |
 | avyabhicātaḥ      | ∀      | t̂⊥ιτλˉ     | Regularity         |
 |-------------------|--------|------------|--------------------|
