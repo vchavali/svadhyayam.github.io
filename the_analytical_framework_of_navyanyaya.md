@@ -1827,7 +1827,7 @@ But notice that this time around, the property  `(t̂⊥ι t̂)λ` is not the sa
 
 But, how do we interpret assertions like: `P::P⊥`? If they're not contradictions, then what are they? As we discussed earlier (in the section on pure negatives), Naiyyāyikas interpret this as something that fails to express an internally consistent assertion not because `P` is paradoxical but because it is indeterminate. To review, in Navyanyāya jargon, the co-realization of a property and its absence in the same basis is called **incomplete realization** [अव्याप्यवृत्तिः; avyāpyavr̥ttiḥ] and is resolved by distinguishing the partition [अवच्छेदकभेदेन; avacchedakabhedena] over which the property operates from that of its absence. 
 
-For example, let's stipulate that there exists some type `D` such that it is completely unrealized in `P`. Then, given the type `DΞ P`; we can ask:
+For example, let's stipulate that there exists some type `D` such that completely excludes (i.e. is completely unrealized in unrealized in) `P`. Then, given the type `DΞ P`; we can ask:
 
 <div>
 ?> P :: DΞ P <br>
@@ -1859,16 +1859,9 @@ Now, to reproduce the paradox, we need to get this to produce another inconsiste
 Example (10.8.8)
 {: .examplecaption}
 
-But, notice how the previously paraconsistent  `P::P⊥. P::P` now resolves into one with distinct partitioners: `P::(DΞ P)⊥. P::(DΞ⊥Ξ P)`. This successfully perserves a classical form of consistency, so long as the partitioning type is completely realized in its basis.
+But, notice how the previously paraconsistent pair of judgments `P::P⊥. P::P` now resolves into one with distinct partitioners: `P::(DΞ P)⊥. P::(DΞ⊥Ξ P)`. This successfully perserves a classical form of consistency, so long as the partitioning type is either completely realized or unrealized in its basis.
 
-On the other hand, this means we can only talk determinately about whether `P` applies—i.e. whether a given type fails to be self-realizing—with regards to only a subset of the universe of types. What if we want to ask, e.g., whether or not `DΞ P` fails to self-occur? We can do this by defining a larger type `F` that occurs in `DΞ P`, but is still too small to include `P`, and then constructing `FΞ P`.
-
-And, we can repeat this question for `FΞ P` by defining an
-even larger (but still not too large) type `G`. And, we can
-repeat this too, *ad infinitum*, each time getting closer and closer to
-the unpartitioned type `P`, without ever quite reaching it.
-What this gives results in is something like a ramified type theory consisting in a heirarchy of types—such as we find in Russel's own solution to the problem—arising organically just through
-the logic of type partitions. 
+On the other hand, this means we can only talk determinately about whether `P` applies—i.e. whether a given type fails to be self-realizing—with regards to only a subset of the universe of types. What if we want to ask, e.g., whether or not `DΞ P` fails to self-occur? We can do this by defining a still narrower type `F` that excludes `DΞ P`. And, we can repeat this question for `FΞ P` by defining an even narrower type `G`. And, we can repeat this too, *ad infinitum*. What this gives us is a heirarchy of types, each one behaving classically over types lower down in the heirarchy, but not over itself or those higher up in the heirarchy. In other words, we get something like a ramified type theory, arising organically just through the logic of type partitions. 
 
 ### List of Navya Nyāya Operators
 
