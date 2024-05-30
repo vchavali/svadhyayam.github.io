@@ -1655,6 +1655,7 @@ Naiyyāyikas typically do this by breaking a single three-place relation into a 
 
 So, e.g., the relation `Rxyz` asserted of could be written in terms of three seperate relations `Sxy`, `Txz`, and `Uzy`. We could then represent the relation `R`, asserted between three items `x`, `y`, `z` with the Navya formula:
 
+
 <div>
 Rxyz <br> <br>
 x :: yS z(yUΘ T)
@@ -1882,13 +1883,13 @@ Below is a cheat sheet for all the Navyanyāya operators with their Sanskrit nam
 |-------------------|--------|------------|--------------------|
 | -tva              | λ      | ˉιˉ        | Abstraction        |
 | nirūpaka/-ka      | κ      | ûv̂; v̂û     | Clarifier          |
-| niṣṭha/vr̥tta      | τ      | ιλκ        | Type of            |
+| nirūpita          | Π      | t̂κλκ        | Clarified by       |
+| nirūpaka          | Δ      | t̂Πλκ        | Clarifying type of |
+| nirūpita          | Θ      | t̂Δκ         | Clarified by type  |
+| niṣṭha/vr̥tta      | τ      | t̂ιλκ        | Type of            |
 | avachedaka        | Σ      | t̂⊥ιτλˉ     | Partitioner        |
-| avachinna         | Ξ      | Σλκ        | Partition          |
-| nirūpita          | Π      | κλκ        | Clarified by       |
-| nirūpaka          | Δ      | Πλκ        | Clarifying type of |
-| nirūpita          | Θ      | Δκ         | Clarified by type  |
-| sāmānādhikaraṇyam | ∃      | ιτλ        | Co-realization     |
+| avachinna         | Ξ      | t̂Σλκ        | Partition          |
+| sāmānādhikaraṇyam | ∃      | t̂ιτλ        | Co-realization     |
 | avyabhicātaḥ      | ∀      | t̂⊥ιτλˉ     | Regularity         |
 |-------------------|--------|------------|--------------------|
 {: .mdtable}

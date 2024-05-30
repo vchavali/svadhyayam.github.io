@@ -5,19 +5,19 @@ layout: default
 ---
 # I See What I Should Do: Jayanta against Kumārila on the Possibility of Moral Knowledge
 
-## (Brief) Introduction
+## Introduction
 
 Below is my translation of a portion of the Nyāyamañjarī's *Perception* chapter. I want to say as little as possible about the details of what follows (to avoid spoilers!), but by way of the briefest introduction: 
 
-Jayanta Bhaṭṭa was a scholar, playwright, and statesman in the court of the 9th c CE Kaśmīri monarch, Śaṅkaravarman. Although little is known about the details of Jayanta's life—a typical state of affairs for a premodern Indian intellectual—we can glean some bits of his personality, politics, and religious affiliations from his writings. His traditionally ascribed bibliography includes a lost commentary on Pāṇini’s Sanskrit grammar; two works of philosophy, the *Nyāyakalikā* and the *Nyāyamañjarī*; and a satirical stage play, the *Āgamaḍambaram*, about the relationship between religion and politics in Śankaravarman’s Kaśmīr.
+Jayanta Bhaṭṭa was a scholar, playwright, and statesman in the court of the 9th c CE Kaśmīri monarch, Śaṅkaravarman. Although little is known about the details of Jayanta's life—a typical state of affairs for a premodern Indian intellectual—we can glean some bits of his personality, politics, and religious affiliations from his writings. 
 
-The *Nyāya Mañjarī* is the largest and most detailed of the extant works: Jayanta is the inheritor of nearly a thousand years of philosophy, starting with Akṣapāda Gautama; extending through the epistemological revolution of Diṅnāga (dates); the classical triad of Uddyotakara, Kumārila Bhaṭṭa, and Dharmakīrti; and coming up to his near contemporaries in Kaśmīr, including the Buddhist monk, Dharmottara, and the influential Kaśmīri aesthetician, Anandavardhana. Writing from this vantage point, Jayanta presents a sweeping view of the philosophical landscape of his time, balancing close attention to detail with an eye to the deep interconnectedness of a vast and seemingly disparate space of ideas and debates.
+His traditionally ascribed bibliography includes a lost commentary on Pāṇini’s Sanskrit grammar; two works of philosophy, the *Nyāyakalikā* and the *Nyāyamañjarī*; and a satirical stage play, the *Āgamaḍambaram*, about the relationship between religion and politics in Śankaravarman’s Kaśmīr. The *Nyāya Mañjarī* is the largest and most detailed of the extant works: Jayanta is the inheritor of nearly a thousand years of philosophy, starting with Akṣapāda Gautama; extending through the epistemological revolution of Diṅnāga; the classical triad of Uddyotakara, Kumārila Bhaṭṭa, and Dharmakīrti; and coming up to his near contemporaries in Kaśmīr, including the Buddhist scholar, Dharmottara, and the influential Kaśmīri aesthetician, Anandavardhana. Writing from this vantage point, Jayanta presents a sweeping view of the philosophical landscape of his time, balancing close attention to detail with an eye to the deep interconnectedness of a vast and seemingly disparate space of ideas and debates. What follows is my attempt at translating a small bit of this huge work. 
 
-What follows is my attempt at translating a small bit of this huge work. The *Nyāyamañjarī* is organized into numbered volumes, called *Āhnikāḥ* or "Days", each of which have named chapters and subsections (though different editions use slightly different names). The following excerpt starts with the section titled "Criticizing the definition of perception presented by Jaimini" and continues up to the section titled "Nonetheless, the object of perception must be temporally situated". These sections can be found in *Day 2*, in the Chapter titled "Opposing Views On The Theory of Perception". The Sanskrit text I use is the 1969 *Oriental Research Institute Series* Edition, published by the University of Mysore (Editor Vidvān KS Varadacharya). 
+The *Nyāyamañjarī* is organized into numbered volumes, called *Āhnikāḥ* or "Days", each of which have named chapters and subsections (though different editions use slightly different names). The following excerpt starts with the section titled "Criticizing the definition of perception presented by Jaimini" and continues up to the section titled "Nonetheless, the object of perception must be temporally situated". These sections can be found in *Day 2*, in the Chapter titled "The Views Others in the Theory of Perception". The Sanskrit text I use is the 1969 *Oriental Research Institute Series* Edition, published by the University of Mysore (Editor Vidvān KS Varadacharya). 
 
-This is a sweet little philosophical set-piece on moral epistemology pretending to be an inane, hairsplitting discussion on technicalities of a rival tradition's definition of perception. It's an iconic representation of Śāstric philosophy: the sardonic, self-aware tone; the hint of absurdist humor; the blink-and-you’ll miss it approach to philosophical insights that says: “yes I know this looks pointless, but pay attention and you’ll see why the details matter”.
+This is a sweet little philosophical set-piece on moral epistemology pretending to be an inane, hairsplitting discussion on some technicalities in a rival tradition's definition of perception. It's an iconic representation of Śāstric philosophy: the sardonic, self-aware tone; the hint of absurdist humor; the blink-and-you’ll miss it approach to philosophical insights that says: “yes I know this looks pointless, but pay attention and you’ll see why the details matter”.
 
-In typical śātric style, Jayanta’s text is presented in the form of a suppressed dialog, where distinct speakers are implied but never actually mentioned as such. But, Jayanta’s text is very inter-textual (even more than the typical) and it's often easy (especially in this excerpt) to identify specific voices, even belonging to specific historical figures, on the basis of the views presented, the quotations Jayanta includes, and even the overall style of philosophizing. In my translation, I choose to identify these voices, where I can, with named historical figures. It’s a somewhat strong interpretive choice, so your mileage may vary. Regardless. The dialog is fun. It’s classic Jayanta. And, Jayanta is a classic author in the Old Nyāya [prācīnanyāya] style. I hope you enjoy it as much as I did!
+In typical śātric style, Jayanta’s text is presented in the form of a suppressed dialog, where distinct speakers are implied but never actually mentioned as such. But, Jayanta’s text is very inter-textual (even more than the typical) and it's fairly easy to identify individual voices, even belonging to specific historical figures, on the basis of the views presented, the quotations Jayanta includes, and the overall style of philosophizing. In my translation, I choose to identify these voices, where I can, with named historical figures. It’s a somewhat strong interpretive choice, so your mileage may vary. Regardless. The dialog is fun. It’s classic Jayanta. And, Jayanta is a classic author in the Old Nyāya [prācīnanyāya] style. I hope you enjoy it as much as I did!
 
 
 ## The Translation
@@ -35,7 +35,7 @@ The followers of Jaimini do not consider this aphorism to be primarily
 for the sake of a definition; since, then, it would fail to connect with
 the preceding assertion:
 
-When a rule [codanā] declares something as "good" [arthaḥ], it is called a *norm* [dharmaḥ]
+Something identified by a rule as "good" is called a **norm** [dharmaḥ].
 {: .quote}
 (MS 1.1.2)
 {: .examplecaption}
@@ -80,8 +80,7 @@ because it counts as failure.
 **(Jayanta)** Even so, since we don't have sensory access to
 'success' as a property instantiated in the operation, it's not the
 sort of thing that can be directly perceived. So, you have to explain
-how it's supposed to be understood in terms of its effects. The effect,
-in this case, is a judgment. So, without specifying this, it's not
+how success of an operation is to be understood in terms of the properties of its effect. The effect, in this case, is a judgment. So, without making this explicit, it's not
 possible to understand what constitutes a successful operation. And we
 find not one word, one syllable, even so much as a half-mora about this
 anywhere in the aphorism.
@@ -101,7 +100,7 @@ definition.
 
 ### Explaining Upavarṣa's definition of perception
 
-**(Jayanta)** As for what *Our Lord Commentator* says, trying to
+**(Jayanta)** As for what "our venerable commentator" says, trying to
 fix the definition by transposing the words 'present' and 'this':
 
 **(Upavarṣa)** That which deviates from its object cannot be perceived.
@@ -116,7 +115,7 @@ as what the sense faculties operate on, resulting in awareness, this is
 perception. When the judgment is of one object and the sense operates on
 a different object, this is not perception.
 
-**(Jayanta)** What pointless dancing around. Bringing in the notion of a mismatch between target and content still doesn't exclude ambiguous judgments. After all, the object of judgment is still the same as that which the senses operate on.
+**(Jayanta)** What pointless dancing around! Bringing in the notion of a mismatch between target and content still doesn't exclude ambiguous judgments. After all, the object of judgment is still the same as that which the senses operate on.
 
 ### Explaining how ambiguous experience still comes from the senses
 
@@ -142,7 +141,7 @@ aphorism to be a definition at all, since this would be incompatible
 with interpreting it as just a restatement our shared understanding. To explain: the aphorism argues for perception's inability to ground normative judgments by reviewing our common-sense understanding of how perception works.
 
 Perception is not evidential with respect to normativity because it
-depends on a present object; i.e. it grasps an object that is present. And, normativity is not *present*. As the semantic content of sentences
+depends on a present object; i.e. it grasps an object that is present. And, normativity is not something *present*. As the semantic content of sentences
 like "one ought to perform ritual", "one ought to give", "one ought
 to sacrifice", etc., it is not the sort of thing to which temporal
 divisions like past, present, and future can be applied.
@@ -156,7 +155,7 @@ depends on something present.
 
 If someone says we haven't established perception's dependence on a
 present object, we can reply: perception depends on a present object
-because it results from sensory operation on a present object. And we
+because it results from sensory operation on an object that is *present*. And we
 analyze perception in order to demonstrate that the reason obtains. That
 is, if someone says we haven't proven that the senses must operate on a
 present object, we can reply: perception results from the senses
@@ -178,18 +177,18 @@ over-extension, etc.
 
 ### Attacking the aphorism, even as a review
 
-**(Jayanta)** Well, this wouldn't make a philosopher happy, either: *Whose*
+**(Jayanta)** Well, this wouldn't impress a real philosopher: *Whose*
 perception are you trying to prove as not capable of grounding normative
 judgments, anyway? The perception of people like us? Or the perception
 of sages?
 
 If you're talking about the perception of people like us; well, since
-no one argues with that--why are you wasting your breath? But, if
+no one argues with that—why are you wasting your breath? But, if
 you're talking about the perception of sages; since you don't even
 agree that there is such a thing as "the perception of sages", how can you
 prove that it can't ground normative judgment?
 
-Since the property possessor does not exist, your arguments from
+Since (according to you) the property possessor does not exist, your arguments from
 "dependence on a present object" or "the nature of perception", etc., all
 face the problem of an empty subject term.
 
@@ -234,19 +233,21 @@ Or, to put it another way: you can't argue about whether a
 flower that grows in the sky would smell sweet or not.
 
 Or, else, fine. So, what. Let's say it *is* a deductive argument. It
-still depends on entailments between the relevant facts. And, there's no way for people like us to have access to these entailment relations. Who, after all, can really say it's true for everyone that perception can't grasp the normative.You don't know that my perception can't grasp normative properties. I don't know that your perception can't grasp normative properties. And neither of us knows this about some third person.
+still depends on entailments between the relevant facts. And, there's no way for people like us to have access to these entailment relations. Who, after all, can really say it's true for everyone that perception can't grasp the normative. You don't know that my perception can't grasp normative properties. I don't know that your perception can't grasp normative properties. And neither of us knows this about some third person.
 
 And, if you did know this about everyone. Well, then, you'd be a sage
-yourself! So, hate on other sages!?
+yourself! So, why hate on other sages?
 
 **(Kumārila)**
 
-Look, mister. You need to understand how philosophy works. When we're talking about objects of reason, you don't respond by attacking them. Attacking someone does nothing if they have evidence to prove their point. And if they don't have any evidence; you don't even need to attacking them, anyhow. 
+Look, mister. You need to understand how philosophy works. When we're talking about objects standing outside the scope of direct perception, you can't just respond with snide comments. Your jibes do nothing in the face of evidence. And where there's no evidence; there's no point in saying anything, anyway.
 
-So, give up your obsession with attacking me and please look for some proof to back up your extraordinary claims. And, if you are able to give proof when asked for it; well, then, we'll have no choice but to say, "OṀ". But, if not--it means you don't have any.
+So, give up your obsession with mocking me and please look for some proof to back up your extraordinary claims. And, if you are able to give proof when asked for it; well, then, we'll have no choice but to say, "OṀ". 
+
+But, if not—it means you don't have any.
 
 **(Jayanta)** Oh boy. We've really been schooled in the philosophers'
-creed. Look, we're not attacking you--we're just asking you some
+creed. Look, we're not mocking you—we're just asking you some
 questions.
 
 **(Kumārila)** Then, answer this: what evidence do you have for the
@@ -258,8 +259,8 @@ some perceptual faculties are superior to others.
 
 After all, people like us, with our visual faculties, can only see
 clusters of objects sitting close by. But, cats can see things just fine
-even if they're dropped in some place covered in thick, dark mud. And,
-in the Rāmāyaṇa, we hear about the vulture Saṁpāti who saw Rāmā's wife
+even if they're dropped in some place covered in thick, dark murk. And,
+in the Rāmāyaṇa, we learn about the vulture Saṁpāti who saw Rāmā's wife
 imprisoned a hundred miles away. This is what we mean by superiority in
 perceptual faculties. They can come in gradations of quality, similar to
 how colors come in shades, with some being superior and others inferior.
@@ -282,8 +283,8 @@ are smaller or further away; not that you can hear colors.
 
 And also
 
-Whatever superiority we see in people's perceptual faculties--due to
-their intelligence, skill, or power--only involves minor improvements
+Whatever superiority we see in people's perceptual faculties—due to
+their intelligence, skill, or power—only involves minor improvements
 here and there; not sensing insensible things.
 {: .quote}
 
@@ -309,7 +310,7 @@ as well have eyes that see flavors and the like.
 **(Jayanta)** No you wouldn't. For one thing, we're saying all the
 sensory faculties of a sage could be superior, like their eyes; not that
 everything becomes a visual object for them. But, if the argument is
-that the normative should be denied vision access for the same reason as
+that the normative should be denied visual access for the same reason as
 flavor: the difference is that, unlike with flavors, etc., nothing
 specifically precludes normative properties from being visual objects.
 
@@ -320,22 +321,18 @@ to be cognized even when the sense faculty is functioning. Consider how
 we know that sound is not within the scope of the visual sense because
 we observe that sound can fail to be cognized even when our eyes are
 functioning. But, you could not know this about normative properties and
-sage perception--that the former could fail to be cognized when the
-latter is functioning--since neither one is observable by you. So, you
+sage perception—that the former could fail to be cognized when the
+latter is functioning—since neither one is observable by you. So, you
 have no grounds for saying that the one is outside the scope of the
 other.
 
 ### The normative does lie within the scope of sage perception
 
-**(Kumārila)**
-
-The normative has the form of an "ought" and is utterly unconnected to
+**(Kumārila)** The normative has the form of an "ought" and is utterly unconnected to
 the past, present, or future. Surely it's outrageous to say it could
 ever be a visual object?
 
-**(Jayanta)**
-
-True, it would be outrageous for your eyes, or mine. But, it's not such
+**(Jayanta)** True, it would be outrageous for your eyes, or mine. But, it's not such
 a hard road to take when it comes to sages, who see all things.
 
 ### Normative properties can be perceived, even if temporal distinctions don't apply to them
@@ -344,7 +341,7 @@ a hard road to take when it comes to sages, who see all things.
 temporally situated" and "our only resort to learn about it is
 scriptural statements like 'you ought to perform ritual', etc." and
 "how could we possibly investigate it through any other evidential
-process"--this is all just a bunch of technicalities. Why should we
+process"—this is all just a bunch of technicalities. Why should we
 even care whether it is or isn't situated in time?
 
 Consider how we know that actions like movement have the capacity to,
@@ -373,7 +370,7 @@ see things that never existed as if standing before their eyes.
 (PV 3.282)
 {: .examplecaption}
 
-### Normative properties can-in fact-be grasped mentally; just as with objects of meditation
+### Normative properties can—in fact—be grasped mentally; just as with objects of meditation
 
 **(Kumārila)** Come on! These are all examples of erroneous mental
 states. You can't use them as analogies for sage perception.
@@ -397,31 +394,27 @@ spends every day single mindedly practicing jumping, they would, still,
 only be able to jump a few extra feet above the ground; not leap over
 mountains or oceans.
 
-*(Jayanta)*
+**(Jayanta)** To this, we say:
 
-To this, we say:
+Jumping does not attain such excellence because the body is made up of material constituents like phlegm, etc. But, what's stopping the mind?
 
-Jumping does not attain such excellence because the body is made up of material constituents like phlegm. But, what's stopping the mind?
+If, in the preceding days, someone practices jumping and the like; in the following days, they don't experience a fundamental change in their body. Rather, through the reduction of fat and phlegm, the body becomes leaner and they can jump around as they please. In the case of the mind, though, the cause of cognitive excellence is in the gradual accumulation of the sorts of psychological dispositions that are conducive to the arising of insight. 
 
-If, in the preceding days, someone practices jumping and the like; in the following days, they don't experience a fundamental change in their body. Rather, through the reduction of fat and phlegm, the body becomes leaner and they can jump around as they please. In the case of the mind, though, the cause of cognitive excellence is in the gradual accumulation of the sorts of psychological dispositions that are conducive to the arising of insight. Consider: when a student starts doing concentration exercises and reading practice, certain dispositions become impressed upon their psyche and manifest as skill in recitation and recall. Or else: when gold is fired in a furnace; it gradually, gradually becomes purified and reaches a state of unparalleled refinement. In the same way, through meditative practice, the sages's mental faculty becomes fit to directly access all objects of insight. 
+Consider: when a student starts doing concentration exercises and reading practice, certain dispositions become impressed upon their psyche and manifest as skill in recitation and recall. Or else: when gold is fired in a furnace; it ever so gradually becomes purified and reaches a state of unparalleled refinement. In the same way, through meditative practice, the sage's mental faculty becomes fit to directly access all objects of insight. 
 
-For people like us, on the other hand, the mind is occluded by psychological impediments like partiality and prejudice; and, so, fails to reach this state of cognitive excellence.
-
-But, as all these psychological impediments are eroded through the daily practice of meditation, and the mind of the sage is made pure; what, then, could they fail to see? When partiality and prejudice are finally destroyed, the sage is able to fully open their minds and reflect on the highest good. Then, with the elimination of all such cognitive faults, their mind fixed in meditation, the sage is able to clearly grasp all things.
+For ordinary people like us, the mind is occluded by psychological impediments like partiality and prejudice; and, so, fails to reach this state of cognitive excellence. But, as all these psychological impediments are eroded through the daily practice of meditation, and the mind of the sage is made pure; what, then, could they fail to see? When partiality and prejudice are finally destroyed, the sage is able to fully open their minds and reflect on the highest good. Then, with the elimination of all such cognitive faults, their mind fixed in meditation, the sage is able to clearly grasp all things.
 
 
 ### Even ordinary people like us can sometimes judge future events on the basis of intuition
 
-**(Jayanta)**
-
-What's more, even people like us can sometimes form judgments about
+**(Jayanta)** What's more, even people like us can sometimes form judgments about
 future events such as, "my brother is coming home tomorrow," on the
 basis of an evidential process called 'intuition'.
 
 And, in so far as it is not:
 
 1.  causally unconnected to the object of judgment
-2.  uncertain
+2.  doubted
 3.  struck down by defeaters
 4.  resulting from a faulty causal process
 
@@ -447,19 +440,18 @@ So, why should the judgment not be connected to its object?
 
 **(Kumārila)** No, no; it doesn't work to say he's cognized as being
 "such that he will be". Something's being such that it will be is a kind
-of bounded prior absence. And what kind of causal link can exist between
+of temporaly-bounded prior absence. And what kind of causal link can exist between
 an absence and a presence, such as this brother? After all, an object
 cannot coexist with its absence.
 
 **(Jayanta)** That's not right. The prior absence, here, is of the
 brother's relation to that location, not of the brother as such. He
 does, after all, still exist at the time of his being cognized. It's
-like this: somehow or other, e.g. because of how he gets hungry, he
-suddenly comes to mind and you get an intuition that he's going to come
+like this: somehow or other, e.g. because you are acquainted with his pattern of gettting hungry, he suddenly comes to mind and you get an intuition that he's going to come
 visit tomorrow. So, he is the cause of the intuition. And, since it's
 not the case that the intuition is causally unconnected to its object,
-it is evidential. Moreover, as a form of evidence, it's just
-perception--not some other kind of evidential process--because it
+it can be evidential with regards to him. Moreover, as a form of evidence, it's just
+perception—not some other kind of evidential process—because it
 doesn't explicitly involve language, reasons, or similarity relations.
 
 ### Intuition just is Perception
@@ -478,7 +470,7 @@ object in the wake of some additional supporting process such as
 language comprehension, this is called mental perception. Examples
 include judgments like, "ketakī flowers are fragrant," and, "sugar is
 sweet." Such judgments, which emerge out of cognitive processes obeying
-observable regularities, analogously to perception, are what we
+observable regularities—analogously to sense perception—are what we
 call "intuitions".
 
 ### Intuition is not the same as "sage knowing"
@@ -504,16 +496,16 @@ Or, conversely, if the normative were perceived it would have to be as a present
 
 **(Jayanta)** Please. You yourself admitted at one point that it's possible to perceive objects not situated in the present time:
 
-When we see silver, we see it as 'something durable' 
+When we see silver, we see it possessing the property 'durability' 
 {: .quote}
 [citation unknown, but appears to be from Kumārila's corpus]
 {: .examplecaption}
 
 So, you must accept that perceptions, such as "my brother will come tomorrow", can be of objects not occurring in the present.
 
-And, this being the case, just as people like us can see that our brother will come, so too can the perceptual faculties of sages operate over the future and the normative. So, we have answered your challenge against sage knowledge:
+And, this being the case, just as people like us can see that our brother will come, so too can the perceptual faculties of sages operate over the future and the normative. So, we have answered your challenge against sage perception:
 
-Precisely those sorts of instruments of knowledge and those sorts of objects disclosed by them which we see existing in the world today; these are all there have ever been since the dawn of time.
+Just those sorts of instruments of knowledge and those sorts of objects disclosed by them which we see existing in the world today; these are all there have ever been since the dawn of time.
 {: .quote}
 (SV K2.V113)
 {: .examplecaption} 
