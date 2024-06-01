@@ -1852,7 +1852,7 @@ So, we can infer that `P::(DΞ P)` is false — `P::(DΞ P)⊥`. This implies on
 Example (10.8.8)
 {: .examplecaption}
 
-And (1) is straightforwardly true. Notice how the presence of the partitioning term prevents us from proving (2), which would lead to the paraconsistent pair of assertions `P::(DΞ P). P::(DΞ P⊥)`. This successfully perserves a classical form of consistency, so long as the partitioning type is either completely realized or unrealized in its basis. In other words, partitioning acts as something like a domain restriction, ala restricted set comprehensions. But it is optionally, merely transporting us from a paraconsistent to a classically consistent logical system.
+And (1) is straightforwardly true. Notice how the presence of the partitioning term prevents us from proving (2), which would lead to the paraconsistent pair of assertions `P::(DΞ P). P::(DΞ P⊥)`. This successfully perserves a classical form of consistency, so long as the partitioning type is either completely realized or unrealized in its basis. In other words, partitioning acts as something like a domain restriction, ala restricted set comprehensions. But it is optional, merely transporting us from a paraconsistent to a classically consistent logical system.
 
 ### List of Navya Nyāya Operators
 
