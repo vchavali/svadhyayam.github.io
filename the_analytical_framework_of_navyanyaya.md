@@ -379,7 +379,9 @@ Example (6.1)
 
 The second way to put words in coordination is using pronouns; but we'll talk more about this a bit later.
 
-The bottom line is, coordinative relations impact the scope of the words in coordination. Recall that, on its own, a word `W` has a scope defined by some type `Wλ` that acts as its reference partitioner. Let's call this the intrinsic reference partitioner of the word. When that same word is placed in coordination with some other word, `V`, to get a coordinate phrase `(V W)`, then, the reference of each word, `W` and `V`, is additionally partitioned by the intrinsic reference partitioner of the other word. For example: the reference of `W` in `(V W)` is partitioned by both `Wλ` and `Vλ`.
+The bottom line is, coordinative relations impact the scope of the words in coordination. Namely, it places a constraint on the reference of the words in coordination, in addition to the one placed on them by their reference paritioner. This constraint has two parts, one directly involving the referents of the words and the other involving their reference partitioners. For the contraint on the referents directly: whatever any one word in coordination refers to, the other must refer to the samething. Coordinated words are co-referential.
+
+For the constraint involving their reference partitioners: Recall that, on its own, a word `W` has a scope defined by some type `Wλ` that acts as its reference partitioner. Let's call this the intrinsic reference partitioner of the word. When that same word is placed in coordination with some other word, `V`, to get a coordinate phrase `(V W)`, then, the reference of each word, `W` and `V`, is additionally partitioned by the intrinsic reference partitioner of the other word. For example: the reference of `W` in `(V W)` is partitioned by both `Wλ` and `Vλ`.
 
 We can use the `λ` operator to extract the reference partitioner of the in-context word by attaching it to the outside of the coordinate phrase: `(V W)λ`.
 
