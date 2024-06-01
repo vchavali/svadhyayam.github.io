@@ -107,7 +107,7 @@ Let's take a simple example (one of the standard examples in the literature). If
 In English, we might express this fact in a simple sentence:
 
 <div>
-Rāma is Daśaratha's.
+Rāma is Daśaratha's son.
 </div>
 {: .quote .example}
 Example (1.1a)
