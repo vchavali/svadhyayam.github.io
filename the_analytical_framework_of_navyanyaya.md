@@ -898,7 +898,7 @@ Rule (S.1) <a name="S.1">
 
 In this case, `A` is the subordinate of `B`, which is the subordinate of `C`. 
 
-Subordination distributes over coordination on the right-hand side:
+Also, subordination distributes over coordination on the right-hand side, if the unclarified type has positive valence:
 
 <div>
 (A B)C → AC BC
@@ -1842,27 +1842,17 @@ Example (10.8.7)
 
 which is inconsistent with our initial stipulation that `P:Dιˉ`.
 
-So, we can infer that `P::(DΞ P)` is false — `P::(DΞ P)⊥`. 
-
-Now, to reproduce the paradox, we need to get this to produce another inconsistency:
+So, we can infer that `P::(DΞ P)` is false — `P::(DΞ P)⊥`. This implies one of the following alternatives:
 
 <div>
-?> P :: (DΞ P)⊥ <br>
-→ P t̂ (DΞ t̂ P)⊥ι <br>
-→ P t̂ (DΞ t̂)⊥ι <br>
-→ P DΞ⊥ι t̂ t̂⊥ι <br>
-→ P DΞ⊥ι Pι <br>
-→ P (DΞ⊥ιτ P)ι <br>
-→ P :: DΞ⊥ιτ P <br>
-→ P :: DΞ⊥Ξ P <br>
+1. P :: D⊥
+2. P :: DΞ P⊥
 </div>
 {: .quote .example}
 Example (10.8.8)
 {: .examplecaption}
 
-But, notice how the previously paraconsistent pair of judgments `P::P⊥. P::P` now resolves into one with distinct partitioners: `P::(DΞ P)⊥. P::(DΞ⊥Ξ P)`. This successfully perserves a classical form of consistency, so long as the partitioning type is either completely realized or unrealized in its basis.
-
-On the other hand, this means we can only talk determinately about whether `P` applies—i.e. whether a given type fails to be self-realizing—with regards to only a subset of the universe of types. What if we want to ask, e.g., whether or not `DΞ P` fails to self-occur? We can do this by defining a still narrower type `F` that excludes `DΞ P`. And, we can repeat this question for `FΞ P` by defining an even narrower type `G`. And, we can repeat this too, *ad infinitum*. What this gives us is a heirarchy of types, each one behaving classically over types lower down in the heirarchy, but not over itself or those higher up in the heirarchy. In other words, we get something like a ramified type theory, arising organically just through the logic of type partitions. 
+And since (1) is straightforwardly true. Notice how the presence of the partitioning term prevents us from proving (2), which would lead to the paraconsistent pair of assertions `P::(DΞ P). P::(DΞ P⊥)`. This successfully perserves a classical form of consistency, so long as the partitioning type is either completely realized or unrealized in its basis. In other words, partitioning acts as something like a domain restriction, ala restricted set comprehensions. But it is optionally, merely transporting us from a paraconsistent to a classically consistent logical system.
 
 ### List of Navya Nyāya Operators
 
