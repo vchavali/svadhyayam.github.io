@@ -1828,7 +1828,7 @@ But notice that this time around, the property  `(t̂⊥ι t̂)λ` is not the sa
 
 But, how do we interpret assertions like: `P::P⊥`? If they're not contradictions, then what are they? As we discussed earlier (in the section on pure negatives), Naiyyāyikas interpret this as something that fails to express an internally consistent assertion not because `P` is paradoxical but because it is indeterminate. To review, in Navyanyāya jargon, the co-realization of a property and its absence in the same basis is called **incomplete realization** [अव्याप्यवृत्तिः; avyāpyavr̥ttiḥ] and is resolved by distinguishing the partition [अवच्छेदकभेदेन; avacchedakabhedena] over which the property operates from that of its absence. 
 
-For example, let's stipulate that there exists some type `D` such that completely excludes (i.e. is completely unrealized in unrealized in) `P`. Then, given the type `DΞ P`; we can ask:
+For example, let's stipulate that there exists some type `D` such that completely excludes (i.e. is completely unrealized in) `P`. Then, given the type `DΞ P`; we can ask:
 
 <div>
 ?> P :: DΞ P <br>
@@ -1845,7 +1845,7 @@ which is inconsistent with our initial stipulation that `P:Dιˉ`.
 So, we can infer that `P::(DΞ P)` is false — `P::(DΞ P)⊥`. This implies one of the following alternatives:
 
 <div>
-1. P :: D⊥
+1. P :: D⊥ <br>
 2. P :: DΞ P⊥
 </div>
 {: .quote .example}
