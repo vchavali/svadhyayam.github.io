@@ -221,11 +221,11 @@ According to the influential Maithilī philosopher, Vardhamāna Upādhyāya (~14
 
 Together, these functions represent the ontic, epistemic, and cognitive dimensions of meaning. In the language of Navyanyāya, we can refer to the reference partitioner of a noun stem by applying an **abstractional operator** [भावप्रत्ययः; bhāvapratyayaḥ]; e.g. suffixes like '-tva' or '-tal'. So, taking the Sanskrit word for 'son', `पुत्रः` [putraḥ], we can refer to its reference partitioner by affixing the -tva operator: `पुत्रत्वम्`.
 
-One thing to note, though, is that when Naiyyāyikas append these operators to noun stems, they apply the typical Pāṇinīya morphological and phonotactic rules to the resulting base-affix complex and derive a new noun stem, without explicit markers differentiating the original base from the logical operator. This has the advantage of allowing Navya expressions to fit neatly into ordinary Sanskrit sentences. But, in addition to obscuring the underlying structure of the expression and introducing certain surface-level ambiguities into the logical formula due to the way the Sanskrit rules interact, it also means you can't read Navya texts without a knowledge of Pāṇinīya techniques. This problem even leaks into translation, where translators often struggle to try and represent Navya formula by "translating" the Sanskrit grammatical devices into supposed English equivalents as if they were elements of natura Sanskrit rathar than formal devices of the Navya language. A similar issue faces attempted translations of the *Aṣṭādhāyī*, which also uses a specialized language to express its grammatical formula. 
+One thing to note, though, is that when Naiyyāyikas append these operators to noun stems, they apply the typical Pāṇinīya morphological and phonotactic rules to the resulting base-affix complex and derive a new noun stem, without explicit markers differentiating the original base from the logical operator. This has the advantage of allowing Navya expressions to fit neatly into ordinary Sanskrit sentences. But, in addition to obscuring the underlying structure of the expression and introducing certain surface-level ambiguities into the logical formula due to the way the Sanskrit rules interact, it also means you can't read Navya texts without a knowledge of Pāṇinīya techniques. This problem even leaks into translation, where translators often struggle to try and represent Navya formula by "translating" the Sanskrit grammatical devices into supposed English equivalents as if they were elements of natural Sanskrit rather than formal devices of the Navya language. A similar issue faces attempted translations of the *Aṣṭādhāyī*, which also uses a specialized language to express its grammatical formulae. 
 
 Because Pāṇinian morphophonemics is definitely outside the scope of this essay, I'll make use of two different sets of devices to clarify the structure of Navya formula in this essay—one for the roman script versions and one for the Sanskritic versions of these formulas. 
 
-In the case of the Sanskrit, I'll cite all Navya expressions with either a '।' or parentheses separating a Navya operator from its base. I will also undo any *sandhi* occuring across this punctuation. Lastly, I will use parentheses and spaces in a peculiar way (which I'll when we get to them) to clarify the internal structure of compounds where they occur not as natural Sanskrit but as formal devices within the Navya language.
+In the case of the Sanskrit, I'll cite all Navya expressions with either a '।' or parentheses separating a Navya operator from its base. I will also undo any *sandhi* occuring across this punctuation. Lastly, I will use parentheses and spaces in a peculiar way (which I'll discuss when we get to them) to clarify the internal structure of compounds where they occur not as natural Sanskrit but as formal devices within the Navya language.
 
 In the roman script representations of Navya formula, I'll use greek letters to represent Navya operators. I'll also use some punctuation and parenthesis to represent other Navya devices, which I'll also introduce when we get there. For the abstractional operator, I'll use the greek letter 'λ'. 
 
@@ -366,7 +366,7 @@ Note the double abstraction. The phrase `Σλ` / `अवच्छेदक।त
 
 ### Coordination
 
-While, the above approach does work, it has some issues. For one, it's clunky and unnecessarily verbose. But, worse than this, it doesn't actually state a definition of `daughterλ`; since, it leaves open the possibility that the definition of `daughterλ` must still involve additional other properties not stated above. For this reason, the Navya framework provides a way to explicitly construct a type using a syntax that invokes partitioning under the hood. This is accomplished via a syntactic relation called **coordination** [सामानाधिकरण्यम्; sāmānādhikaraṇyam]
+While, the above approach does work, it has some issues. For one, it's clunky and unnecessarily verbose. But, worse than this, it doesn't actually state a definition of `daughterλ`; since, it leaves open the possibility that the definition of `daughterλ` must still involve additional properties not stated above. For this reason, the Navya framework provides a way to explicitly construct a type using a syntax that invokes partitioning under the hood. This is accomplished via a syntactic relation called **coordination** [सामानाधिकरण्यम्; sāmānādhikaraṇyam]
 
 Two words are in coordination if they are either (1) in *apposition* [सहप्रयोगः; sahaprayogaḥ] or (2) coreferential with a pronoun. The word 'apposition' is just the name of a particular kind of syntactic relationship between nouns or noun phrases that, in the context of Sanskrit, is indicated either by giving both constituents the same case endings or by putting them together into a compound type called *karmadhārayaḥ* \[कर्मधारयः\]. When we cite Navya expressions with appositional syntax, we'll express apposition between two noun stems `W` and `V` by putting them next to each other, like in a compound, but with a space separating them. We'll do this for *both* the roman script and Sanskritic versions. 
 
@@ -561,7 +561,7 @@ And transitive:
 If,
 
 <div> 
-A :: BΣλ
+A :: BΣλ <br>
 B :: CΣλ
 </div>
 {: .quote .example}
@@ -657,7 +657,7 @@ Now, unlike with (7.2a), we can't simply drop out reference to 'Pāṇḍu' and 
 
 <div> 
 Rāma is not a son. <br>
-रामे न पुत्रः ।
+रामः न पुत्रः ।
 </div>
 {: .quote .example}
 Example (7.2b)
@@ -676,7 +676,7 @@ Example (7.3a-b)
 In the same vein, (7.2a-b) could be expressed as:
 
 <div> 
-¬(rāma son daśaratha)
+¬(rāma son daśaratha) <br>
 ∃x ¬(rāma son x)
 </div>
 {: .quote .example}
@@ -688,7 +688,7 @@ Recall that '¬' is the negation operator (representing 'not') and '∃' is the 
 Or, using the symbol `S` for 'son', `r` for 'Rāma' and `d` for 'Daśaratha' and representing the expression `a son b` in prefix notation `Sab`, we can rewrite this as:
 
 <div> 
-¬Srd
+¬Srd <br>
 ∃x¬Srx
 </div>
 {: .quote .example}
@@ -912,7 +912,7 @@ Rule (S.2) <a name="S.2">
 Note that the reverse direction does not hold:
 
 <div>
-AC BC→ (A B)C  &emsp; <— this does not work!
+AC BC → (A B)C  &emsp; <— this does not work!
 </div>
 {: .quote .example}
 Rule (S.2) <a name="S.2">
@@ -970,7 +970,7 @@ Here, we'll just focus on the two most fundamental type: the **pure negative** [
 
 Negative types are a special case of a broader category called **two-place** [उभयनिष्ठः; ubhayaniṣṭhaḥ] types. Whereas any single instance of a normal 'one-place' type has just one basis, a two-place type involves two bases simultaneously.
 	
-An example of this sort of type is a two-place relation. Let's define the word `P` for 'production' [उत्पत्तिः] which refers to a relation of cause and effect between two objects. Note that although `P` involves both a cause and an effect (i.e., it's a two-place type), there is an asymmetry between how it relates to each one. We can have the production *of* smoke *by* fire. But, typically, not vice-a-versa. In other words, although a two-place type has two bases, it isn't realized the same way in each one. We'll refer to it's 'dominant' basis as its **substrate** [अनुयोगि; anuyogi] and the other as its **correlate** [प्रतियोगि; pratiyogi]. So, `s` (smoke) is the substrate of a `P` whose correlate is `f` (fire).
+An example of this sort of type is a two-place relation. Let's define the word `P` for 'production' [उत्पत्तिः] which refers to a relation of cause and effect between two objects. Note that although `P` involves both a cause and an effect (i.e., it's a two-place type), there is an asymmetry between how it relates to each one. We can have the production *of* smoke *by* fire. But, typically, not vice-a-versa. In other words, although a two-place type has two bases, it isn't realized the same way in each one. We'll refer to its 'dominant' basis as its **substrate** [अनुयोगि; anuyogi] and the other as its **correlate** [प्रतियोगि; pratiyogi]. So, `s` (smoke) is the substrate of a `P` whose correlate is `f` (fire).
 
 Or, in Navyanyāya speak, using the operators `अनुयोगि` [anuyogi] and `प्रतियोगि` [pratiyogi], which we'll represent with the greek letters `α` and `π`, respectively:
 
@@ -1024,13 +1024,13 @@ r :: pSλ⊥ <br>
 Example (9.2.1)
 {: .examplecaption}
 
-The pure negative is often (in English language literature) called an 'absence'. So, we could read (9.2.1) as "Rāma possess a Pāṇḍu-clarified sonλ absence".
+The pure negative is often (in English language literature) called an 'absence'. So, we could read (9.2.1) as "Rāma realizes a Pāṇḍu-clarified sonλ absence".
 
 #### Co-negatives
 
 The Co-negative expresses inconsistency. Naiyyāyikas represent this with the operator `अन्योन्याभावः` \[anyonyābhāvaḥ\]; or`भेदः` [bhedaḥ], for short. We'll represent this with the symbol `ˉ`. 
 
-This idea of 'inconsistency' is cached out in terms of a relationship between the inconsistency and falsity. Namely, if two facts are inconsistent with one another, then each one is false where there other other is true. We can formalize this idea as follows. 
+This idea of 'inconsistency' is cashed out in terms of a relationship between the inconsistency and falsity. Namely, if two facts are inconsistent with one another, then each one is false where there other other is true. We can formalize this idea as follows. 
 
 Given two entities `A` and `B`, if you assume that:
 
@@ -1344,7 +1344,7 @@ Roughly speaking, relations of apposition and subordination allow us to express 
 
 Within this setup, we can think of anaphoric compounds as short-circuiting this tree structure by allowing coordination relations between arbitrary nodes in the tree, basically turning it into a dependency graph. But, they can do more than this: anaphoric pronouns can cut across phrase boundaries, essentially connecting nodes that belonging in entirely different syntax trees. 
 
-There are a variety of ways this can happen, but the only one that's important to us is the case of embedded relative clauses. In this case, the embedded phrase does not expose any principal member as a coordinate (i.e. appositionally) or subordinate to any word in the embedding phrase. If that was all there was, than such an island phrase would not actually contribute any information to the assertion it is nominally a part of. But, because it can share pronouns with the embedding phrase, it can engage in coordinative relations with elements of the main clause, and impact the content of the assertion that way. 
+There are a variety of ways this can happen, but the only one that's important to us is the case of embedded relative clauses. In this case, the embedded phrase does not expose any principal member as a coordinate (i.e. appositionally) or subordinate to any word in the embedding phrase. If that was all there was, then such an island phrase would not actually contribute any information to the assertion it is nominally a part of. But, because it can share pronouns with the embedding phrase, it can engage in coordinative relations with elements of the main clause, and impact the content of the assertion that way. 
 
 Now, I'm just going to assert without proof (sorry) that phrases involving embedded relative clauses can be transformed using the `τ` and `κ` operators (and by taking one of the shared pronouns as a pivot) such that it can be placed directly in apposition with at least one of the instances of that pronoun in the embedding clause. In other words, syntax for embedded relative clauses isn't strictly necessary for the language. Nonetheless, using relative clauses can make certain constructions (e.g. when using `λ` to construct anonymous type definitions) simpler and clearer than the alternative. So, Naiyyāyikas sometimes use such expressions; marking the embedded phrase with a relative pronoun (yatpadam; [यत्पदम्]). We'll represent this syntax using a semicolon in the following format: 
 
@@ -1413,23 +1413,22 @@ Now that we've more-or-less gotten a handle on the language of Nyāya, I'm think
 
 We've already looked at negation fairly exhaustively, so I won't belabor the  point much. If you have a type `T` and a basis `b`, then you can assert that `a::T` is false by asserting `a::T⊥`.
 
-The one thing I will re-emphasize is that negation operates on *types*, always and only *types*. The closest thing to negating a whole sentence, like`a::T`, is with something like this: `(aτ T)⊥`.
+The one thing I will re-emphasize is that negation operates on *types*, always and only *types*. The closest thing to negating a whole sentence, like `a::T`, is with something like this: `(aτ T)⊥`.
 
 Assertions are not propositions. You can't operate on assertions or combine them together to get new assertions. You can, however, operate on or combine *types*. When Naiyyāyikas want to express complex propositions, they treat these propositions as types and combine them using higher-order types like `⊥` and `Σ`, etc. 
 
 #### And, Nand, Or
 
-Conjunction (ubhayaḥ) is the 'and' connective between propositions. We already saw that we can express this in terms of the
-three-place type 'pair': `(T,U)pair` is a type that occurs
+Conjunction (ubhayaḥ) is the 'and' connective between propositions. We can express this in terms of the three-place type 'pair': `(T,U)pair` is a type that occurs
 any where both `T` and `U` occur, and vice-versa. We can generalize this
 to arbitrary number of constituents resulting in a multi-place type
-called a 'group' \[कूटः; kūṭaḥ\]. 
+called a `group` \[कूटः; kūṭaḥ\]. 
 
 An interesting type that sometimes shows up in Navyanyāya texts is the so-called negative group (kūṭābhāvaḥ). The negative group is defined as you'd expect `कूट।अभावः` / `group⊥` and is present wherever at least one of its constituents is absent. 
 
 The type `double` [दद्वयः; dvayaḥ] provides convenient syntax for pairs whose correlates are of the same type. With this, we can represent a conjunction of two negations as: `⊥double` / `अभाव।द्वयः`. 
 
-In the *Vācaspatyam*, a dictionary of Navyanyāya terms and their derivations by the great 19th ce Pt. Tārānātha Tarkavācaspati, we find the following definition of Disjunction [अन्यतरत्वम्; anyataratvam; the "or" operator].
+In the *Vācaspatyam*, a dictionary of śāstric terms and their derivations by the great 19th ce Pt. Tārānātha Tarkavācaspati, we find the following definition of disjunction [अन्यतरत्वम्; anyataratvam; the "or" operator].
 
 <div>
 disjunctionλ :: (ˉdoubleΞ πλ)κ ˉ <br>
