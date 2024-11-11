@@ -26,7 +26,7 @@ As an aside, going forward I'm going to deviate in a variety of ways from how we
 
 ## Translation
 
-But—it is not correct that the intellectual practice proceeding from an analysis of our evidential instruments is necessarily connected to the attainment of the highest good. For, it is not possible to analyse the instruments, in the first place. This, after all, depends on an analysis of evidentiality; and the latter—as we will demonstrate—cannot be accomplished either from a constitutivist or non-constitutivist standpoint.
+But—it is not correct that the intellectual practice proceeding from an analysis of our evidential instruments is necessarily connected to the attainment of the highest good. For, it is not possible to analyse the instruments, in the first place. This, after all, depends on an analysis of evidentiality; and the latter—as we will demonstrate—cannot be accomplished either from a constitutivist or nonconstitutivist standpoint.
 
 ## Notes
 
@@ -74,20 +74,20 @@ Ok, let's say we accept that we do need to be able to evaluate the evidentiality
 
 Here are our options:
 
-The evidentiality of some cognition C
+The evidentiality of some cognition
 
-1. is detected by the causal complex that is (a) a detector of C's truth and (b) not a detector of its non-evidentiality
+1. is detected by a truth detecting, nonevidentiality nondetecting mental state
 — Yes or No?
 
-2. is detected by a cognition that is not caused by a cognition that features C as its content
+2. is detected by a cognition uncaused by a cognition with that cognition as content
 — Yes or No?
 
-Because although, in a non-constituitivist account, the detector of evidentiality must itself be observed; in a constitutative account, detecting cognition only requires the former to be evidential.
+Because although, in a nonconstitutivist account, evidentiality detection requires the detecting cognition to be observed; in a constitutivist account, the cognition only needs to be evidential.
 
-3. is detected by the detector of C
+3. is detected by its own substrate's detector
 — Yes or No?
 
-4. is just detected by C
+4. is just detected by its own substrate
 — Yes or No? 
 — does this apply in every case?
 
@@ -99,7 +99,7 @@ Claim (1) is the most important. It's a bit confusing, so let's break it down.
 
 First, saying that a mental state M *detects* some property P belonging to some entity E just means that when someone is in M then they are aware that E possesses P. So, saying 'M detects the evidentiality of E' means that if someone is in M; then they are aware that J is evidential. 'M detects the J's truth' means being in M entails being aware that E is true. M detects 'E's content' means being in M entail being aware that E has that content.
 
-What claim (1) is saying is that detecting the evidentiality of E requires only that, in addition to thinking, correctly, that J is true, you must not think that it is not non-evidential. In non-technical terms, this just means that in order to being able to say that some observation is evidential (leaving aside the question of what it *means* to be evidential, for now), three things have to happen:
+What claim (1) is saying is that detecting the evidentiality of E requires only that, in addition to thinking, correctly, that J is true, you must not think that it is not nonevidential. In non-technical terms, this just means that in order to being able to say that some observation is evidential (leaving aside the question of what it *means* to be evidential, for now), three things have to happen:
 
 1 — it has to be true
 2 — you have to think that it's true
@@ -113,13 +113,13 @@ Claims (2)-(3) are not fully independent but actually represent three different 
 
 ## Translation
 
-First—you must concede that in at least some cases, such as observations stemming from yogic intuition or our mental connection to universals, we find instances of mental states detecting their own evidentiality. Or else, you must qualify your assertion with the phrase "not caused by yogic intuition, etc."
+First, you must concede that in at least some cases, such as observations stemming from yogic intuition or our mental connection to universals, we find instances of mental states detecting their own evidentiality. Or else, you must qualify your assertion with the phrase "not caused by yogic intuition, etc."
 
 ## Notes
 
 ## Translation
 
-No, because some people don't accept that these things exist.
+No—because some people don't accept that these things exist.
 
 ## Notes
 
@@ -127,13 +127,13 @@ Not everyone agrees that there are such things as yogic intuition and mental con
 
 ## Translation
 
-And even if such things were accepted—since the claim is about detecting evidentiality, as such, and about whether evidentiality can be detected by its own possesser, across the board; you cannot consider this to be even a partial concession.
+And even if such things were accepted—since the claim is about detecting evidentiality, as such, and about whether evidentiality can be detected by its own substrate, across the board; you cannot consider this to be even a partial concession.
 
 ## Notes
 
 ## Translation
 
-So, is it or is it not the case that the evidentiality of the cognition 'this is a pot' is detected by that very mental state? Is it or is it not the case that it is detected by just its own the detector?
+So, then—is it or is it not the case that the evidentiality of the cognition 'this is a pot' is detected by that very mental state? Is it or is it not the case that it is detected by just its own detector?
 
 ## Notes
 
@@ -141,50 +141,50 @@ As far as I can tell, this is just a restatement of earlier claims with a specif
 
 ## Translation
 
-Now, whether we define evidentiality as the property a cognition C has if and only if
+Now, whether the evidentiality of a cognition is defined as the property of
 
-1. C does not have as its mode of presentation a property not possessed by its subject, or
-2. C is a detector of something undetected
+1. not presenting a subject nonpredicating property, or
+2. detecting something undetected, or
 
 or, under a universal correspondence thesis for mental states, and where first-order experience is not considered a natural kind:
 
-3. C is non-recollective awareness, or
-4. C is a structured mental state
+3. being non-recollective awareness, or
+4. being a structured mental state
 
-it is not detected either by C, itself, or by a perceptual state introspecting C. For, without awareness of the property "not having as its mode...", etc.; one cannot be aware that a mental state possesses it.
+it is not detected either by that cognition, itself, or by a perceptual state introspecting it. For, without awareness of the property "not having as its mode...", etc.; one cannot be aware that a mental state possesses it.
 
-Nor, under anti-perceptualism about introspection, can a cognition's evidentiality be detected via an inference from cognitivity. The property 'being cognized', on its own, is uncorrelated with properties like "being evident". Nor does it work to modify the inference to 'being observed in a manner conducive to evidence'; since, such a property cannot be observed. Otherwise, even the detection of non-evidentiality would be constitutive, via an inference from 'not being observed in a manner conducive to evidence'. 
+Nor, under anti-perceptualism about introspection, can a cognition's evidentiality be detected via an inference from cognitivity; for the property 'being cognized', on its own, is uncorrelated with properties like "being evident". Nor does it work to modify the inference to 'being observed in a manner conducive to evidence'; since, such a property cannot be observed. Otherwise, even the detection of nonevidentiality would be constitutive, via an inference from 'not being observed in a manner conducive to evidence'. 
 
 ## Notes
 
-The "now" signals a change in voice and introduces an objection. The speaker is a non-constitutivist, but not one that represents Gaṅgēśa's own perspective. 
+The "now" signals a change in voice and introduces an objection. The speaker is a nonconstitutivist, but not one that represents Gaṅgēśa's own perspective. 
 
-Recall that the constitutivist position is that the evidentiality of an evidential state is a function of its content. The discussion begining with "now" and continuing on to nearly the end of this chapter is concerned with understanding what exactly the "content" of an evidential mental state is. This is worked out via a dialectical encounter between the constitutivist and a non-constitutivist opponent. 
+Recall that the constitutivist position is that the evidentiality of an evidential state is a function of its content. The discussion begining with "now" and continuing on to nearly the end of this chapter is concerned with understanding what exactly the "content" of an evidential mental state is. This is worked out via a dialectical encounter between the constitutivist and a nonconstitutivist opponent. 
 
 In the above passage, this opponent suggests what she takes to be a common-sense understanding of the content of a mental state as not being rich enough to determine its own evidentiality. The idea is this:
 
 ## Translation
 
-Except, evidentiality is defined either as the property a mental state C has if and only if
+Except—given some property P, either evidentiality is defined as
 
-1. C is cognition of a property P as the mode under which the object possessing P is presented in E, or
-2. C is cognition of the predication by a property P of an object that possesses P
+1. the property of being a P-presenting cognition of a P-substrate, or
+2. the property of being a P-predicating cognition of a P-substrate
 
-For, only from such a belief can there be confident action. This is the economical account and anything else introduces complications. And this, moreover, can be detected by the introspecting mental state. So, whether by an inner sense, an inference, or self-presentation; introspecting some first order mental state E detects as the content of E both that an object T possesses some property P and that P is the mode under which T is presented in E.
+For, only from such a belief can there be confident action. This is the economical account and anything else introduces complications. And this, moreover, can be detected by the introspecting mental state. So, whether by an inner sense, an inference, or reflexive awareness; introspection detects as the content of a mental state both that an object is the substrate of some property and that that object is presented under that property.
 
-Mental states are indexed by their content. So, the content of a first order mental state is present in the introspecting state. This being the case, when a mental state is experienced, in addition to an object T and a property T, the predication by P of T also features as its content. For, the latter is just as much a part of what defines the structure of that mental state. Since the form of a relatum in awareness is modulated by the relation it partakes in, the introspecting state is indexed by not just the relata, but the relation as well. In other words, the content of an awareness of, e.g., 'this object in front of me' appears in introspection as modulated by, e.g., 'being silver'. Otherwise, introspection would take the form, 'I am aware of this object in front of me *and* silver'. Not, 'I am aware of this object in front of me *as* silver'.
-
-## Notes
-
-## Translation
-
-If this were the case, then non-evidential states would also be detected as being evidential; since the introspecting state would have for its content predication by a property which is the content of an error. Nor could you respond that since evidentiality is not known at the onset, it could not be reproduced in the introspecting state. After all, evidentiality of a cognition is detected by just the mental complex that detects that cognition; since it is observed in introspection—like with awareness of an absence, where both the absence and the absentee are presented.
+Mental states are indexed by their content. So, the content of a first order mental state is present in the introspecting state. This being the case, when a mental state is experienced, in addition to an object T and a property P, the predication by P of T also features as its content. For, the latter is just as much a part of what defines the structure of that mental state. Since the form of a relatum in awareness is modulated by the relation it partakes in, the introspecting state is indexed by not just the relata, but the relation as well. In other words, the content of an awareness of, e.g., 'this object in front of me' appears in introspection as modulated by, e.g., 'being silver'. Otherwise, introspection would take the form, 'I am aware of this object in front of me *and* silver'. Not, 'I am aware of this object in front of me *as* silver'.
 
 ## Notes
 
 ## Translation
 
-Knowledge of the non-evidentiality of a mental state whose mode of presentation is a property its object does not possess is not constitutive. Since, so long as the error is not made explicit, that the object lacks that property is not the content of the introspecting state. Nor should you say that insofar as the content of introspection includes the full content of the introspected cognition, there would be a conflation of the cognition presenting that error with the error itself.  After all, so long as no defeater appears, this is precisely what we expect. But, when we do encounter a defeater, the conflation is blocked; because, the importation of the error from the introspected mental state ceases. This is also why there is no error when observing someone else's mistake. 
+If this were the case, then nonevidential states would also be detected as being evidential; since the introspecting state would have for its content predication by a property which is the content of an error. Nor could you respond that since evidentiality is not known at the onset, it could not be reproduced in the introspecting state. After all, because the evidentiality of a cognition is detected by the mental state detecting that cognition; it is observed in introspection—like with awareness of an absence, where both the absence and the absentee are presented.
+
+## Notes
+
+## Translation
+
+The nonevidentiality of a P-presenting cognition of a P-nonsubstrate is cognized nonconstitutively. Since, so long as the error is not made explicit, that the object lacks that property is not the content of the introspecting cognition. Nor should you say that insofar as the content of introspection includes the full content of the introspected cognition, there would be a conflation of the cognition presenting that error with the error itself.  After all, so long as no defeater appears, this is precisely what we expect. But, when we do encounter a defeater, the conflation is blocked; because, the importation of the error from the introspected cognition ceases. This is also why there is no error when observing someone else's mistake. 
 
 ## Notes
 
@@ -194,7 +194,7 @@ Knowledge of the non-evidentiality of a mental state whose mode of presentation 
 
 And if you respond:
 
-Truth is not just a matter of predicating one thing of another. Rather, it is a peculiar property of cognitive content which, though appearing in the first-order mental state, does not appear in introspection due the mental organ's lacking independent access to external objects.
+Truth is not just a matter of predicating one thing of another. Rather, it is a peculiar property of cognitive content which, though appearing in the first-order cognition, does not appear in introspection due the mental organ's lacking independent access to external objects.
 
 ## Notes
 
@@ -202,13 +202,13 @@ Truth is not just a matter of predicating one thing of another. Rather, it is a 
 
 A cognition presenting some content is not the same thing as that content being true. Rather, truth is, itself, a property of cognitive content, distinct from the elements that constitute it. The precise nature of this property is not stated out-right here, since it is a matter of much contraversy. 
 
-But, the point of the argument is this: introspection only detects the content of some cognition. I.E. it generates awareness that some cognition has such and such a content. That, in addition, this content is "true" requires detecting something additional to the content of that awareness; which, being a mind-external entity, lies outside the purview of the introspective faculty. This being the case, even if we define "evidentiality" as just awareness that some cognitive content is true; introspection alone cannot detect this. Therefore, detecting evidentiality is not constitutive of detecting cogntition. 
+But, the point of the argument is this: introspection only detects the content of some cognition. I.E. it generates awareness that some cognition has such and such a content. Knowing that this content is "true" requires detecting something additional. For example, it requires knowing that this content corresponds to the actual objects the cognition is directed towards. But, because this involves knowledge of mind-external entities, it lies outside the purview of the introspective faculty. This being the case, if evidentiality requires that a cognition is true; introspection alone cannot detect this. So, detecting evidentiality is not constitutive of detecting cogntition. 
 
 In simple terms—we need to know more than the content of a cognition in order to no that it is true. Since evidentiality depends on truth, it cannot just be a function of a cognition's content.
 
 Put in terms of contemporary Western epistemology, knowledge is belief derived from evidence; where "evidence", in this context, implies both truth and justification (+/- some anti-luck condition). In other words, "evidence" is just a name for whatever additional thing belief needs in order for it be knowledge. This is more-or-less the same thing as a JTB+ account of knowledge.
 
-Now, both the constituvists and the non-constitutivists agree that having evidence means being in a mental state that has the capacity to deliver some information—i.e. deliver "evidence"—to a subject forming a belief. Let's use the word "observation" as a generic term for this type of evidence-delivering mental state. This includes "direct" observation, i.e. sense perception, as well as "indirect" forms of observation such as inference and testimony. The idea is that in order for an observation to be evidential, it has to obey certain conditions that are together bundled up into the word "evidentiality". The constituvist—non-constitutivist debate is about what exactly this "evidentiality" amounts to.
+Now, both the constituvists and the nonconstitutivists agree that having evidence means being in a mental state that has the capacity to deliver some information—i.e. deliver "evidence"—to a subject forming a belief. Let's use the word "observation" as a generic term for this type of evidence-delivering mental state. This includes "direct" observation, i.e. sense perception, as well as "indirect" forms of observation such as inference and testimony. The idea is that in order for an observation to be evidential, it has to obey certain conditions that are together bundled up into the word "evidentiality". The constituvist—nonconstitutivist debate is about what exactly this "evidentiality" amounts to.
 
 More precisely, we can analyze this debate into separate epistemic, ontic, and conceptual problems of evidentiality. The first three chapters of the *Tattvacintāmaṇi*—titled "Detecting Evidentiality", "Grounding Evidentiality", and "Defining Evidentiality", respectively—each deal with one of these problems.
 
@@ -216,7 +216,7 @@ The epistemic constitutivists say that detecting evidentiality involves nothing 
 
 Take a simple example—let's say you have a belief that the sky is blue. For this belief to count as knowledge it must have come about because you had some evidence for it. Let's say you that you looked at the sky and saw that it was blue. Your evidence, in this case, is perception. Now, if someone asks you, "How do you know that the belief is true?"; the constitutivist answer to this is: "I know by introspection that I perceived the sky to be blue, which is the basis for my belief that the sky is blue". 
 
-This brings us the argument above. Namely, the non-constitutivist argues that introspection tells us what the content of our observation is; but doesn't tell us that it is true. Since truth is a condition for an observation's being evidential—otherwise, knoweldge would not be factive—introspection can't detect evidentiality, on its own.
+This brings us the argument above. Namely, the nonconstitutivist argues that introspection tells us what the content of our observation is; but doesn't tell us that it is true. Since truth is a condition for an observation's being evidential—otherwise, knoweldge would not be factive—introspection can't detect evidentiality, on its own.
 
 
 ## Translation
@@ -225,7 +225,7 @@ No—because, inosfar as it, too, is a part of the content of the first-order co
 
 ## Notes
 
-"though appearing in first order cognition": why does the non-constitutivist think that truth *is* apparent in the first order mental state but not in the introspecting state? 
+"though appearing in first order cognition": why does the nonconstitutivist think that truth *is* apparent in the first order mental state but not in the introspecting state? 
 
 ## Translation
 
@@ -239,28 +239,28 @@ We are nearing the end of this section. What follows is a brief summary of the u
 
 ## Translation
 
-1. Without self-presentation, the detection of evidentiality cannot be constitutive because a property cannot be detected without detecting the property possessor. Detecting on the basis of its structure that a mental state is auditory, olfactory, etc. does not mean there is awareness of it as evidential. 
+1. Assuming no reflexive awareness: the detection of evidentiality cannot be constitutive because a property cannot be detected without detecting its substrate. Detecting on the basis of its structure that a mental state is auditory, olfactory, etc. does not mean there is awareness of it as evidential. 
 
-2. If there is self-presentation, insofar as it merely detects itself, it lacks the capacity to detect its properties. 
+2. Assuming reflexive awareness: insofar as a cognition only observes itself, it lacks the capacity to detect its properties. Or, if it does have this capacity; nonevidentiality would also be detected constitutively.
 
-3. If cognition is detected by inference or an inner sense; in determining a cognition's evidentiality, it cannot exclude the possiblity of error due to the lack of an invariable connection. Because (a) if it was detected only where it was present, then the detection of non-evidentiality would also be constitutive; and (b) neither inference nor an inner sense track with this content. 
+3. Assuming non-reflexive introspection: the introspecting cognition, whether inferential or perceptual, cannot detect evidentiality as exclusive of error, because of a lack of correlation. That is—if it was detected only where it was present, then the detection of nonevidentiality would also be constitutive. Moreover, neither inference nor an inner sense are causaly connected to such content.
 
 ## Notes
 
 This is the end-of-section review of the anti-constitutivist arguments discussed so far. The constitutivist responses are left as an exercise to the reader; but should be evident from the material covered in this section, starting with the line "cognition is indexed by its content". 
 
-Next is a summary of the constitutivist thesis, followed by a master argument for epistemic constitutivism. This ends the section. The second, and last section, of chapter 1 presents Gaṅgēśa's version of the non-constitutivist account, begining with what he takes to be the "real" problem with constitutivism.
+Next is a summary of the constitutivist thesis, followed by a master argument for epistemic constitutivism. This ends the section. The second, and last section, of chapter 1 presents Gaṅgēśa's version of the nonconstitutivist account, begining with what he takes to be the "real" problem with constitutivism.
 
 ## Translation
 
-So, the evidentiality of a mental state E is defined either as the property E has if and only if
+So, evidentiality is defined either as
 
-1. E is an awareness of a property P as the mode under which the object possessing P is presented in E, or
-2. E is an awareness of the predication by a property P of an object that possesses P
+1. the property of being a P-presenting cognition of a P-substrate, or
+2. the property of being a P-predicating cognition of a P-substrate
 
-because this is what is detected by introspection, whether understood as self-presentation, inner sense, or inference. I.E., because the mental complex that detects an observation E of P also detects that E has P as content or that E has P as its mode of presentation. 
+because this is what is detected by introspection, whether understood as reflexive awareness, inner sense, or inference. That is, because the introspecting mental state detects of a cognition that it is P-presenting and that it has T-content. 
 
-Moreover, if the detection of evidentiality was non-constitutive; then, with respect to the detector of evidentiality; knowledge of its content—including the relevent inferential sign, target, and pervasion relation—would, in turn, depend on detecting *it's* evidentiality. And, insofar as this too would proceed non-constitutively, it would trigger a regress in the direction of both process and result; making it so we could not detect evidentiality at all. As such, we can also prove by contradiction that the detection of evidentiality is constitutive.
+Moreover, if detection of evidentiality was nonconstitutive; then, with respect to the evidentiality detector; knowledge of its content—including awareness of the relevent inferential sign, target, and entailment relation—would, in turn, depend on detecting *it's* evidentiality. And, insofar as this too would proceed nonconstitutively, it would trigger a regress in the direction of both process and result. If this were so, we could not detect evidentiality at all. As such, we can also prove by contradiction that detection of evidentiality is constitutive.
 
 # Misc
 —-> Prāmāṇyotpattiḥ | What makes an observation evidential?

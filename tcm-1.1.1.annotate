@@ -13,11 +13,11 @@ My source text is the 1973 Tirupati edition (pub. Kendriya Sanskrit Vidyapeetha,
 
 My aim is to create something like a self-study guide as a way for me to process what I'm reading as I work through this text. But, I also hope it will help anyone else wanting to study the TCM. Fair warning: these notes reflect my own limited understanding of the material and I can't claim either completeness or accuracy. Also, much of the commentarial discussions go over my head.
 
-# Prāmāṇyajñaptivādaḥ | Detecting Evidentiality
+# Prāmāṇyajñaptivādaḥ | The Epistemology of Evidentiality
 
 So—aiming to raise up the Earth itself, mired in the murk of dispair, the <n>all-compassionate sage</n> invented *Philosophy*, most revered among the eighteen spheres of learning. With this in mind, and to stimulate thoughtful readers, he began his *Formulae* with the words: "the path to the ultimate good lies in understanding the sixteen principles, starting with our <tl v="pramāṇam"><n>evidential instruments</n></tl>". And, because, among these principles, it is upon the instruments that all the rest depend; this is what we will now discuss.
 
-<note> 
+<note id="sec 0"> 
 <tag id="all-compassionate sage">
 The "all-compassionate sage" is Gautama Akṣapāda, the author of *The Philosophical Formulae* (Nyāya-sūtrāṇi), the ancient text that birthed the *Old Philosophy* (prācīnanyāyaḥ)—that is, "Nyāya" with a capital "N".
 </tag>
@@ -27,7 +27,40 @@ The "all-compassionate sage" is Gautama Akṣapāda, the author of *The Philosop
 
 This is one of a set of technical terms, referring to a cluster of closely interrelated concepts, theorizing which is the principle aim of the first few chapters of the TCM.
 
-The term is usually translated as some varient of "instrument of knowledge" or "source of knowledge". The latter references another key term, "pramā" or "pramitiḥ" (the two are synonymous); which is often translated as "knowledge". I translate "pramā" as "evidence"; hence my choice to translate "pramāṇam", which is defined as the instrumental cause of "pramā", as "evidential instrument". Translating "pramā" as "knowledge" is problematic, and a source of considerable confusion when trying to understand the arguments and broader project of the TCM. <refn id="sec2/knowledge">Also see here</refn>.
+The term is usually translated as some variant of "instrument of knowledge" or "source of knowledge". The latter references another key term, "pramā" or "pramitiḥ" (the two are synonymous); which is often translated as "knowledge". I translate "pramā" as "evidence"; hence my choice to translate "pramāṇam", which is defined as the instrumental cause of "pramā", as "evidential instrument". 
+
+Translating "pramā" as "knowledge" is problematic, and a source of considerable confusion when trying to understand the arguments and broader project of the TCM. Here are some reasons why:
+
+1. Pramā is a species of anubhava; specifically it is "evidential" observation.
+
+Anubhava is a type of cognition that is (a) occurrent and (b) informative (sometimes rendered as "novelty"). That is, it contrasts with dispositional belief (a) and recollection [smr̥tiḥ], which merely regurgitates already acquired information (b). This is why I translate anubhava as "observation"; since it's also an occurrent mental state capable of delivering new information. One caveat here, observation is not limited to just perception; but also includes "second-hand" forms of observation such as inference and testimony. 
+
+On both of these points, (a) and (b), translating pramā as "knowledge" is troublesome. 
+
+Regarding (a) — knowledge is not typically considered a kind of mental state, let alone an occurrent one. Timothy Williams is an exception; but even in this case, rendering knowledge as pramā threatens to make the whole debate around knowledge-first accounts unintelligible in Sanskrit. This suggests, at the least, that the reverse choice should be also be treated with skepticism.
+
+Regarding (b) — it is hard to make sense of the informativity/novelty condition on "pramā", when it's rendered as "knowledge". But, this is much more intuitive when we realize that "pramā" is a species of observation.
+
+2. Pramā can be subcategorized into perception [pratyakṣajñānam], inference [anumitiḥ], testimony [śābdajñānam], etc. These are species of evidence, not species of knowledge.
+
+One counterargument to this is that, since this subcategorization is based on how the mental state is produced rather than on its structure; it is not really different that categorizing knowledge based on the type of justification involved. But this is misleading. 
+
+Nearly everyone agrees that it is at least *sometimes* possible to distinguish between perceptual and inferential pramā on phenomenological grounds. For example, in the case of nonconceptual perceptual states. Moreover, some theorists—most notably Diṅnāga and Dharmakīrti—think that pramā can be systematically sorted into either "perception" or "inference" based soley on its phenomenology. This does not make sense when talking about knowledge; since the phenomenology of belief states is not expected to necessarily depend on the type of evidence that the beliefs are based on.
+
+3. pramā can be nonconceptual; whereas knowledge, or at least knowledge "that", cannot. On the other had, knowledge can include "know how". But there is nothing comparative in the case of pramā. 
+
+4. It is possible to have knowledge in virtue of being in a propositionally structured, occurrent, and non-recollective mental state that fails to be pramā. This is because, whether or not a mental state counts as pramā depends not just on its propositional content but also the way in which that content is presented.
+
+This is the weakest of the three reasons, but I'm including because I feel it represents a telling difference in how underlying projects of Sanskrit and Anglophone epistemology are concieved.
+
+Consider the proposition P: "Socrates is either man or tree". A non-recollective mental state M whose content is P could fail to count as pramā even though someone in M would possess a true and justified belief that P. Whether or not M is pramā depends on the phenomenology of the mental state; i.e. whether it presents its information as a single disjunctive predicate "is either a man or a tree", or as either one of two non-disjunctive predicates " is a man" and "is a tree". 
+
+The difference, again, becomes clear when we think of prāmānyam in terms of evidentiality. The issue is that the latter observation presents two separate propositions but fails to be evidential with respect to either. Such observation is "indeterminate" [saṁśita]. Note that a person who makes this observation would still assent to the belief that P; and so would have knowledge that P on its basis.
+
+We can sharpen this idea further by reflecting on the contrasting category apramā. 
+
+Apramā can be subcategorized into erroneous [viparyayaḥ], indeterminate [saṁśayaḥ], and counterfactual [tarkaḥ] observation. There is no straightforwardly contrasting category for "knowledge" that tracks with this; but there is for "evidence"—i.e. non-evidential observation. That is, each of these subcategories fail to be evidential for a different reason. The first because it is not factive. The second because it is fails to evidence either one one of a pair of propositions whose disjunction form its content. And the third because its content—while not untrue—is not, strictly, factual. Nonetheless, except for erroneous observations, the possession of the other two forms of apramā does result in knowledge.
+
 </tag>
 </note>
 
@@ -39,45 +72,73 @@ The word "but" (nanu) introduces an objection. What follows is in the voice of a
 <tag id="constitutivist or nonconstitutivist standpoint">
 This is in reference to a family of theories that are collected under the heading "evidential constitutivism" (svataḥ-pramāṇya-vādaḥ). 
 
-The constitutivists hold that the evidentiality of an observation is a function of it's content rather than external factors like its causal history. That is, that what makes an observation evidential is grounded in facts about its nature as a mental state—because of the sort of mental state that it is. A nonconstitutivist, on the other hand, argues that what makes something evidential is facts about its causes and its relationships to its environment.
+The constitutivists hold that the evidentiality of an observation is a function of it's content rather than external factors like its causal history. In other words, whatever it is that makes an observation evidential is grounded in facts about its nature as a mental state; i.e., the sort of mental state that it is. According to a nonconstitutivist, on the other hand, evidentiality also depends on facts about the process by which an observation comes about.
 
-The constitutivist-nonconstitutivist debate can be divided into three distinct subdebates: epistemic, ontic, and conceptual. The first three chapters of the TCM—titled *Detecting Evidentiality*, *Grounding Evidentiality*, and *Defining Evidentiality*—respectively, each take up one of these subdebates. Epistemic constitutivism, the topic of the first chapter, is the thesis that the evidentiality of an observation can be known by introspection alone.
+Within this debate, we can distinguish between tan epistemic and a metaphysical question. 
 
-If this sounds too vague and/or abstract, don't worry. This is *the* central topic of the first couple chapters of the Tattvacintāmani, and we will get into positively gory detail about it, very soon.
+Consider, for example: Our evidence for believing that the sky is blue is that we looked up at the sky and saw that it was blue. The epistemic question is: how do we know that seeing that the sky is blue is evidence for believing that it is blue? The metaphysical question is: what is it about our seeing the sky being blue that makes it evidence for believing it to be blue?
+
+The nonconstitutivist says, with respect to the first question: determining that seeing something is evidence for believing it depends on us knowing about how seeing works. In other words, it depends on us investigating the various physiologic and environmental factors that effect the performance of our visual faculties. The constitutivist, on the other hand, thinks that we can determine that seeing is evidence for believing just by introspecting on perceptual experience; i.e. by reflecting on what it is like to see something. 
+
+With respect to the second question, the nonconstitutivist says that the physiologic and environmental factors involved in vision are what make seeing a form of evidence. The constitutivist, on the other hand, says that the phenomenology of visual experience is what makes it evidential.
+
+The first chapter of the TCM, titled *The Epistemology of Evidentiality* [Prāmānyajñaptivādaḥ], centers on the epistemic question. The second chapter, *The Metaphysics of Evidentiality* [Prāmānyotpattivādaḥ], deals with the metaphysical question.
+
+The third chapter, *An Analysis of Evidence* [prāmālakṣaṇavādaḥ], deals with conceptual problems associated with evidence. Questions dealt with in this chapter include: 
+—Is the concept of evidence analyzable?
+—If it is analyzably, what does it mean for something to be a form of evidence?
+—If it isn't analyzable, do evidential mental states form a natural kind?
 </tag>
 </note>
 
-On the other hand—why even bother knowing about evidentiality? <tl v="pravr̥tti"><n>Rational activity</n><tl> does not, as such, depend on this. All that matters, when embarking on some potentially expensive course of action, is <tl v="niścaya"><n>knowledge</n></tl> about <tl v="artha"><n>facts</n></tl>. And, you cannot respond that when some P is such that <tl v="saṁśaya>"doubt</tl> that P or knowledge that not P is a <n>negative condition</n> on some action A, then knowledge that P is a reason for A, like knowledge of entailment is a reason for inferring. For, when there is doubt about evidentiality, it is because of the resulting doubt regarding the evidenced fact that there is no corresponding action. So, the former is not the negative condition, here.
+On the other hand—why even bother determining evidentiality? <tl v="pravr̥tti"><n>Agency</n><tl>, as such, does not depend on this. All that matters, when embarking on some potentially expensive course of action, is <tl v="niścaya"><n>belief</n></tl> regarding the necessary <tl v="artha"><n>facts</n></tl>. And, you cannot respond that when some P is such that <tl v="saṁśaya>"doubt</tl> that P or belief that not P is a <n>negative condition</n> on some action A, then belief that P is a reason for A, like entailment is for inferring. For, when there is doubt about evidentiality, it is because of the resulting doubt regarding the evidenced fact that there is no corresponding action. So, the former is not the negative condition, here.
 
 <note id="sec2">
-This is a response to the first objection. The voice is not Gaṅgēśa's "own"; nonetheless, it introduces much of the basic conceptual furniture that informs the rest of the discussion.
+This is a response to the first objection. The voice is not Gaṅgēśa's "own"; nonetheless, it introduces much of the basic conceptual furniture that informs the rest of the discussion. Click through the annotated words to piece the ideas together.
 
-The idea is this: whatever our analysis of knowledge is, the basic idea that it has to reflect is that it is the basis for our evaluating the rationality of intentional action. Acting on the basis of either doubt or error is rationally undesirable, in the sense that realizing we lacked knowledge regarding some crucial facts should make us pause. If this is the basic idea—that the concept of knowledge is supposed to capture—then, what really matters is that we have true and warranted belief regarding the relevant facts. Not knowing the basis for our knowledge would not necessarily interfere with rational action. Intuitively, we have lots of knowledge about the world that we rely on all the time without recalling precisely how we acquired this knowledge. 
+But, the outline is this:
 
-For example, you might know the pythagorean theorem without remembering the proof or recalling exactly which teacher or textbook you learned it from. You have a vague idea that you did learn it at some point, but the precise status of your evidence for believing it to be true is not strictly necessary for you to take yourself to "know" it. And, importantly—you don't need to look it up again or reprove it to yourself, every time you use it to solve a problem. 
+Rational people try to act on the basis of their beliefs regarding the facts relevant to that action. This being the case, the rationality of an action can be evaluated in terms of the rationality of the beliefs informing that action.
 
-That being the case, the objector suggests, a theory of evidentiality is not necessary either as part of a general theory of knowledge, or for practical engagement in rational action.
+In part, this means that belief should be sensitive to contrary evidence. So, finding out that we were wrong about something we believed in is a reason to stop and re-evaluate our actions. But, do we need to necessarily have positive evidence *for* our belief in order to be rational?
+
+Intuitively, we have lots of beliefs about the world that we rely on all the time without remembering exactly why we believe those things. For example, you might know the pythagorean theorem without remembering the proof or recalling exactly which teacher or textbook you learned it from. You have a vague idea that you did learn it at some point, but the precise status of your evidence for believing it to be true is not strictly necessary for you to take yourself to "know" it. And, importantly—you don't need to look it up again or reprove it to yourself, every time you use it to solve a problem. 
+
+That being the case, or so the objection goes, a theory of evidentiality is not necessary either as part of a general theory of rational belief, or for practical engagement in rational action.
 
 <tag id="negative condition">
-The *Prakāśa* specifies that by "negative condition" [pratibandhaka] on X, Gaṅgēśa means a necessary and sufficient condition [sāmānyavyāptim abhimatā] for not X. 
+The *Prakāśa* specifies that by "negative condition" [pratibandhaka] on X, Gaṅgēśa means a necessary and sufficient reason [sāmānyavyāptim abhimatā] for not X. 
 
-The idea here is that doubt about our evidence for some belief, or knowledge that our evidence is faulty, might cause us to hesitate in action; it should not be considered a negative condition on action for two reasons. First, it is only a condition in a derivative sense, via its effect on our knowledge about the fact that it evidences. So, it is not an independent condition, but already included when we list knowledge of facts as a condition on action. 
+The idea here is that while doubt about our evidence for some belief, or knowledge that our evidence is faulty, might cause us to hesitate in action; it should not be considered a negative condition, proper.
 
-The second point, which is more explicitly brought out in the commentary, is that doubt, etc., regarding evidence is neither strictly sufficient nor strictly necessary to pause rational action. It isn't necessary since other conditions cause result in action being blocked; e.g. doubt about the fact, itself. And, it isn't necessary, because (as we already pointed out in the case of the Pythagorean theorem), we can proceed in acting on the basis of our knowledge of some fact even when we are uncertain about our evidence for it.
+We are given two reasons for this:
+
+1. doubt, etc., regarding evidence is only a negative condition in a derivative sense, via its effect on our belief about the fact that it evidences. So, it is not an independent condition, but already included when we mention knowledge of facts as a condition on action. 
+
+2. (more explicitly brought out in the commentary) doubt, etc., regarding evidence is neither a strictly sufficient nor a strictly necessary reason for not acting. It isn't necessary since there can be other reasons for not acting; e.g. doubt about the fact, itself. And, it isn't necessary, because—as we already pointed out—we can proceed in acting on the basis of our knowledge of some fact even when we are uncertain about our evidence for it.
 </tag>
 
-<tag id="rational activity">
-"rational activity" translates the sanskrit "pravr̥tti"; sometimes shortned to, e.g., "action" or "activity". 
+<tag id="agency">
+"agency" translates the sanskrit "pravr̥tti"
 
-Pravr̥tti refers to purposeful action; contrasting with spontaneous actions like hand tremors or jerks. Such purposeful action can be rationaly evaluated because it is governed by our cognitive relationship to certain facts which forms the basis for our initiating that action. E.G. When we are hungry, we boil rice. Why? Because we know that boiling rice is instrumental in eliminating our hunger; i.e. in producing food which we can eat. If we did not have this knowledge, then we would not engage in that action.
+Pravr̥tti refers to engagement in purposeful action; contrasting with spontaneous movements like hand tremors or jerks. As agents, our actions are governed by our cognitive relationships to certain facts which form the basis for our initiating that action. These cognitive relations both explain an agents actions and have normative implications for them.
+
+We can categorize the relevant cognitive relations into <refn id="belief">two mutually incompatible kinds</refn>, based on how their explanatory and normative properties:
+
+1. Belief [niścayaḥ]
+2. Doubt [saṁśayaḥ]
+
+When we want food, we boil rice. Why? Because we know that boiling rice creates food. 
+
+If we did not have this belief, then we would not have engaged in that action. And if, prior to initiating some action, we find out that a relevant belief is false; then, we should pause that action and re-evaluate it before continuing. If we have contradictory evidence about the same fact, then we are in a state of doubt. It may, sometimes, be acceptible to act when in doubt. But such action should not be "unhesitating" [niṣkampā].
 </tag>
 
 <tag id="facts">
 The word "fact" translates the sanskrit "artha".
 
-This word has a few different potential meanings which have to be rendered differently when translating into another language. The most basic meaning is "object"; as in the object of an action, thought, or verbal expression. In the first of these senses, it is best rendered as "purpose". In the second, it is best rendered as "fact". In the last, as "meaning".
+This word has a few different potential meanings which have to be rendered differently when translating into another language. The fundemental meaning is "object"; as in the object of an action, thought, or verbal expression. In the first of these senses, it is best rendered as "purpose". In the second, it is best rendered as "fact". In the last, as "meaning".
 
-The choice to translate "artha" as "fact" is potentially contraversial. However, this is the best translation of this word in the specific context of the TCM, because it
+The choice to translate "artha" as "fact" is potentially contraversial; but, this is the best translation of this word in the specific context of the TCM, because it
 
 1. is something "real" and "objective"; i.e. having a mind-independent existance
 2. can be the content of a structured mental states; i.e. awareness with a subject-predicate structure.
@@ -86,64 +147,49 @@ The choice to translate "artha" as "fact" is potentially contraversial. However,
 Technically speaking, artha *can* refer to just a physical object. However, as we will see in a bit, Gaṅgēśa argues extensively for the idea that the object of thought must be a relational complex involving a property predicated of a property-possessor. This is because, otherwise, we cannot explain how it is that the content of thought can be the reason for an action.
 </tag>
 
-<tag id="knowledge">
-The word "knowledge" translates the sanskrit "niścaya".
+<tag id="belief">
+The word "belief" translates the sanskrit "niścaya".
 
-Niścaya is one of a triad of cognitive states that can govern rational action and form the basis for evaluating that action. The other two are "bhrama" or "error", and "saṁśaya" or "doubt". Each of these three relate to some proposition that a subject is aware of and has some sort of attitude towards. Unlike saṁśaya, niścaya and bhrama both involve belief. Niścaya is factive; whereas bhrama is not. In addition, niścaya is typically understood as being based on evidence. For these three reasons, i.e. that it involves (1) belief, (2) truth, and (3) evidence; I translate "niścaya" as "knowledge".
+Strictly speaking, niścaya refers to *ocurrent* belief; ie a belief that we are actively aware of having. It is one of a pair of cognitive states that can govern rational action and form the basis for evaluating that action. The other being "doubt" [saṁśayaḥ].
 
-Often, this word is translated as "certainty" instead. There are several problems with this:
+Unlike the related category of "pramā", niścaya is does not have to be true or new. So, it can include both error and recollection. It does, however, excludes indeterminate (i.e. doubtful) observations [saṁśitānubhava]. Additionally, whereas "pramā" can be nonconceptual; "niścaya" is always propositionally structured. 
 
-1. certainty can come in degrees, "niścaya" does not. 
-2. "certainty" often implies a higher standard of evidence than what niścaya implies; e.g. not just belief in P but belief that, given what one knows, P could not be false. 
-3. "niścaya" is often seen as a necessary condition on "confident" [niṣkampa], rational, and nonaccidentally succesful action. While this is contraversial, e.g. some argue that uncertainty can sometimes still lead to such action; most would agree that "certainity" is too strong of a condition for that.
-4. pravr̥tti engages in "horizontal" and "vertical" relationships with a cluster of concepts that track well with a similar network of anglophone philosophical concepts. The relationship to rational action, on the one hand, as well as its contrast with error and doubt, have already been discussed. In addition to this, niścaya depends on "pramā". As I already mentioned, I render "pramā" as "evidence". So, the relationship tracks well with the relationship between knowledge and evidence. 
+Although, strictly speaking, niścaya does not need to be true; often, it is used in a factive sense. When restricted in this way, this word is perhaps the closest to the anglophone term "knowledge". In such contexts, I will render the word "niścaya" as knowledge instead of belief. 
 
-"Pramā" is often translated as knowledge. There are several reasons why this is problematic:
-
-1. "pramā" is a species of "anubhava". Anubhava is a type of cognition that is (a) occurrent and (b) capable of delivering new information to a subject. That is, it contrasts with (a) belief, which is a disposition rather than an occurrent cognition, and (b) recollection [smr̥tiḥ] which just reproduces previously acquired information. I translate anubhava as "observation"; which is also an occurrent mental state capable of delivering new information. One caveat here, observation is not limited to just perception; but also includes "second-hand" forms of observation such as inference and testimony. Anglophone readers of Nyāya often struggle to make sense of this "novelty" condition on "pramā" when it is rendered as "knowledge"; but this condition is much more intuitive when we realize that "pramā" is a species of observation; specifically, it is "evidential" observation. 
-
-2. "pramā" is a reason for rational belief. This is true of evidential mental states; but not knowledge as such, since knowledge (under the typical analysis) requires belief; and therefore cannot be prior to it. 
-
-3. pramā is often subcategorized into, e.g., "perception" [pratyakṣajñānam], "inference" [anumitiḥ] , "testimony" [śābdajñānam]. These are species of evidence, not species of knowledge. One counter-argument to this is that since this subcategorization is based not on the "pramā" state's structure but how it was generated; knowledge could also be categorized in this way. But this is misleading. Nearly everyone agrees that it is at least *sometimes* possible to distinguish between perceptual and inferential pramā on structural grounds (e.g. in the case of preconceptual pramā, see below); and some theorists (most notably Diṅnāga and Dharmakīrti), think that pramā can be systematically sorted into either "perception" or "inferance" based soley on its structure. This does not make sense when talking about knowledge.
-
-4. pramā can be pre-conceptual; whereas knowledge, or at least knowledge "that", cannot be nonconceptual. On the other had, knowledge can include "know how". But there is nothing comparative in the case of pramā. 
-
-5. various arguments found in the TCM and other texts are most ably rendered when translating "niścaya" as "knowledge" and "pramā" as "evidence".
 </tag>
 </note>
 
-No—because when we do face doubt about our evidence; then, knowledge that such as such really is the case, which is a precondition for confident action, does depend on knowledge of evidentiality.
+No—because when we face doubt about our evidence; then, confirming that such as such really is the case, which is a precondition for unhesitating action, does depend on regaining belief in its evidentiality.
 
 <note>
 
-This is a response to the previous objection. The response is subtle but interesting. Gaṅgēśa actually agrees with the objector that knowledge of a fact conditions rational action independently of knowledge about the evidentiality of our evidence for that fact. But, he argues, it is necessary for understanding *doubt*. This is a major theme within Gaṅgēśa's theory of knowledge—namely, that *doubt* has to be analyzed seperately from knowledge, and that the theory of doubt constrains our theories about evidentiality in various ways. 
+This is a response to the previous objection. The response is subtle but telling. Gaṅgēśa actually agrees with the objector that knowledge of a fact does not depend on knowledge of our evidence for that fact. But, he argues, doubt about evidence is a reason for doubt about facts.
 
-Take the example of the pythagorean theorem <refn>again</refn>
+Take the example of the pythagorean theorem <refn id="sec2/~">again</refn>. As we mentioned earlier, you don't need to be able to present our evidence for the theorem in order to take yourself to know it. But, if someone challenges you, or if you observe something contradictory; then, you *do* lose the right to maintain your belief. In other words, doubt about evidence generates doubt about the fact it evidences. And, moreover, remedying this doubt requires presenting—and evaluating—evidence.
 
-
+This is a major theme within Gaṅgēśa's epistemology: *doubt* has to be analyzed seperately from knowledge, and our analysis of doubt constrains our theories about evidentiality.
 </note>
 
 Then—let us take establishing this to be <refn id="constitutivist or nonconstitutivist standpoint">constitutive</refn>.
 
 <note>
+This introduces the main voice of the remaining section, and the principle antagonist of the first two chapters of the TCM.
 
-That is, let us take knowledge of the evidentiality of an observation to be constitutive of knowledge of the content of the observation.
-
-This introduces the main voice of the remaining section. This is the principle antagonist of the first three chapters of the TCM.
+The word "establishing" implies that this is an epistemic thesis: the evidentiality of an observation is established on the basis of the elements that constitute that observation. In other words, things that are accessible via introspection, alone.
 
 </note>
 
 Here are our options:
 
-The evidentiality of some cognition
+The evidentiality of an observation
 
-1. is <tl id="grāhya"><n>detected</n></tl> by a truth detecting, nonevidentiality nondetecting mental state
+1. is <tl id="grāhya"><n>detected</n></tl> by a <tl id="sāmagrī"><n>cognitive process</n></tl> that detects just that mental state without detecting it as nonevidential
 — <n id="option 1">Yes or No?</n>
 
-2. is detected by a cognition uncaused by a cognition with that cognition as content
+2. is detected by a cognition that does not derive from a cognition whose content is that observation
 — <n id="option 2">Yes or No?</n>
 
-Because although, in a nonconstitutivist account, evidentiality detection requires the detecting cognition to be observed; in a constitutivist account, the cognition only needs to be evidential.
+Because whereas, in a nonconstitutivist account, a mental state must be observed prior to its evidentiality being detected; in a constitutivist account, detecting a cognition's evidentiality only requires that it be evidential.
 
 3. is detected by its own substrate's detector
 — <n id="option 3">Yes or No?</n>
@@ -157,6 +203,9 @@ Gaṅgēśa tries sussing out what exactly "evidential constitutivism" means.
 
 He starts by setting out a set of claims each of which cleave divide the space of possible theories into two based on whether the claim is affirmed or denied. Each claim is more-or-less independent of each other. So, together they give you something like coordinates to map out where different individual theories fall within this terrain—giving us a broad sense of the theoretical landscape.
 
+<tag id="cognitive process">
+"cognitive process" translates "sāmagrī". Sāmagrī literally means a collection. But, in this context, it means a causally connected sequence of mental states.
+</tag>
 
 <tag id="detected">
 "detection" and related words (e.g. detect, detecter, detected) translate the sanskrit "graha" and related words (e.g. gr̥nhāti/gr̥hyate, grāhaka, grāhya).
@@ -174,11 +223,32 @@ So, e.g. introspection is the detector of a mental state.
 <tag id="option 1">
 The first option separates constitutivism from nonconstitutivists. So, it's particular important for understanding what precisely the disagreement is.
 
-The affirmative option yields a constitutivist theory, traditionally associated with the discipline of Mīmāṁsā; the negative option yields a nonconstitutivist theory, associated with the Naiyyāyikas [vidhikōṭir mīmāṁsakānām, niṣēdhakoṭir naiyyāyikānām]. Let's break it down:
+The affirmative option yields a constitutivist theory, traditionally associated with the discipline of Mīmāṁsā; the negative option yields a nonconstitutivist theory, associated with the Naiyyāyikas [vidhikōṭir mīmāṁsakānām, niṣēdhakoṭir naiyyāyikānām]. 
 
+What does it take to  that an observation is evidential? First, you need to be aware of that observation. 
 
 </tag>
 <tag id="option 2"></tag>
+
+Again, the affirmative option is associated with Mīmāṁsā and the negative option with Nyāya.
+
+yields a constitutivist theory and the negative option yields 
+a nonconstitutivist theory. But the reason is different. 
+
+The phrase "a cognition whose content is that observation" just refers to introspection. 
+
+So, the question is whether or not the detector of an observation's evidentiality derives from a prior introspection of that same observation. 
+
+
+
+Theories of introspection can be divided into three basic camps: reflexive, perceptual, and inferential. The first is associated with a philosopher named Prabhakāra Miśra, the second with Murāri Miśra (as well as Gaṅgēśa, himself), and the last with Kumārila Bhaṭṭa. Of these, only Gaṅgēśa defends a nonconstitutivist theory.
+
+The phrase "not generated" is just a fancy way of saying non-perceptual. 
+
+So, a cognition not generated by an introspection of X is either an inference of some sort of a perception 
+
+three theories of introspection that Gaṅgēśa 
+
 <tag id="option 3"></tag>
 <tag id="option 4"></tag>
 </note>
