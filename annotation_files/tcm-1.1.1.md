@@ -77,7 +77,7 @@ Now, whether the evidentiality of a cognition is defined as the property of
 
     2\. <n>detecting an undetected fact</n>, or
 
-Assuming the <n>universal factuality</n> of observation, and given that observation is a natural kind:
+Assuming the <n>universal factuality</n> of observation, and given that observation is not a natural kind:
 
     3\. <n>being nonrecollective awareness</n>, or
 
@@ -89,21 +89,21 @@ Assuming the <n>universal factuality</n> of observation, and given that observat
 </p>
 
 <p>
-<n v="argument 2">Nor, under anti-perceptualism about introspection, can a cognition's evidentiality be detected via an inference from cognitivity; for the property 'being cognized', on its own, is uncorrelated with properties like "being evident". Nor does it work to modify the inference to 'being observed in a manner conducive to evidence'; since, such a property would not be manifest at the onset. Otherwise, even the detection of nonevidentiality would be constitutive, via an inference from 'not being observed in a manner conducive to evidence'.</n> 
+<n v="argument 2">Nor, under anti-perceptualism about introspection, can a cognition's evidentiality be detected via an inference from cognitivity; for the property 'being cognized', on its own, does not track with properties like "being evident". Nor does it work to modify the inference to 'being observed in a manner conducive to evidence'; since, such a property would not be manifest at the onset. Otherwise, even the detection of nonevidentiality would be constitutive, via an inference from 'not being observed in a manner conducive to evidence'.</n> 
 </p>
 
 <section v="sec 8" />
 
-Except—given some property P, either evidentiality is defined as
+Except—given some property P, evidentiality is defined as either
 
 1. the property of being a cognition that is P-modulated of a P-locus, or
 2. the property of being a cognition that is P-predicating of a P-locus
 
 For, only from such a belief can there be confident action. This is the economical account and anything else introduces complications. And this, moreover, can be detected by the introspecting mental state. So, whether by an inner perception, an inference, or reflexive awareness; introspection detects as the content of a mental state both that an object is the locus of some property and that this object is presented under that property.
 
-Mental states are <tl>indexed<tltxt>nirūpyam</tltxt></tl> by their content. So, the content of a first order mental state is present in the introspecting state. This being the case, when a mental state is experienced, in addition to an object T and a property P, the predication by P of T also features as its content. For, the latter is just as much a part of what defines the structure of that mental state. 
+Mental states are <tl>determined<tltxt>nirūpyam</tltxt></tl> by their content. So, the content of a first order mental state is present in the introspecting state. This being the case, when a mental state is experienced, in addition to an object T and a property P, the predication by P of T also features as its content. For, the latter is just as much a part of what defines the structure of that mental state. 
 
-Since the form of a relatum in awareness is <tl>differentiated<tltxt>avacchinna</tltxt></tl> by the relation it partakes in, the introspecting state is indexed by not just the relata, but the relation as well. In other words, the content of an awareness of, e.g., 'this object in front of me' appears in introspection as differentiated by, e.g., 'being silver'. Otherwise, introspection would take the form, 'I am aware of this object in front of me *and* silver'. Not, 'I am aware of this object in front of me *as* silver'.
+Since the form of a relatum in awareness is <tl>delimited<tltxt>avacchinna</tltxt></tl> by the relation it partakes in, the introspecting state is determined by not just the relata, but the relation as well. In other words, the content of an awareness of, e.g., 'this object in front of me' appears in introspection as delimited by, e.g., 'being silver'. Otherwise, introspection would take the form, 'I am aware of this object in front of me *and* silver'. Not, 'I am aware of this object in front of me *as* silver'.
 
 <section v="sec 9" />
 

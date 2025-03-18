@@ -77,7 +77,7 @@ Now, whether the evidentiality of a cognition is defined as the property of
 
     2\. <span class="annotation n" data-v="*">detecting an undetected fact</span>, or
 
-Assuming the <span class="annotation n" data-v="*">universal factuality</span> of observation, and given that observation is a natural kind:
+Assuming the <span class="annotation n" data-v="*">universal factuality</span> of observation, and given that observation is not a natural kind:
 
     3\. <span class="annotation n" data-v="*">being nonrecollective awareness</span>, or
 
@@ -86,20 +86,20 @@ Assuming the <span class="annotation n" data-v="*">universal factuality</span> o
 <span class="annotation n" data-v="argument 1">it is not detected either by that cognition, itself, or by a perceptual state introspecting it. For, without awareness of the property "not presenting a subject nonpredicating property", etc.; one cannot be aware of its predication of a mental state.</span>
 </p>
 <p>
-<span class="annotation n" data-v="argument 2">Nor, under anti-perceptualism about introspection, can a cognition's evidentiality be detected via an inference from cognitivity; for the property 'being cognized', on its own, is uncorrelated with properties like "being evident". Nor does it work to modify the inference to 'being observed in a manner conducive to evidence'; since, such a property would not be manifest at the onset. Otherwise, even the detection of nonevidentiality would be constitutive, via an inference from 'not being observed in a manner conducive to evidence'.</span>
+<span class="annotation n" data-v="argument 2">Nor, under anti-perceptualism about introspection, can a cognition's evidentiality be detected via an inference from cognitivity; for the property 'being cognized', on its own, does not track with properties like "being evident". Nor does it work to modify the inference to 'being observed in a manner conducive to evidence'; since, such a property would not be manifest at the onset. Otherwise, even the detection of nonevidentiality would be constitutive, via an inference from 'not being observed in a manner conducive to evidence'.</span>
 </p>
 <div class="annotation section" data-v="sec 8"></div>
 
-Except—given some property P, either evidentiality is defined as
+Except—given some property P, evidentiality is defined as either
 
 1. the property of being a cognition that is P-modulated of a P-locus, or
 2. the property of being a cognition that is P-predicating of a P-locus
 
 For, only from such a belief can there be confident action. This is the economical account and anything else introduces complications. And this, moreover, can be detected by the introspecting mental state. So, whether by an inner perception, an inference, or reflexive awareness; introspection detects as the content of a mental state both that an object is the locus of some property and that this object is presented under that property.
 
-Mental states are <span class="annotation tl" data-v="*">indexed<span class="annotation tltxt" data-v="*">nirūpyam</span></span> by their content. So, the content of a first order mental state is present in the introspecting state. This being the case, when a mental state is experienced, in addition to an object T and a property P, the predication by P of T also features as its content. For, the latter is just as much a part of what defines the structure of that mental state. 
+Mental states are <span class="annotation tl" data-v="*">determined<span class="annotation tltxt" data-v="*">nirūpyam</span></span> by their content. So, the content of a first order mental state is present in the introspecting state. This being the case, when a mental state is experienced, in addition to an object T and a property P, the predication by P of T also features as its content. For, the latter is just as much a part of what defines the structure of that mental state. 
 
-Since the form of a relatum in awareness is <span class="annotation tl" data-v="*">differentiated<span class="annotation tltxt" data-v="*">avacchinna</span></span> by the relation it partakes in, the introspecting state is indexed by not just the relata, but the relation as well. In other words, the content of an awareness of, e.g., 'this object in front of me' appears in introspection as differentiated by, e.g., 'being silver'. Otherwise, introspection would take the form, 'I am aware of this object in front of me *and* silver'. Not, 'I am aware of this object in front of me *as* silver'.
+Since the form of a relatum in awareness is <span class="annotation tl" data-v="*">delimited<span class="annotation tltxt" data-v="*">avacchinna</span></span> by the relation it partakes in, the introspecting state is determined by not just the relata, but the relation as well. In other words, the content of an awareness of, e.g., 'this object in front of me' appears in introspection as delimited by, e.g., 'being silver'. Otherwise, introspection would take the form, 'I am aware of this object in front of me *and* silver'. Not, 'I am aware of this object in front of me *as* silver'.
 
 <div class="annotation section" data-v="sec 9"></div>
 

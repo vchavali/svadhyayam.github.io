@@ -346,14 +346,14 @@ A fact has two parts: a property and a <span class="annotation refn" data-v="sec
 
 A structured mental state also has two parts: a <span class="annotation tl" data-v="*">subject<span class="annotation tltxt" data-v="*">viśēṣyam</span></span> and a <span class="annotation tl" data-v="*">predicate<span class="annotation tltxt" data-v="*">viśēṣaṇam</span></span>. The predicate is also called a <span class="annotation tl" data-v="*">mode<span class="annotation tltxt" data-v="*">prakāraḥ</span></span>. When a property Q appears as the mode of a mental state M, we say that M is <span class="annotation tl" data-v="*">Q-modulated<span class="annotation tltxt" data-v="*">tatprakārakam</span></span>.
 
-A mental state is factive if its structure matches up with the structure of a fact. In other words, if its subject is a locus of its mode. Because observations typically present multiple properties of their subjects, we could define factuality as: all modes are subject located.
+A mental state is factual if its structure matches up with the structure of a fact. In other words, if its subject is a locus of its mode. Because observations typically present multiple properties of their subjects, we could define factuality as: all modes are subject located.
 
 The double negation "not being modulated by a subject unlocated property" is just a Nyāya way of saying "all modes are subject located properties". Naiyyāyikas don't like saying "all X are Y", but prefer to express this as "there is no X that is not Y". It's a stylistic thing. Mainly, it cuts the number of quantifiers in your logic from one to two. 
 
 ## Argument 1
 This is a subtle but important idea; and reveals something deep about the structure of observation.
 
-The idea is this. Accepting some combination of (1)-(4) as the definition of evidentiality means that an evidential mental state is (1) factive, (2) nonrecollective.
+The idea is this. Accepting some combination of (1)-(4) as the definition of evidentiality means that an evidential mental state is (1) factual, (2) nonrecollective.
 
 And, moreover, evidential constitutivism claims that 
 
@@ -366,17 +366,17 @@ Under <span class="annotation refn" data-v="not being modulated by a subject unl
 
 Now, recall that introspection can be either <span class="annotation refn" data-v="sec 5/option 3">inferential or noninferential</span>. Here, we're only considering noninferential accounts of introspection. The second paragraph in the above passage deals with inferential accounts.
 
-Say someone observes a red apple. Let's call the mental state of that observer M1. What does introspection tell us about M1?
+Say someone observes a red apple. Let's call the mental state of that observer *M*. What does introspection tell us about *M*?
 
 It tells us that:
 
-1. referant(M1) = apple
-2. mode(M1) = red
-2. is-recollection(M1) = false
+1. referant(*M*) = apple
+2. mode(*M*) = red
+2. is-recollection(*M*) = false
 
-In other words, we learn about the properties of M1.
+In other words, we learn about the properties of *M*.
 
-But factuality isn't just about the relationships between M1 and one object or another. It's about those objects being in a certain relationship with *each other*. But, if the relation between referant and mode is not already present as a part of the observation, it can't be reflected in introspection. Since all that introspection—or, at least <span class="annotation refn" data-v="sec 5/option 2">simple introspection</span>—tells us about the contents of an observation is what that observation presents to us in the first place.
+But factuality isn't just about the relationships between *M* and one object or another. It's about those objects being in a certain relationship with *each other*. But, if the relation between referant and mode is not already present as a part of the observation, it can't be reflected in introspection. Since all that introspection—or, at least <span class="annotation refn" data-v="sec 5/option 2">simple introspection</span>—tells us about the contents of an observation is what that observation presents to us in the first place.
 
 What this means is that the original observation must have, *as part of its content*, not just a referant and a mode, but their relationship as well. In other words, for an observation to be detected as factual, in introspection; it must *present* a fact. It isn't sufficient for its structure to merely correspond to a fact. In the next passage, Gaṅgēśa provides an account of what it means for an observation to "present a fact".
 
@@ -387,19 +387,19 @@ Say someone observes a red apple. Let's call the mental state of that observer M
 
 Under an inferential account, we infer that M1 has some property P based on what M1 tells us about its contents. 
 
-What does M1 tell us? It tells us things like:
+What does *M* tell us? It tells us things like:
 
 1. the referant 'apple' is being observed
 2. the mode 'red' is being observed
 
-But, we can't infer that M1 is factual based just on (1) and (2); since this could be true even of nonfactual mental states.
+But, we can't infer that *M* is factual based just on (1) and (2); since this could be true even of nonfactual mental states.
 
 We'd need to have facts like:
 
 1. the referant 'apple' is being observed in an X way
 2. the mode 'red' is being observed in an X way
 
-where X stands for some bundle of properties that are observable about the contents of M1 and which are necessary and sufficient for determing the evidentiality of M1. 
+where X stands for some bundle of properties that are observable about the contents of M1 and which are necessary and sufficient for determing the evidentiality of *M*. 
 
 The problem with this is that if there were such a bundle of properties, possessed by objects, which could be observed directly; then, failing to observe such a bundle of properties when introspecting some observation would mean that that observation was not evidential. But, this would entail constitutivism about nonevidentiality, as well. And, as we'll see a bit later in this section, constitutivism about evidentiality necessitates nonconstitutivism about nonevidentiality.
 
@@ -409,9 +409,9 @@ See <span class="annotation refn" data-v="sec 8/being a structured mental state"
 
 This is mainly an answer to the first objection from the previous passage. The answer to the second objection is clubbed together with the responses to the objections in the next two passages.
 
-Here, Gaṅgēśa tries to give an account of what exactly it means for an observation to present a fact, rather than just objects. The explanation is fairly technical, and involves things like "indexing" and "differentiation"—theoretical concepts within Navyanyāya logic. 
+Here, Gaṅgēśa tries to give an account of what exactly it means for an observation to present a fact, rather than just objects. The explanation is fairly technical, and involves references to "determination" [nirūpaṇam] and "delimitation" [avacchedanam]—theoretical concepts within Navyanyāya logic. 
 
-A detailed description of these ideas is beyond the scope of these notes. But the idea is that properties like "having mode P" and "having referant T" are not just binary relations between a mental state and an object. Instead, their form is more like "having mode P of T" or "having referant T as P"—explicitly linking P and T together.
+A detailed description of these concepts is beyond the scope of these notes. But the basic idea is that properties like "having mode P" and "having referant T" are not just binary relations between a mental state and an object. Instead, their form is more like "having mode P of T" or "having referant T as P"—explicitly linking P and T together.
 
 Gaṅgēśa gives a concrete example at the end, to tie things together and make the technical jargon more intuitive.
 
