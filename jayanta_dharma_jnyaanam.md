@@ -3,7 +3,7 @@ author: Pramod Chavali
 title: I See What I Should Do
 layout: default
 ---
-# I See What I Should Do: Jayanta against Kumārila on the Possibility of Moral Knowledge
+# I See What I Should Do: Jayanta Bhaṭṭa on Mysticism and Moral Knowledge
 
 ## Introduction
 
@@ -466,12 +466,7 @@ the modes of presentation by which it was disclosed in previous sensory
 encounters. Otherwise, we would not have such things as blindness, etc.
 
 **(Jayanta)** We answer: when we form a truthful judgment about some
-object in the wake of some additional supporting process such as
-language comprehension, this is called mental perception. Examples
-include judgments like, "ketakī flowers are fragrant," and, "sugar is
-sweet." Such judgments, which emerge out of cognitive processes obeying
-observable regularities—analogously to sense perception—are what we
-call "intuitions".
+object in the absence of additional supporting factors such as language, this is called mental perception. Examples include judgments of the form "ketakī flowers are fragrant," and, "sugar is sweet." Insofar as such judgements obey the same conditions as perception, there is no basis for complaining that intuition is a form of cognition without determinate conditions.
 
 ### Intuition is not the same as "sage knowing"
 

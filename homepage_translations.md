@@ -42,11 +42,11 @@ tejasvinām adhītam astu mā vidviṣāvahai ॥ ōṁ śāntiḥ śāntiḥ ś
 
 In the style typical of upaniṣads, each book of the Taittirīya begins with a peace invokation [शान्तिमन्त्रम्; śāntimantram]. The invokation, above, is from the Bhr̥guvallī and it's traditional to start one's study by reciting this verse. This website is about self-study; but, the verse makes reference to a classroom setting. The expression "us" refers to the teacher and student. 
 
-The translation is as follows:
+My translation runs as follows:
 
 <div>
-Ōṁ, may it protect us both. Let us be joyful. Let us be bold. <br>
-Let us do glorious things together. May there be no hate between us. <br>
+Ōṁ, may it protect us both. Let us be joyful. Let us be bold together. <br>
+May our studies be brilliant. May there be no hate between us. <br>
 Ōm, peace, peace, peace.
 </div>
 {: .quote}

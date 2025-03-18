@@ -1,0 +1,172 @@
+---
+---
+@import "main";
+
+.annotation.annotationfile  {
+    display: none;
+}
+.annotation.marginNoteParentContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.annotation.topLevelDrawerItemHandle {
+    vertical-align: super;
+    font-size: 12px;
+    color: red;
+    font-weight: bold;
+    margin-left: -30px;
+}
+.annotation.topLevelDrawerItemHandle:hover {
+    cursor: pointer;
+    color: blue;
+    font-weight: bold;
+}
+.annotation.drawerItemHeaderClose {
+    vertical-align: super;
+    font-size: 14px;
+    color: gray;
+    text-align: right;
+    font-weight: bold;
+}
+.annotation.drawerItemHeaderClose:hover {
+    cursor: pointer;
+    color: blue;
+    font-weight: bold;
+}
+.annotation.drawerItemHeader {
+    //table-layout: fixed;
+    width: 100%;
+    border-bottom: solid;
+    border-width: 2px;
+    border-color: gray;
+}
+.annotation.drawerItemHeaderTitle {
+    text-align: left;
+    text-transform: capitalize;
+    color: black;
+}
+.annotation.drawerItem {
+    border: solid;
+    border-width: 3px;
+    padding: 10px 20px 10px 20px;
+    box-sizing: border-box;
+    background-color: #f6f0d5;
+    border-color: #f0e5bc;
+}
+.annotation.drawerHeader {
+    // z-index: 1;
+    //top: 100%;
+    // margin-top: 5px;
+    font-size: 28px;
+    color: #ff0000;
+    font-weight: regular;
+    display: none;
+}
+
+.annotation.drawerHeader:hover {
+    cursor: pointer;
+}
+.annotation.drawerHeader:hover {
+    cursor: pointer;
+    color: blue;
+    font-weight: bold;
+}
+
+.annotation.section:before {
+    // z-index: 1;
+    //top: 100%;
+    // margin-top: 5px;
+}
+
+.annotation.sectionDivider {
+    text-align: center;
+    color: gray;
+     // z-index: 1;
+     //top: 100%;
+     // margin-top: 5px;
+}
+.annotation.n {
+    // border-bottom: 3px dotted #0066CC;
+}
+
+.annotation.noteIsOpened {
+    background-color: #c7dbf0;
+    padding: 1px;
+    cursor: pointer; 
+}
+.annotation.n:hover {
+    background-color: #c7dbf0;
+    padding: 1px;
+    cursor: pointer; 
+}
+
+
+.annotation.refn:hover{
+    background-color: #c7dbf0;
+    padding: 1px;
+    cursor: pointer;   
+}
+
+.annotation.refn:after {
+    content: "?";
+    vertical-align: super;
+    font-size: 12px;
+    position: relative;
+    display: inline-block;
+    color: #ff0000;
+    padding-left: 3px;
+    font-weight: bold;
+    //border-bottom: 3px dotted #0066CC;
+    //font-style: italic;
+    //color: #555555;
+}
+
+.annotation.tl {
+    position: relative;
+    display: inline-block;
+    border-bottom: 2px dotted #aaaaaa;
+    //font-style: italic;
+}
+
+.annotation.n:after {
+    content: "?";
+    vertical-align: super;
+    font-size: 12px;
+    position: relative;
+    display: inline-block;
+    color: red;
+    padding-left: 3px;
+    font-weight: bold;
+    //border-bottom: 3px dotted #0066CC;
+    //font-style: italic;
+    //color: #555555;
+}
+/* Tooltip text */
+.annotation.tl  .tltxt {
+  visibility: hidden;
+  // width: 120px;
+  background-color: lightgray;
+  color: #000;
+  text-align: center;
+  padding: 5px;
+  border-radius: 6px;
+  border-style: none;
+  border-width: 2px;
+  
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+  top: 110%;
+  left: 0%;
+  margin-top: 5px;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.annotation.tl:hover {
+    .tltxt {
+	visibility: visible;
+    }
+}

@@ -32,12 +32,15 @@ But if someone happens to stumbles across this somehow: Welcome! I hope you find
 
 <table>
 	<tr>
+		<td><b>12/12/24&nbsp;</b></td>
+		<td><a href="tcm-1.1.1.html">Tattvacintāmaṇi । Prāmāṇyajñaptivādaḥ । Knowing our Evidence</a></td>
+	</tr>	<tr>
 		<td><b>05/2/24&nbsp;</b></td>
 		<td><a href="homepage_translations.html">Homepage Translations</a></td>
 	</tr>
 	<tr>
 		<td><b>04/27/24&nbsp;</b></td>
-		<td><a href="jayanta_dharma_jnyaanam.html">I See What I Should Do: Jayanta against Kumārila on the Possibility of Moral Knowledge</a></td>
+		<td><a href="jayanta_dharma_jnyaanam.html">I See What I Should Do: Jayanta Bhaṭṭa on Mysticism and Moral Knowledge</a></td>
 	</tr>
 	<tr>
 		<td><b>04/26/24&nbsp;</b></td>
