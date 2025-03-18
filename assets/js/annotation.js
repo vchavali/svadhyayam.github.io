@@ -196,7 +196,7 @@ class DrawerItemReference {
 class Scheduler {
     constructor() {
 	this.queue = [];
-	this.delay = 100;
+	this.delay = 300;
 	this.environment = {};
     }
     add(envTag, item) {
