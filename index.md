@@ -5,34 +5,34 @@ layout: default
 
 # Svādhyāyaḥ
 
-svādhyāyān mā pramadaḥ ॥ tai।śī।11।3 
+svādhyāyān mā pramadaḥ ॥ Taittirīya।Śīkṣā।11।3 
 {: .titlecaption}
 
 ### About
 
 <div>
-ॐ सह नाववतु । सह नौ भुनक्तु । सह वीर्यं करवावहै । <br>
-तेजस्विनावधीतमस्तु मा विद्विषावहै । ॐ शान्तिः शान्तिः शान्तिः ॥
+ōṁ saha nāv avatu । saha nau bunaktu । saha vīryaṁ karavāvahai । <br>
+tejasvinām adhītam astu । mā vidviṣāvahai । ōṁ śāntiḥ śāntiḥ śāntiḥ ॥
 </div>
 {: .quote}
 
 This is the online notebook of Pramod Chavali: a place to record my notes on whatever I've been studying or thinking about. I'm putting this here mostly as a personal journaling exercise and to inject some discipline into my own *svādhyāyamu* [self-study]. 
 
 <div>
-न हि किञ्चिदपूर्वमत्र वाच्यं <br>
-&emsp; न च संग्रन्थनकौशलं ममास्ति । <br>
-अत एव न मे परार्थचिन्ता <br>
-&emsp; स्वमनो वासयितुं कृतं मयेदम् ॥ बोधिचर्यावतारः।१।२
+na hi kiñcid apūrvam atra vācyam <br>
+&emsp; na ca saṁgranthanakauśalaṁ mam' āsti । <br>
+ata ēva na mē parārthacintā <br>
+&emsp; svamanō vāsayituṁ kr̥taṁ may' ēdam ॥ Bōdhicaryāvatāraḥ।1।2
 </div>
 {: .quote}
 
 But if someone happens to stumbles across this somehow: Welcome! I hope you find something here that's interesting/useful/amusing/etc!
 
-### Recent Posts
+### Index
 
 <table>
 	<tr>
-		<td><b>12/12/24&nbsp;</b></td>
+		<td><b>03/17/25&nbsp;</b></td>
 		<td><a href="tcm-1.1.1.html">Tattvacintāmaṇi । Prāmāṇyajñaptivādaḥ । Knowing our Evidence</a></td>
 	</tr>	<tr>
 		<td><b>05/2/24&nbsp;</b></td>

@@ -27,7 +27,7 @@ On the other hand—why even bother determining evidentiality? <span class="anno
 
 <div class="annotation section" data-v="sec 2"></div>
 
-No—because when we face doubt about our evidence; then, confirming that such as such really is the case, which is a precondition for unhesitating action, does depend on <span class="annotation refn" data-v="sec 2/belief">knowledge</span> of evidentiality.
+No—because when we face doubt about our evidence; then, confirming that such and such really is the case, which is a precondition for unhesitating action, does depend on belief in evidentiality.
 
 <div class="annotation section" data-v="sec 3"></div>
 
@@ -39,7 +39,7 @@ Here are our options:
 
 The evidentiality of an observation
 
-1\. is <span class="annotation tl" data-v="*"><span class="annotation n" data-v="*">detected</span><span class="annotation tltxt" data-v="*">grāhya</span></span> by precisely that <span class="annotation tl" data-v="*"><span class="annotation n" data-v="*">cognitive process</span><span class="annotation tltxt" data-v="*">sāmagrī</span></span>  which detects the observation and does not detect it as nonevidential
+1\. is <span class="annotation tl" data-v="*"><span class="annotation n" data-v="*">detected</span><span class="annotation tltxt" data-v="*">grāhya</span></span> by just that <span class="annotation tl" data-v="*"><span class="annotation n" data-v="*">cognitive process</span><span class="annotation tltxt" data-v="*">sāmagrī</span></span>  which detects the observation and does not detect it as nonevidential
 
 — <span class="annotation n" data-v="option 1">Yes or No?</span>
 
@@ -61,7 +61,7 @@ Because whereas, in a nonconstitutivist account, a mental state must be observed
 
 <div class="annotation section" data-v="sec 5"></div>
 
-However, because in cases such as observations stemming from yogic intuition or our mental connection to universals, we find instances of mental states detecting their own evidentiality; the theses fail to fully differentiate themselves. Or else, you must qualify your assertion with the phrase "not caused by yogic intuition, etc."
+However, because in cases such as observations stemming from mystical insight or our mental connection to universals, we find instances of mental states detecting their own evidentiality; the theses fail to fully differentiate themselves. Or else, you must qualify your assertion with the phrase "not caused by mystical insight, etc."
 
 No—because not everyone accepts that these things exist. And even if such things were accepted, since the claim is about detecting evidentiality, in general, and about whether evidentiality is detected by that which is just its own locus; it is not the case that theses fail to fully differentiate themselves.
 
@@ -77,16 +77,16 @@ Now, whether the evidentiality of a cognition is defined as the property of
 
     2\. <span class="annotation n" data-v="*">detecting an undetected fact</span>, or
 
-Assuming <span class="annotation n" data-v="*">universal factivity</span>, and given that observation is a natural kind:
+Assuming the <span class="annotation n" data-v="*">universal factuality</span> of observation, and given that observation is a natural kind:
 
     3\. <span class="annotation n" data-v="*">being nonrecollective awareness</span>, or
 
     4\. <span class="annotation n" data-v="*">being a structured mental state</span>
 <p>
-<span class="annotation n" data-v="arg1">it is not detected either by that cognition, itself, or by a perceptual state introspecting it. For, without awareness of the property "not presenting a subject nonpredicating property", etc.; one cannot be aware of its predication of a mental state.</span>
+<span class="annotation n" data-v="argument 1">it is not detected either by that cognition, itself, or by a perceptual state introspecting it. For, without awareness of the property "not presenting a subject nonpredicating property", etc.; one cannot be aware of its predication of a mental state.</span>
 </p>
 <p>
-<span class="annotation n" data-v="arg2">Nor, under anti-perceptualism about introspection, can a cognition's evidentiality be detected via an inference from cognitivity; for the property 'being cognized', on its own, is uncorrelated with properties like "being evident". Nor does it work to modify the inference to 'being observed in a manner conducive to evidence'; since, such a property would not be manifest at the onset. Otherwise, even the detection of nonevidentiality would be constitutive, via an inference from 'not being observed in a manner conducive to evidence'.</span>
+<span class="annotation n" data-v="argument 2">Nor, under anti-perceptualism about introspection, can a cognition's evidentiality be detected via an inference from cognitivity; for the property 'being cognized', on its own, is uncorrelated with properties like "being evident". Nor does it work to modify the inference to 'being observed in a manner conducive to evidence'; since, such a property would not be manifest at the onset. Otherwise, even the detection of nonevidentiality would be constitutive, via an inference from 'not being observed in a manner conducive to evidence'.</span>
 </p>
 <div class="annotation section" data-v="sec 8"></div>
 
@@ -121,7 +121,7 @@ From this, our responses to the following objections are also clear:
 
 2. Assuming introspection is reflexive: insofar as a cognition only observes itself, it lacks the capacity to detect its properties. Or, if it does have this capacity; nonevidentiality would also be detected constitutively.
 
-3. Assuming introspection is not reflexive: the introspecting cognition, whether inferential or perceptual, cannot detect evidentiality as exclusive of error, because of a lack of correlation. That is—if it was detected only where it was present, then the detection of nonevidentiality would also be constitutive. Moreover, neither inference nor inner perception are causaly connected to such content.
+3. Assuming introspection is not reflexive: the introspecting cognition, whether inferential or perceptual, cannot detect evidentiality as exclusive of error, because of a lack of correlation. That is—if it was detected only where it was present, then the detection of nonevidentiality would also be constitutive. Moreover, neither inference nor inner perception are causally connected to such content.
 
 So, evidentiality is defined either as
 
@@ -132,6 +132,6 @@ because this is what is detected by introspection, whether understood as reflexi
 
 <div class="annotation section" data-v="sec 12"></div>
 
-Moreover, if detection of evidentiality was nonconstitutive; then, with respect to the evidentiality detector; knowledge of its content—including awareness of the relevent inferential sign, target, and entailment relation—would, in turn, depend on detecting *it's* evidentiality. And, insofar as this too would proceed nonconstitutively, it would trigger a regress in the direction of both process and result. If this were so, we could not detect evidentiality at all. As such, we can also prove by reductio that detection of evidentiality is constitutive.
+Moreover, if detection of evidentiality was nonconstitutive; then, with respect to the evidentiality detector; believing its content—including the relevent inferential sign, target, and entailment relation—would, in turn, depend on detecting *it's* evidentiality. And, insofar as this too would proceed nonconstitutively, it would trigger a regress in the direction of both process and result. If this were so, we could not detect evidentiality at all. As such, we can also prove by reductio that detection of evidentiality is constitutive.
 
 <div class="annotation section" data-v="sec 13"></div>

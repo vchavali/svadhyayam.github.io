@@ -104,17 +104,21 @@ class Drawer {
     onClickNote(event) {
 	const drawerItemReference = event.currentTarget.drawerItemReference;
 	const drawer = drawerItemReference.parentDrawer;
+	console.log(drawerItemReference);
 	drawer.openItem(drawer, drawerItemReference.drawerItem);
+
 	//if (drawer.isItemOpen(drawer, drawerItemReference.drawerItem)) {
 	    //drawer.closeItem(drawer, drawerItemReference.drawerItem);
 	    //drawerItemReference.noteElement.classList.remove("noteIsOpened");
 	//} else {
 	    //drawerItemReference.noteElement.classList.add("noteIsOpened");
 	//}
+
 	if (drawerItemReference.noteIDRaw === '~') {
 	    drawer.topLevelHandlerElem.style.visibility = "hidden";
 	}
 	drawer.renderHTML(drawer);
+
 	//console.log(drawerItemReference.noteElement);
     }
     registerNoteReference(note) {
@@ -240,7 +244,7 @@ function loadAnnotationData() {
 	}
 	console.error(`Failed to load annotation file {annotation_url}`);
     }).then((text) => annotation_div.innerHTML = text);
-    // console.log("Loaded Annotation Data");
+    console.log("Loaded Annotation Data");
 }
 
 function linkElementtoDrawer(drawers, elements, registerElement){
@@ -333,3 +337,5 @@ function setupAnnotationDrawers() {
     return drawerManager;
 }
 document.addEventListener("DOMContentLoaded", onPageLoad);
+
+

@@ -58,6 +58,11 @@ May our studies be brilliant. May there be no hate between us. <br>
 &emsp; न च संग्रन्थनकौशलं ममास्ति । <br>
 अत एव न मे परार्थचिन्ता <br>
 &emsp; स्वमनो वासयितुं कृतं मयेदम् ॥ बोधिचर्यावतारः।१।२
+<br><br>
+na hi kiñcid apūrvam atra vācyam <br>
+&emsp; na ca saṁgranthanakauśalaṁ mam' āsti । <br>
+ata ēva na mē parārthacintā <br>
+&emsp; svamanō vāsayituṁ kr̥taṁ may' ēdam ॥ bōdhicaryāvatāraḥ।1।2
 </div>
 {: .quote}
 
