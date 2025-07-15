@@ -29,12 +29,15 @@ ata ēva na mē parārthacintā <br>
 But if someone happens to stumbles across this somehow: Welcome! I hope you find something here that's interesting/useful/amusing/etc!
 
 ### Index
-
 <table>
 	<tr>
+		<td><b>07/14/25&nbsp;</b></td>
+		<td><a href="jayanta-against-kumarila-term-paper.html">Jayanta against Kumarila on Moral Knowledge</a></td>
+	</tr>	<tr>
 		<td><b>03/17/25&nbsp;</b></td>
 		<td><a href="tcm-1.1.1.html">Tattvacintāmaṇi । Prāmāṇyajñaptivādaḥ । Knowing our Evidence</a></td>
-	</tr>	<tr>
+	</tr>	
+	<tr>
 		<td><b>05/2/24&nbsp;</b></td>
 		<td><a href="homepage_translations.html">Homepage Translations</a></td>
 	</tr>
