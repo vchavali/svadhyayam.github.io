@@ -6,7 +6,7 @@ layout: default
 
 # Preface
 
-I’m posting a term paper that I wrote for a graduate philosophy seminar. The topic is the debate between Jayanta and Kumārila on the theory of moral knowledge. It draws heavily from the section of Jayanta’s Nyāyamañjarī I translated here: <a href="jayanta_dharma_jnyaanam.html">I See What I Should Do: Jayanta Bhaṭṭa on Mysticism and Moral Knowledge</a>. There are a few differences in translation choices between this paper and the earler post. I also draw extensively from the Ślōkavārttikam (mainly chapter 4) and more broadly from the Nyāyamañjarī as well.
+I’m posting a term paper that I wrote for a graduate philosophy seminar. The topic is the debate between Jayanta and Kumārila on the theory of moral knowledge. It draws heavily from the section of Jayanta’s Nyāyamañjarī I translated here: <a href="jayanta_dharma_jnyaanam.html">I See What I Should Do: Jayanta Bhaṭṭa on Mysticism and Moral Knowledge</a>. There are a few differences in translation choices between this paper and the earler post. I also draw extensively from the Ślōkavārttikam (mainly chapter 4) and more broadly from the Nyāyamañjarī as well. All translations from sanskrit are my own unless, otherwise noted.
 
 # Introduction
 
