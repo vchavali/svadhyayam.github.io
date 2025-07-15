@@ -71,7 +71,7 @@ The word 'but' (nanu) introduces an objection. What follows is in the voice of a
 
 This is in reference to a family of theories that are collected under the heading 'evidential internalism' (svataḥ-pramāṇya-vādaḥ). 
 
-The internalists hold that the evidentiality of an observation is a function of its content rather than external factors like its causal history and is knowable via introspection alone. In other words, whatever it is that makes an observation evidential is grounded in facts about its nature as a mental state—the sort of mental state that it is. According to a externalist, on the other hand, evidentiality also depends on facts about the process by which an observation comes about.
+The internalists hold that the evidentiality of an observation is a function of its content rather than external factors like its causal history and is knowable via introspection alone. In other words, whatever it is that makes an observation evidential is grounded in facts about its nature as a mental state—the sort of mental state that it is. According to an externalist, on the other hand, evidentiality also depends on facts about the process by which an observation comes about.
 
 Within this debate, we can distinguish between an epistemic and a metaphysical question. 
 
@@ -194,7 +194,7 @@ Note: mental states are, themselves, considered properties.
 So, e.g. introspection is the detector of a mental state.
 
 ## option 1
-The first option separates epistemic internalism from externalism. So, it's particularly important for understanding what exactly the disagreement is. The affirmative option yields an internalist theory, traditionally associated with the discipline of Mīmāṁsā (Vedic Ritual Theory); the negative option yields a externalist theory, associated with Gautamīya Nyāya [vidhikōṭir mīmāṁsakānām, niṣēdhakoṭir naiyyāyikānām]. 
+The first option separates epistemic internalism from externalism. So, it's particularly important for understanding what exactly the disagreement is. The affirmative option yields an internalist theory, traditionally associated with the discipline of Mīmāṁsā (Vedic Ritual Theory); the negative option yields an externalist theory, associated with Gautamīya Nyāya [vidhikōṭir mīmāṁsakānām, niṣēdhakoṭir naiyyāyikānām]. 
 
 According to the internalists, for <refn v="sec 5/detected">detecting</refn> that an observation is evidential, it is necessary and sufficient that
 
@@ -271,7 +271,7 @@ The word 'however' introduces an objection. The word 'no' indicates the response
 
 The issue revolves around a meta-theoretical problem called "siddhasādhanam", which I translated using the somewhat clunky phrase 'failure to differentiate'. Siddhasādhanam occurs when a set of theoretical possibilities presented as competing answers to some question or problem fail to differentiate themselves from each other. For example, this can happen if one of the competing theories entails the other. The concern is that such failure of differentiation leads to uninformative analysis and suggests a problem with the way the project has been framed.
 
-Here, the supposed failure to differentiate between internalist and externalist accounts is with respect to certain theoretical forms of observation whose evidentiality is supposed to be necessarily internal. So—the objection goes—in the context of these edge cases, the constituvist-externalist distinction fails and the whole debate becomes unintelligible. 
+Here, the supposed failure to differentiate between internalist and externalist accounts is with respect to certain theoretical forms of observation whose evidentiality is supposed to be necessarily internal. So—the objection goes—in the context of these edge cases, the internalist-externalist distinction fails and the whole debate becomes unintelligible. 
 
 The reference to "mystical insight" [yogipratyakṣam], for example, has to do with the concept of "omniscience"—such as with God [īśvarajñānam] and sages [yogijñānam]. According to certain theistic philosophers [e.g. Naiyyāyikas], God's experience of the world involves grasping all facts simultaneously in a single observation. A consequence of this is that God's experience would detect it's own evidentiality—regardless of the general structure of the problem—since this falls under the scope of "all facts". 
 
@@ -290,7 +290,7 @@ This is the first substantive critique of the internalist thesis. The voice is s
 
 With that preamble out of the way, let's start reading this passage.
 
-The four "definitions" of evidentiality listed in the above passage represent different aspects of the structure of observation that are suggested as being what it is, under a internalist thesis, that makes that observation evidential.  It's best to start at the bottom and work our way up.
+The four "definitions" of evidentiality listed in the above passage represent different aspects of the structure of observation that are suggested as being what it is, under an internalist thesis, that makes that observation evidential.  It's best to start at the bottom and work our way up.
 
 A two part objection is then presented, based on these definitions.
 
@@ -360,7 +360,7 @@ And, moreover, evidential internalism claims that
 A. properties (1) and (2) are what make a mental state evidential  
 B. detecting via introspection that a mental state has (1) and (2) is how we know that it is evidential  
 
-Claim A represents metaphysical constituvism and Claim B represents epistemic internalism. The objection above pertains just to Claim B (metaphysical internalism is the topic of chapter 2). 
+Claim A represents metaphysical internalism and Claim B represents epistemic internalism. The objection above pertains just to Claim B (metaphysical internalism is the topic of chapter 2). 
 
 Under <refn v="not being modulated by a subject unlocated property">Def (1)</refn>, above, factuality is understood in the following way: A mental state is factual iff its content consists of two parts—a subject and a predicate—and the subject is the locus of the predicate.
 
@@ -462,7 +462,7 @@ The last bit provides a summary restatement of the internalist thesis.
 
 # sec 13
 
-Up until this point, the internalist has just been responding to critiques of their position from the nonconstituvist. But, they haven't given any positive reason to think that internalism is correct. This last passage gives something like a master argument for epistemic internalism. 
+Up until this point, the internalist has just been responding to critiques of their position from the externalist. But, they haven't given any positive reason to think that internalism is correct. This last passage gives something like a master argument for epistemic internalism. 
 
 Here's the idea:
 
@@ -476,7 +476,7 @@ You respond by citing some observation—either first-hand or via some indirect 
 
 "I read this in my geography textbook."
 
-Under a externalist theory of evidence, there is some additional fact G that makes this observation evidential. What this means is that our challenger can turn right around and ask:
+Under an externalist theory of evidence, there is some additional fact G that makes this observation evidential. What this means is that our challenger can turn right around and ask:
 
 "Ok, but how do you know that that textbook is a source of evidence?"
 
