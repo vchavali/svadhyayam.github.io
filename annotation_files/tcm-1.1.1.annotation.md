@@ -67,11 +67,11 @@ The difference, again, becomes clear when we think of prāmānyam in terms of ev
 
 The word 'but' (nanu) introduces an objection. What follows is in the voice of an imagined opponent (pūrvapakṣin), whom commentators identify as a Mādhyamaka Buddhist. The response, which will come next, is not precisely in Gaṅgēśa's "own perspective" (svapakṣa) either; but, initiates an elaborate multi-polar debate featuring a variety of different voices—each taking a distinct stance within the available argumentative terrain.
 
-## constitutivist or nonconstitutivist standpoint
+## internalist or externalist standpoint
 
-This is in reference to a family of theories that are collected under the heading 'evidential constitutivism' (svataḥ-pramāṇya-vādaḥ). 
+This is in reference to a family of theories that are collected under the heading 'evidential internalism' (svataḥ-pramāṇya-vādaḥ). 
 
-The constitutivists hold that the evidentiality of an observation is a function of its content rather than external factors like its causal history. In other words, whatever it is that makes an observation evidential is grounded in facts about its nature as a mental state—the sort of mental state that it is. According to a nonconstitutivist, on the other hand, evidentiality also depends on facts about the process by which an observation comes about.
+The internalists hold that the evidentiality of an observation is a function of its content rather than external factors like its causal history and is knowable via introspection alone. In other words, whatever it is that makes an observation evidential is grounded in facts about its nature as a mental state—the sort of mental state that it is. According to a externalist, on the other hand, evidentiality also depends on facts about the process by which an observation comes about.
 
 Within this debate, we can distinguish between an epistemic and a metaphysical question. 
 
@@ -79,9 +79,9 @@ Consider this example: Our evidence for believing that the sky is blue is that w
 
 Here, the epistemic question is: "How do we know that seeing that the sky is blue is evidence for believing that it's blue?" The metaphysical question is: "What is it about our seeing the blue sky that makes it evidence for believing that the sky is blue?"
 
-The nonconstitutivist says, with respect to the first question: Determining that seeing something is evidence for believing it depends on our knowing about how seeing works. In other words, it depends on our investigating the various physiologic and environmental factors that effect the performance of our visual faculties. The constitutivist, on the other hand, thinks that we can determine that seeing is evidence for believing just by introspecting on perceptual experience; i.e. by reflecting on what it is like to see something. 
+The externalist says, with respect to the first question: Determining that seeing something is evidence for believing it depends on our knowing about how seeing works. In other words, it depends on our investigating the various physiologic and environmental factors that effect the performance of our visual faculties. The internalist, on the other hand, thinks that we can determine that seeing is evidence for believing just by introspecting on perceptual experience; i.e. by reflecting on what it is like to see something. 
 
-With respect to the second question: The nonconstitutivist says that the physiologic and environmental factors involved in vision are what make seeing a form of evidence. The constitutivist, on the other hand, says that the phenomenology of visual experience is what makes it evidential.
+With respect to the second question: The externalist says that the physiologic and environmental factors involved in vision are what make seeing a form of evidence. The internalist says that the phenomenology of visual experience is what makes it evidential.
 
 The first chapter of the TCM, titled *The Epistemology of Evidentiality* [Prāmānyajñaptivādaḥ], centers on the epistemic question. The second chapter, *The Metaphysics of Evidentiality* [Prāmānyotpattivādaḥ], deals with the metaphysical question.
 
@@ -162,7 +162,7 @@ The word "establishing" implies that this is an epistemic thesis: the evidential
 
 # sec 5
 
-Gaṅgēśa tries sussing out what exactly 'evidential constitutivism' means. 
+Gaṅgēśa tries sussing out what exactly 'evidential internalism' means. 
 
 He starts by setting out a series of claims each of which cleave the space of possible theories into two based on whether it is affirmed or denied. Together these "options" provide something like coordinates to map out where different individual theories fall, giving us a bird's eye view of the theoretical landscape.
 
@@ -194,19 +194,19 @@ Note: mental states are, themselves, considered properties.
 So, e.g. introspection is the detector of a mental state.
 
 ## option 1
-The first option separates epistemic constitutivism from nonconstitutivism. So, it's particularly important for understanding what exactly the disagreement is. The affirmative option yields a constitutivist theory, traditionally associated with the discipline of Mīmāṁsā (Vedic Ritual Theory); the negative option yields a nonconstitutivist theory, associated with Gautamīya Nyāya [vidhikōṭir mīmāṁsakānām, niṣēdhakoṭir naiyyāyikānām]. 
+The first option separates epistemic internalism from externalism. So, it's particularly important for understanding what exactly the disagreement is. The affirmative option yields an internalist theory, traditionally associated with the discipline of Mīmāṁsā (Vedic Ritual Theory); the negative option yields a externalist theory, associated with Gautamīya Nyāya [vidhikōṭir mīmāṁsakānām, niṣēdhakoṭir naiyyāyikānām]. 
 
-According to the constitutivists, for <refn v="sec 5/detected">detecting</refn> that an observation is evidential, it is necessary and sufficient that
+According to the internalists, for <refn v="sec 5/detected">detecting</refn> that an observation is evidential, it is necessary and sufficient that
 
 1. we introspect that observation, and
 2. we have no evidence that the observation is not evidential
 
-When Gaṅgēśa says "just that cognitive process...", the word "just" [yāvat] indicates that this condition is necessary and sufficient for detecting evidentiality; i.e. that you don't need to infer any additional details about the observation that is not available to introspection [anumitigrāhyatvena siddasādhanavāraṇāya; *Prakāśa*]. Typically, the nonconstitutivist accepts the 'necessary' part but denies the 'sufficient' part.
+When Gaṅgēśa says "just that cognitive process...", the word "just" [yāvat] indicates that this condition is necessary and sufficient for detecting evidentiality; i.e. that you don't need to infer any additional details about the observation that is not available to introspection [anumitigrāhyatvena siddasādhanavāraṇāya; *Prakāśa*]. Typically, the externalist accepts the 'necessary' part but denies the 'sufficient' part.
 
 ## option 2
 This question takes a closer look at the first condition from option 1.
 
-Recall that, according to the constitutivist position, evidentiality is a function of an observation's content. One way to interpret this idea is to suppose that there are certain properties that an evidential observation has which can be observed by introspecting on that observation and which entail that this observation is evidential. Like when we introspect on our inference and judge whether or not it has a valid structure.
+Recall that, according to the internalist position, evidentiality is a function of an observation's content. One way to interpret this idea is to suppose that there are certain properties that an evidential observation has which can be observed by introspecting on that observation and which entail that this observation is evidential. Like when we introspect on our inference and judge whether or not it has a valid structure.
 
 In this case, in order to determine that an inferential observation E is evidential: 
 
@@ -219,7 +219,7 @@ In option 2, the question is if simple introspection is sufficient for detecting
 
 If only simple introspection is permitted, then, detecting that an observation happened and detecting that this observation is evidential proceeds from just a single observation. In other words, detecting that I observed some fact and detecting that I have evidence for that fact amounts to the same thing; there is nothing more to detecting evidentiality than detecting that an observation was made.
 
-We could perhaps distinguish between a *weak* constitutivist position, which answers "yes" to option (1) and "no" to option (2), from a *strong* constitutivist position that answers "yes" to both. For Gaṅgēśa's purposes, though, constitutivism just means "strong" constitutivism.
+We could perhaps distinguish between a *weak* internalist position, which answers "yes" to option (1) and "no" to option (2), from a *strong* internalist position that answers "yes" to both. For Gaṅgēśa's purposes, though, internalism just means "strong" internalism.
 
 ## option 3
 Options 3 and 4 divide up the landscape of consitutivist theories in terms of how they understand the structure of introspection.
@@ -230,7 +230,7 @@ A. Inferential — defended by Kumārila Bhaṭṭa
 B. Perceptual — defended by Murāri Miśra  
 C. Reflexive — defended by Guru (AKA Prabhākara Miśra)  
 
-Option 3 seperates type A constitutivism from B and C. <refn v="sec 5/option 4">Option 4</refn> seperates Type B from C.
+Option 3 seperates type A internalism from B and C. <refn v="sec 5/option 4">Option 4</refn> seperates Type B from C.
 
 What is distinctive about inferential theories of introspection is that, in such accounts, introspection is a complex mental process involving not just awareness of the introspected fact and its contents, but also facts about how thinking and feeling works, in general. 
 
@@ -251,13 +251,13 @@ A. Inferential — defended by Kumārila Bhaṭṭa
 B. Perceptual — defended by Murāri Miśra  
 C. Reflexive — defended by Guru (AKA Prabhākara Miśra)
 
-<refn v="sec 5/option 3">Option 3</refn> seperates Type A constitutivism from B and C. Option 4 seperates Type B from C.
+<refn v="sec 5/option 3">Option 3</refn> seperates Type A internalism from B and C. Option 4 seperates Type B from C.
 
 Unlike inferential accounts, perceptual and reflexive theories both understand introspection to provide direct and immediate access to the contents of our mind. 
 
 In a perceptual account, specifically, introspecting on some mental state E with content F involves us moving into another mental state E' that relates to E in much the same way that E relates to F. The analogy is that introspection is literally like looking into our minds. But, whereas visual perception connects the onlooker to some external fact; introspective perception connects the introspector to a fact about another mental state.
 
-In a reflexive account, on the other hand, any mental state E that involves awareness of some content F, also involves awareness of E, itself. In other words, self-awareness is an automatic and constitutive part of awareness. For this reason, reflexive accounts of introspection are referred to under the term "awareness constitutivism" [svataḥprakāśavādaḥ]. Not, to be confused with "evidential constitutivism" [svataḥprāmāṇyavādaḥ]. Type C constitutivists are constitutivists about *both* awareness and evidentiality.
+In a reflexive account, on the other hand, any mental state E that involves awareness of some content F, also involves awareness of E, itself. In other words, self-awareness is an automatic and just a part of awareness. For this reason, reflexive accounts of introspection are referred to under the term "awareness internalism" [svataḥprakāśavādaḥ]. Not, to be confused with "evidential internalism" [svataḥprāmāṇyavādaḥ]. Type C internalists are internalists about *both* awareness and evidentiality.
 
 This is what Gaṅgēśa is getting at when he asks if evidentiality is "detected by that which is just the evidentiality's own <refn v="sec 5/locus">locus</refn>. 
 
@@ -271,7 +271,7 @@ The word 'however' introduces an objection. The word 'no' indicates the response
 
 The issue revolves around a meta-theoretical problem called "siddhasādhanam", which I translated using the somewhat clunky phrase 'failure to differentiate'. Siddhasādhanam occurs when a set of theoretical possibilities presented as competing answers to some question or problem fail to differentiate themselves from each other. For example, this can happen if one of the competing theories entails the other. The concern is that such failure of differentiation leads to uninformative analysis and suggests a problem with the way the project has been framed.
 
-Here, the supposed failure to differentiate between constitutivist and nonconstitutivist accounts is with respect to certain theoretical forms of observation whose evidentiality is supposed to be necessarily constitutive. So—the objection goes—in the context of these edge cases, the constituvist-nonconstitutivist distinction fails and the whole debate becomes unintelligible. 
+Here, the supposed failure to differentiate between internalist and externalist accounts is with respect to certain theoretical forms of observation whose evidentiality is supposed to be necessarily internal. So—the objection goes—in the context of these edge cases, the constituvist-externalist distinction fails and the whole debate becomes unintelligible. 
 
 The reference to "mystical insight" [yogipratyakṣam], for example, has to do with the concept of "omniscience"—such as with God [īśvarajñānam] and sages [yogijñānam]. According to certain theistic philosophers [e.g. Naiyyāyikas], God's experience of the world involves grasping all facts simultaneously in a single observation. A consequence of this is that God's experience would detect it's own evidentiality—regardless of the general structure of the problem—since this falls under the scope of "all facts". 
 
@@ -279,18 +279,18 @@ It's telling that Gaṅgēśa's first response to this is to just chuck these ex
 
 The second example listed has to do with our knowledge of abstract objects and their properties [sāmānyalakṣaṇapratyāsattiḥ]; for example our knowledge of geometry. Some theorists argue that this sort of knowledge involves observations that are self-evidential and self-warranting. This example applies to "ordinary" people [asmadādayaḥ], as well; so, it doesn't depend on things like specific religious beliefs. But, the details of this process are still controversial; and not everyone analyzes this knowledge in the same way.
 
-Regardless, Gaṅgēśa also gives a second, less dismissive, response to this objection. Namely, the constitutivist thesis has a universal scope. It states that *all* observations are constitutively evidential. The nonconstitutivist thesis rejects this universal claim. It does not mean there cannot be some observations which happen to be self-evident. Moreover, constitutivism—at least, the strong form of the constitutivist thesis, we discussed under <refn v="sec 5/option 2">Option 2</refn>, above—is also a thesis about the *way* in which evidentiality constitutes observation. It says that a mental states being an observation of a fact is necessary and sufficient for its being evidential. Evidential observations are evidential, simply because they are observations of facts. Even when yogic intuition and abstract knowledge are self-evident, under the nonconstitutivist theory, it is not the case that they are evidential merely because they are factual observations. So, even in these edge cases, evidentiality is not *strongly* constitutive of these observation.
+Regardless, Gaṅgēśa also gives a second, less dismissive, response to this objection. Namely, the internalist thesis has a universal scope. It states that *all* observations are internally evidential. The externalist thesis rejects this universal claim. It does not mean there cannot be some observations which happen to be self-evident. Moreover, internalism—at least, the strong form of the internalist thesis, we discussed under <refn v="sec 5/option 2">Option 2</refn>, above—is also a thesis about the *way* in which evidentiality constitutes observation. It says that a mental state’s being an observation of a fact is necessary and sufficient for its being evidential. Evidential observations are evidential, simply because they are observations of facts. Even when yogic intuition and abstract knowledge are self-evident, under the externalist theory, it is not the case that they are evidential merely because they are factual observations. So, even in these edge cases, evidentiality is not *strongly* internal of these observation.
 
 # sec 7
 As far as I can tell, this is just a restatement of options 3-4 in terms of a concrete example. It's typically listed as a seperate option, but the *Prakāśa* and *Nyāyaśikhāmaṇi* make no real comment on this.
 
 # sec 8
 
-This is the first substantive critique of the constitutivist thesis. The voice is still not Gaṅgēśa's own. For the remainder of this section, Gaṅgēśa remains sympathetic to constitutivism. So, the purpose of the series of objections that begin with this passage is not really to critique constitutivism. Recall that, according to the constitutivist thesis, evidentiality is just a consequence of the structure of observation. So, one way of thinking about what is going on here, at a meta level, is that working through the constitutivist-nonconstitutivist debates is a way for us to start thinking more deeply about this structure.
+This is the first substantive critique of the internalist thesis. The voice is still not Gaṅgēśa's own. For the remainder of this section, Gaṅgēśa remains sympathetic to internalism. So, the purpose of the series of objections that begin with this passage is not really to critique internalism. Recall that, according to the internalist thesis, evidentiality is just a consequence of the structure of observation. So, one way of thinking about what is going on here, at a meta level, is that working through the internalist-externalist debates is a way for us to start thinking more deeply about this structure.
 
 With that preamble out of the way, let's start reading this passage.
 
-The four "definitions" of evidentiality listed in the above passage represent different aspects of the structure of observation that are suggested as being what it is, under a constitutivist thesis, that makes that observation evidential.  It's best to start at the bottom and work our way up.
+The four "definitions" of evidentiality listed in the above passage represent different aspects of the structure of observation that are suggested as being what it is, under a internalist thesis, that makes that observation evidential.  It's best to start at the bottom and work our way up.
 
 A two part objection is then presented, based on these definitions.
 
@@ -355,12 +355,12 @@ This is a subtle but important idea; and reveals something deep about the struct
 
 The idea is this. Accepting some combination of (1)-(4) as the definition of evidentiality means that an evidential mental state is (1) factual, (2) nonrecollective.
 
-And, moreover, evidential constitutivism claims that 
+And, moreover, evidential internalism claims that 
 
 A. properties (1) and (2) are what make a mental state evidential  
 B. detecting via introspection that a mental state has (1) and (2) is how we know that it is evidential  
 
-Claim A represents metaphysical constituvism and Claim B represents epistemic constitutivism. The objection above pertains just to Claim B (metaphysical constitutivism is the topic of chapter 2). 
+Claim A represents metaphysical constituvism and Claim B represents epistemic internalism. The objection above pertains just to Claim B (metaphysical internalism is the topic of chapter 2). 
 
 Under <refn v="not being modulated by a subject unlocated property">Def (1)</refn>, above, factuality is understood in the following way: A mental state is factual iff its content consists of two parts—a subject and a predicate—and the subject is the locus of the predicate.
 
@@ -401,7 +401,7 @@ We'd need to have facts like:
 
 where X stands for some bundle of properties that are observable about the contents of M1 and which are necessary and sufficient for determing the evidentiality of *M*. 
 
-The problem with this is that if there were such a bundle of properties, possessed by objects, which could be observed directly; then, failing to observe such a bundle of properties when introspecting some observation would mean that that observation was not evidential. But, this would entail constitutivism about nonevidentiality, as well. And, as we'll see a bit later in this section, constitutivism about evidentiality necessitates nonconstitutivism about nonevidentiality.
+The problem with this is that if there were such a bundle of properties, possessed by objects, which could be observed directly; then, failing to observe such a bundle of properties when introspecting some observation would mean that that observation was not evidential. But, this would entail internalism about nonevidentiality, as well. And, as we'll see a bit later in this section, internalism about evidentiality necessitates externalism about nonevidentiality.
 
 # sec 9
 
@@ -411,7 +411,8 @@ This is mainly an answer to the first objection from the previous passage. The a
 
 Here, Gaṅgēśa tries to give an account of what exactly it means for an observation to present a fact, rather than just objects. The explanation is fairly technical, and involves references to "determination" [nirūpaṇam] and "delimitation" [avacchedanam]—theoretical concepts within Navyanyāya logic. 
 
-A detailed description of these concepts is beyond the scope of these notes. But the basic idea is that properties like "having mode P" and "having referant T" are not just binary relations between a mental state and an object. Instead, their form is more like "having mode P of T" or "having referant T as P"—explicitly linking P and T together.
+A detailed description of these concepts is beyond the scope of these notes. But the basic idea is that properties like "having mode P" and "having referant T" are
+not just binary relations between a mental state and an object. Instead, their form is more like "having mode P of T" or "having referant T as P"—explicitly linking P and T together.
 
 Gaṅgēśa gives a concrete example at the end, to tie things together and make the technical jargon more intuitive.
 
@@ -420,35 +421,35 @@ Gaṅgēśa gives a concrete example at the end, to tie things together and make
 
 If evidentiality is consitutive of observation; then, wouldn't all observations be evidential? That's the question here.
 
-The response represents another crucial difference between constitutivist and nonconstitutivist accounts of evidentiality. For the constitutivist, there is a fundemental asymmetry between evidence and error. It is in the nature of observation to act as justification for belief and action. This being the case, error is an abberation; a deviation from the norm. Evidentiality is natural and automatic. Error is contingent and is the effect of external causes.
+The response represents another crucial difference between internalist and externalist accounts of evidentiality. For the internalist, there is a fundemental asymmetry between evidence and error. It is in the nature of observation to act as justification for belief and action. This being the case, error is an abberation; a deviation from the norm. Evidentiality is natural and automatic. Error is contingent and is the effect of external causes.
 
 But, if that were true, wouldn't introspection 'detect' erroneous observations as evidence?
 
-Yes! Introspection, as a form of observation, itself can be erroneous or evidential. Under normal circumstances, introspecting on an error does result in a belief in that error. The introspection that mediates this belief is also erroneous. This is what we would expect, and is exactly what happens! But, when we become aware of additional evidence that challenges the previous observation; our belief becomes doubt. This is what we mean when we say that the detection of error is nonconstitutive. Believing that an observation is erroneous requires evidence. But believing that an observation is evidence does not. 
+Yes! Introspection, as a form of observation, itself can be erroneous or evidential. Under normal circumstances, introspecting on an error does result in a belief in that error. The introspection that mediates this belief is also erroneous. This is what we would expect, and is exactly what happens! But, when we become aware of additional evidence that challenges the previous observation; our belief becomes doubt. This is what we mean when we say that the detection of error is external. Believing that an observation is erroneous requires evidence. But believing that an observation is evidence does not. 
 
 An example might help to make this idea intuitive. Let's say you're in an unfamiliar part of town and are trying to get to a particular place; the library let's say. You're lost. So, you wave down some random person on the street and ask, "Where's the library?" The person tells you, confidently, "walk two blocks straight ahead, and turn right at the intersection. Walk down one more block and you'll see the library on your left." You follow these directions and make it to the library.
 
 This is a totally normal and rational way to proceed. You asked someone for directions and, on this basis, formed a belief about the location of the library. You then acted on this belief and succesfully reached your destination. Your belief was justified by the evidence that was the stranger's testimony. The evidentiality of that testimony was not something you needed to evaluate right then and there for you to take your belief to be justified. When someone asks you, after the fact, how you knew where the library was. You could say, "because someone told me", and not be obliged to answer further questions like "how do you know that that person was reliable". 
 
-But! If you follow the directions and don't make it to the right place. Your previous belief now becomes doubt. When you introspect on your evidence for that prior belief, you read the testimony as doubtful or erroneous; when, earlier, you took it to be evidential. That is the nonconstitutiveness of error, in action.
+But! If you follow the directions and don't make it to the right place. Your previous belief now becomes doubt. When you introspect on your evidence for that prior belief, you read the testimony as doubtful or erroneous; when, earlier, you took it to be evidential. That is the externalness of error, in action.
 
 # sec 11
 
-Like in previous passages, the first paragraph is an objection to constitutivism and the second paragraph is a response.
+Like in previous passages, the first paragraph is an objection to internalism and the second paragraph is a response.
 
-In order for a mental state to be evidential, it must be novel and factual. The novelty criterion exludes recollection from being considered evidence in its own right—it's justification power comes from the evidentiality of the original observation that it's a recollection *of*. 
+In order for a mental state to be evidential, it must be novel and factual. The novelty criterion exludes recollection from being considered evidence in its own right—it's justificational power comes from the evidentiality of the original observation that it's a recollection *of*. 
 
 The factuality criterion seperates observations from three other kinds of mental content: (1) unstructured mental states that don't inform us about the properties of objects; (2) states of doubt which are indeterminate and fail to assert anything; (3) and erroneous states that convey non-factual information.
 
 Earlier, we said that a mental state is factual if it presents a fact as a fact. In other words, it presents an object as possessing a property that it possesses. Another way of saying the same thing is that a mental state is factual if its content is true.
 
-When put this way, there seems to be a problem with the constitutivist thesis. Remember that the idea behind epsitemic constitutivism is that we can detect the evidentiality of a mental state by an act of simple introspection. But, while introspection tells us that a mental state has such and such content, it doesn't tell us that that content is true.
+When put this way, there seems to be a problem with the internalist thesis. Remember that the idea behind epsitemic internalism is that we can detect the evidentiality of a mental state by an act of simple introspection. But, while introspection tells us that a mental state has such and such content, it doesn't tell us that this content is true.
 
 Going back to the earlier discussion about error—this is why introspection can't detect error. Because, having structured mental content—i.e. presenting some information as a fact—is just what error and evidence have in common. The difference is that error presents a nonfact as a fact; whereas, evidence doesn't. So, the fact that error and evidence are indistinguishable in introspection suggests that "truth" is not something that introspection can detect. All it can detect is that the content of a mental state involves presenting some object as having some property. But, it can't tell us whether or not that object really has that property.
 
-And, this makes sense. Truth is a non-mental property of mental content. But, because introspection can only detect mental properties, it has no access to the truth value of introspected mental states content. In order to detect the truth of some mental content, you have to look "out" at the world, not "into" you own mind. That's why the objector says truth "though appearing in the first-order cognition, does not appear in introspection". So, epistemic constitutivism is a nonstarter.
+And, this makes sense. Truth is a non-mental property of mental content. But, because introspection can only detect mental properties, it has no access to the truth value of introspected mental states content. In order to detect the truth of some mental content, you have to look "out" at the world, not "into" you own mind. That's why the objector says truth "though appearing in the first-order cognition, does not appear in introspection". So, epistemic internalism is a nonstarter.
 
-The constitutivist has basically two responses to this. The first is to deny that introspection needs *independent* access to external facts in order for it to detect the truth of the introspecting mental state. If the first order mental state can detect truth, then it must do so on the basis of its content—since, that is the only way in which a mental state can present information. And, if something is part of a mental state's content; then, it should be accessible via introspection. Of course, it doesn't have *independent* access to truth, but why should that matter? All this would mean is that if the orginal mental state was erroneous, then introspection would be too. But, as we just established in the last passage, this is exactly what we expect.
+The internalist has basically two responses to this. The first is to deny that introspection needs *independent* access to external facts in order for it to detect the truth of the introspecting mental state. If the first order mental state can detect truth, then it must do so on the basis of its content—since, that is the only way in which a mental state can present information. And, if something is part of a mental state's content; then, it should be accessible via introspection. Of course, it doesn't have *independent* access to truth, but why should that matter? All this would mean is that if the orginal mental state was erroneous, then introspection would be too. But, as we just established in the last passage, this is exactly what we expect.
 
 The second response is just to reject the idea that there is an actual property called "truth". This goes back to the earlier way of characterizing factuality. A structured mental state presents an object as possessing a property. It is factual if that object does possess that property. In other words, the factuality of the mental state is nothing more than the existance of a relation between its subject and predicate. But, as we already showed earlier, this relation must be present as part of the content of the mental state *and* must be accessible to introspection, in order for a mental state to count as "structured", in the first place. So, there is nothing additional, like a property of "truth", necessary to account for factuality. 
 
@@ -457,11 +458,11 @@ The second response is just to reject the idea that there is an actual property 
 
 This is basically an end of section review. Objections (1)-(3) are just slightly different reformulations of the various objections that appeared earlier in the section. Gaṅgēśa leaves the specific responses to each objection as an exercise for the reader. 
 
-The last bit provides a summary restatement of the constitutivist thesis.
+The last bit provides a summary restatement of the internalist thesis.
 
 # sec 13
 
-Up until this point, the constitutivist has just been responding to critiques of their position from the nonconstituvist. But, they haven't given any positive reason to think that constitutivism is correct. This last passage gives something like a master argument for epistemic constitutivism. 
+Up until this point, the internalist has just been responding to critiques of their position from the nonconstituvist. But, they haven't given any positive reason to think that internalism is correct. This last passage gives something like a master argument for epistemic internalism. 
 
 Here's the idea:
 
@@ -475,7 +476,7 @@ You respond by citing some observation—either first-hand or via some indirect 
 
 "I read this in my geography textbook."
 
-Under a nonconstitutivist theory of evidence, there is some additional fact G that makes this observation evidential. What this means is that our challenger can turn right around and ask:
+Under a externalist theory of evidence, there is some additional fact G that makes this observation evidential. What this means is that our challenger can turn right around and ask:
 
 "Ok, but how do you know that that textbook is a source of evidence?"
 
@@ -483,4 +484,4 @@ If the purpose of citing evidence was to answer doubt, then we haven't really  a
 
 Here's the bottom line: In order for evidence to act as a blocker of doubt, it has to be able to block doubt not just about the fact that it evidences, but *also* about the fact that makes it evidence! 
 
-This is the fundamental intuition behind evidential constitutivism. 
+This is the fundamental intuition behind evidential internalism. 

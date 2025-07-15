@@ -19,7 +19,7 @@ So—aiming to raise up the Earth itself, mired in the murk of dispair, the <spa
 
 <div class="annotation section" data-v="sec 0"></div>
 
-But—it is not correct that the intellectual practice proceeding from an analysis of our evidential instruments is necessarily connected to the attainment of the highest good. For, it is not possible to analyse the instruments, in the first place. This, after all, depends on an analysis of evidentiality; and the latter—as we will demonstrate—cannot be accomplished either from a <span class="annotation n" data-v="*"><span class="annotation tl" data-v="*">constitutivist<span class="annotation tltxt" data-v="*">svataḥ</span></span> or <span class="annotation tl" data-v="*">nonconstitutivist<span class="annotation tltxt" data-v="*">parataḥ</span></span> standpoint</span>.
+But—it is not correct that the intellectual practice proceeding from an analysis of our evidential instruments is necessarily connected to the attainment of the highest good. For, it is not possible to analyse the instruments, in the first place. This, after all, depends on an analysis of evidentiality; and the latter—as we will demonstrate—cannot be accomplished either from an <span class="annotation n" data-v="*"><span class="annotation tl" data-v="*">internalist<span class="annotation tltxt" data-v="*">svataḥ</span></span> or <span class="annotation tl" data-v="*">externalist<span class="annotation tltxt" data-v="*">parataḥ</span></span> standpoint</span>.
 
 <div class="annotation section" data-v="sec 1"></div>
 
@@ -31,7 +31,7 @@ No—because when we face doubt about our evidence; then, confirming that such a
 
 <div class="annotation section" data-v="sec 3"></div>
 
-Then—let us take establishing this to be <span class="annotation refn" data-v="sec 1/constitutivist or nonconstitutivist standpoint">constitutive</span>.
+Then—let us take establishing this to be <span class="annotation refn" data-v="sec 1/internalist or externalist standpoint">internal</span>.
 
 <div class="annotation section" data-v="sec 4"></div>
 
@@ -47,7 +47,7 @@ The evidentiality of an observation
 
 — <span class="annotation n" data-v="option 2">Yes or No?</span>
 
-Because whereas, in a nonconstitutivist account, a mental state must be observed prior to detecting its evidentiality being detected; in a constitutivist account, a cognition is detected as evidential, at the onset.
+Because whereas, in an externalist account, a mental state must be observed prior to detecting its evidentiality being detected; in an internalist account, a cognition is detected as evidential, at the onset.
 
 3\. is detected by that which is just the detector of its own <span class="annotation tl" data-v="*"><span class="annotation n" data-v="*">locus</span><span class="annotation tltxt" data-v="*">āśraya</span></span>
 
@@ -86,7 +86,7 @@ Assuming the <span class="annotation n" data-v="*">universal factuality</span> o
 <span class="annotation n" data-v="argument 1">it is not detected either by that cognition, itself, or by a perceptual state introspecting it. For, without awareness of the property "not presenting a subject nonpredicating property", etc.; one cannot be aware of its predication of a mental state.</span>
 </p>
 <p>
-<span class="annotation n" data-v="argument 2">Nor, under anti-perceptualism about introspection, can a cognition's evidentiality be detected via an inference from cognitivity; for the property 'being cognized', on its own, does not track with properties like "being evident". Nor does it work to modify the inference to 'being observed in a manner conducive to evidence'; since, such a property would not be manifest at the onset. Otherwise, even the detection of nonevidentiality would be constitutive, via an inference from 'not being observed in a manner conducive to evidence'.</span>
+<span class="annotation n" data-v="argument 2">Nor, under anti-perceptualism about introspection, can a cognition's evidentiality be detected via an inference from cognitivity; for the property 'being cognized', on its own, does not track with properties like "being evident". Nor does it work to modify the inference to 'being observed in a manner conducive to evidence'; since, such a property would not be manifest at the onset. Otherwise, even the detection of nonevidentiality would be internal, via an inference from 'not being observed in a manner conducive to evidence'.</span>
 </p>
 <div class="annotation section" data-v="sec 8"></div>
 
@@ -105,11 +105,11 @@ Since the form of a relatum in awareness is <span class="annotation tl" data-v="
 
 If this were the case, then nonevidential states would also be detected as being evidential; since the introspecting state would have for its content predication by a property which is the content of an error. Nor could you respond that since evidentiality is not known at the onset, it would not be imposed on the introspecting state. After all, because the evidentiality of a cognition is detected by the mental state detecting that cognition; it is observed in introspection—like with awareness of an absence, where both the absence and the absentee are presented.
 
-The nonevidentiality of a P-presenting cognition of a P-nonlocus is cognized nonconstitutively. Since, so long as the error is not made explicit, that the object lacks that property is not the content of the introspecting cognition. Nor should you say that insofar as the content of introspection includes the full content of the introspected cognition, there would be a conflation of the cognition presenting that error with the error itself.  After all, so long as no defeater appears, this is precisely what we expect. But, when we do encounter a defeater, the conflation is blocked; because, importation of the error from the introspected cognition ceases. This is also why there is no error when observing someone else's mistake. 
+The nonevidentiality of a P-presenting cognition of a P-nonlocus is cognized externally. Since, so long as the error is not made explicit, that the object lacks that property is not the content of the introspecting cognition. Nor should you say that insofar as the content of introspection includes the full content of the introspected cognition, there would be a conflation of the cognition presenting that error with the error itself.  After all, so long as no defeater appears, this is precisely what we expect. But, when we do encounter a defeater, the conflation is blocked; because, importation of the error from the introspected cognition ceases. This is also why there is no error when observing someone else's mistake. 
 
 <div class="annotation section" data-v="sec 10"></div>
 
-Truth is not just a matter of predicating one thing of another. Rather, it is a peculiar property of cognitive content which, though appearing in the first-order cognition, does not appear in introspection due the mental organ's lacking independent access to external facts.
+Truth is not just a matter of predicating one thing of another. Rather, it is a peculiar property of cognitive content which, though appearing in the first-order cognition, does not appear in introspection due the mental organ's lacking independent access to nonmental facts.
 
 No—because, insofar as it, too, is a part of the content of the first-order cognition; this "peculiar property of cognitive content" would be imported into the introspecting state, just like the subject and predicate. Moreover, we have reason to doubt the existence of such a property of cogntive content.
 
@@ -117,11 +117,11 @@ No—because, insofar as it, too, is a part of the content of the first-order co
 
 From this, our responses to the following objections are also clear:
 
-1. Assuming introspection is not reflexive: the detection of evidentiality cannot be constitutive because a property cannot be detected without detecting its locus. Detecting on the basis of its structure that a mental state is auditory, olfactory, etc. does not mean there is awareness of it as evidential. 
+1. Assuming introspection is not reflexive: the detection of evidentiality cannot be internal because a property cannot be detected without detecting its locus. Detecting on the basis of its structure that a mental state is auditory, olfactory, etc. does not mean there is awareness of it as evidential. 
 
-2. Assuming introspection is reflexive: insofar as a cognition only observes itself, it lacks the capacity to detect its properties. Or, if it does have this capacity; nonevidentiality would also be detected constitutively.
+2. Assuming introspection is reflexive: insofar as a cognition only observes itself, it lacks the capacity to detect its properties. Or, if it does have this capacity; nonevidentiality would also be detected internally.
 
-3. Assuming introspection is not reflexive: the introspecting cognition, whether inferential or perceptual, cannot detect evidentiality as exclusive of error, because of a lack of correlation. That is—if it was detected only where it was present, then the detection of nonevidentiality would also be constitutive. Moreover, neither inference nor inner perception are causally connected to such content.
+3. Assuming introspection is not reflexive: the introspecting cognition, whether inferential or perceptual, cannot detect evidentiality as exclusive of error, because of a lack of correlation. That is—if it was detected only where it was present, then the detection of nonevidentiality would also be internal. Moreover, neither inference nor inner perception are causally connected to such content.
 
 So, evidentiality is defined either as
 
@@ -132,6 +132,6 @@ because this is what is detected by introspection, whether understood as reflexi
 
 <div class="annotation section" data-v="sec 12"></div>
 
-Moreover, if detection of evidentiality was nonconstitutive; then, with respect to the evidentiality detector; believing its content—including the relevent inferential sign, target, and entailment relation—would, in turn, depend on detecting *it's* evidentiality. And, insofar as this too would proceed nonconstitutively, it would trigger a regress in the direction of both process and result. If this were so, we could not detect evidentiality at all. As such, we can also prove by reductio that detection of evidentiality is constitutive.
+Moreover, if detection of evidentiality was external; then, with respect to the evidentiality detector; believing its content—including the relevent inferential sign, target, and entailment relation—would, in turn, depend on detecting *it's* evidentiality. And, insofar as this too would proceed externally, it would trigger a regress in the direction of both process and result. If this were so, we could not detect evidentiality at all. As such, we can also prove by reductio that detection of evidentiality is internal.
 
 <div class="annotation section" data-v="sec 13"></div>
